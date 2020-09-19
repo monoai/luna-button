@@ -2,8 +2,6 @@
 
 Luna button [Click here to visit LINK](LINK)
 
-[![Build Status](https://travis-ci.org/zyzsdy/aqua-button.svg?branch=master)](https://travis-ci.org/zyzsdy/aqua-button)
-
 Related Links:
 
 * [Himemori Luna's Youtube channel](https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw)
