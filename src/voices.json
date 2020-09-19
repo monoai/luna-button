@@ -4,7 +4,8 @@
             "categoryName": "actmoe",
             "categoryDescription": {
                 "zh-CN": "萌",
-                "ja-JP": "もえ"
+                "ja-JP": "もえ",
+                "en-US": "Testo"
             },
             "voiceList": [
                 {

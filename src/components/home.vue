@@ -33,7 +33,7 @@
 <style lang="scss" scoped>
 .cate-header{
     background-color: rgba(255, 0, 128, 0.404);
-    border: 1px solid rgba(0, 0, 0, 0.5);
+    border: 2px solid #ff546d;
     border-radius: 10px;
     text-align: center;
     font-size: 20px;
@@ -44,12 +44,15 @@
     text-align: center;
 }
 .cate-body button{
+    color: #000000;
+    background-color: #ffdde2;
+    border-color: #ff546d;
     margin: 5px;
 }
 .btn-new {
-    color: #fff;
-    background-color: rgb(38, 176, 211);
-    border-color: rgb(211, 38, 211);
+    color: #000000;
+    background-color: #ffdde2;
+    border-color: #ff546d;
     max-width: 100%;
     word-wrap: break-word !important;
     word-break: break-all !important;
@@ -58,7 +61,7 @@
 .checkbox {
     display: inline-block;
     vertical-align: middle;
-    margin: 0 1px 0 0;
+    margin: 0 5px 3px 0;
 }
 </style>
 

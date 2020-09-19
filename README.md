@@ -1,14 +1,14 @@
-# Aqua button
+# Luna button
 
-Aqua button [Click here to visit https://aquaminato.moe](https://aquaminato.moe)
+Luna button [Click here to visit LINK](LINK)
 
 [![Build Status](https://travis-ci.org/zyzsdy/aqua-button.svg?branch=master)](https://travis-ci.org/zyzsdy/aqua-button)
 
 Related Links:
 
-* [Aqua Minato's Youtube channel](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)
+* [Himemori Luna's Youtube channel](https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw)
 
-* [Aqua Minato's Twitter](https://twitter.com/minatoaqua)
+* [Himemori Luna's Twitter](https://twitter.com/himemoriluna)
 
 ## Contributing
 
@@ -62,20 +62,4 @@ This project is a work of fans and is not related to the hololive official.
 
 ## Special Thanks
 
-This project is supported by MeowSound Idols.
-
-This project is modified based on the [Meamea button](https://github.com/zyzsdy/meamea-button).
-
-### 致Fork了本代码库的各位按钮站站长
-
-不必在左下角标识“Powered By MeowSound Idols”，这不是版权标记的一部分。
-
-Aqua Button（本站）和Meamea Button由MeowSound Idols托管并运营，因此加入了上述标识。
-
-**To all the button webmasters who Fork this code base**
-
-It is not necessary to mark "Powered By MeowSound Idols" in the lower left corner, this is not part of the copyright mark.
-
-Aqua Button (this site) and Meamea Button are hosted and maintained by MeowSound Idols, so the above mark has been added.
-
-
+This project is modified based on the [Aqua button](https://github.com/zyzsdy/aqua-button).

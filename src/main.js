@@ -17,7 +17,7 @@ import GlobalConst from './globalconst'
 import VoiceList from './voices.json'
 
 
-//提取标签到语言文件
+//Extracting tags to language files
 let addZh_CN = { voice: {}, voicecategory: {} };
 let adden_US = { voice: {}, voicecategory: {} };
 let addja_JP = { voice: {}, voicecategory: {} };
@@ -64,13 +64,13 @@ const messages = {
   'ja-JP': emja_JP
 }
 
-let locale = 'zh-CN';
+let locale = 'en-US';
 if(/ja/i.test(navigator.language)){
   locale = 'ja-JP';
 }
-// else if(/en/i.test(navigator.language)){
-//   locale = 'en-US';
-// }
+else if(/cn/i.test(navigator.language)) {
+  locale = 'zh-CN';
+}
 
 const i18n = new VueI18n({
   locale,
