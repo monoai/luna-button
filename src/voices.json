@@ -363,31 +363,33 @@
             ]
         },
         {
-            "categoryName": "common",
+            "categoryName": "english",
             "categoryDescription": {
                 "zh-CN": "通用",
                 "ja-JP": "通常",
-                "en-US": "Test2"
+                "en-US": "English Phrases"
             },
             "voiceList": [
                 {
-                    "name": "a-37",
-                    "path": "a-37.mp3",
+                    "name": "EN_I drink Coca Cola",
+                    "path": "EN_I drink Coca Cola.mp3",
                     "description": {
                         "zh-CN": "我要吃了",
-                        "ja-JP": "いただきます"
+                        "ja-JP": "いただきます",
+                        "en-US": "I drink Coca Cola"
                     }
                 },
                 {
-                    "name": "a-38",
-                    "path": "a-38.mp3",
+                    "name": "EN_Im brain",
+                    "path": "EN_Im brain.mp3",
                     "description": {
                         "zh-CN": "知道吗知道吗知道吗？",
-                        "ja-JP": "してますかしてますかしてますか？"
+                        "ja-JP": "してますかしてますかしてますか？",
+                        "en-US": "I'm brain, bakuhatsu!"
                     }
                 },
                 {
-                    "name": "a-39",
+                    "name": "test",
                     "path": "a-39.mp3",
                     "description": {
                         "zh-CN": "很厉害吧！",
