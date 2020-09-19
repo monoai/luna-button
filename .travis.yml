@@ -15,5 +15,5 @@ after_success:
 - scp -P $deploy_port -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null
   luna.tar.gz ${deploy_user}@${deploy_host}:/var/www/luna/
 - ssh -p $deploy_port -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null
-  ${deploy_user}@${deploy_host} 'cd /var/www/luna && tar zxvf aqua.tar.gz && rm -f
+  ${deploy_user}@${deploy_host} 'cd /var/www/luna && tar zxvf luna.tar.gz && rm -f
   luna.tar.gz'
