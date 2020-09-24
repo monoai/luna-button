@@ -1,647 +1,140 @@
 {
     "voices": [
         {
-            "categoryName": "actmoe",
+            "categoryName": "lunaSFX",
             "categoryDescription": {
-                "zh-CN": "萌",
-                "ja-JP": "もえ",
-                "en-US": "Test Name"
+                "ja-JP": "Luna Sounds (Placeholder)",
+                "en-US": "Luna Sounds"
             },
             "voiceList": [
                 {
-                    "name": "a-1",
-                    "path": "a-1.mp3",
+                    "name": "Kamehameha",
+                    "path": "SFX_Kamehameha.mp3",
                     "description": {
-                        "zh-CN": "kon↑kon↑kon→kon↑kon→kon↓",
-                        "ja-JP": "kon↑kon↑kon→kon↑kon→kon↓"
+                        "ja-JP": "Kamehameha (Placeholder)",
+                        "en-US": "Kamehameha"
                     }
                 },
                 {
-                    "name": "a-2",
-                    "path": "a-2.mp3",
+                    "name": "Giggle1",
+                    "path": "SFX_Giggle1.mp3",
                     "description": {
-                        "zh-CN": "哈~哈~哈~哈~哎",
-                        "ja-JP": "えっ~えっ~えっ~えっ~え"
-                    }
-                },
-                {
-                    "name": "a-3",
-                    "path": "a-3.mp3",
-                    "description": {
-                        "zh-CN": "喷嚏",
-                        "ja-JP": "くしゃみ"
-                    }
-                },
-                {
-                    "name": "a-4",
-                    "path": "a-4.mp3",
-                    "description": {
-                        "zh-CN": "喷嚏1",
-                        "ja-JP": "くしゃみ1"
-                    }
-                },
-                {
-                    "name": "a-5",
-                    "path": "a-5.mp3",
-                    "description": {
-                        "zh-CN": "喷嚏三连",
-                        "ja-JP": "くしゃみ三連"
-                    }
-                },
-                {
-                    "name": "a-6",
-                    "path": "a-6.mp3",
-                    "description": {
-                        "zh-CN": "笨蛋",
-                        "ja-JP": "バカ"
-                    }
-                },
-                {
-                    "name": "a-7",
-                    "path": "a-7.mp3",
-                    "description": {
-                        "zh-CN": "爸爸　谢谢～",
-                        "ja-JP": "パパ　ありがとう～"
-                    }
-                },
-                {
-                    "name": "a-8",
-                    "path": "a-8.mp3",
-                    "description": {
-                        "zh-CN": "爸爸谢谢",
-                        "ja-JP": "パパありがどう"
-                    }
-                },
-                {
-                    "name": "a-9",
-                    "path": "a-9.mp3",
-                    "description": {
-                        "zh-CN": "holoholohololive！！",
-                        "ja-JP": "ホロホロホロライブ！！"
-                    }
-                },
-                {
-                    "name": "a-10",
-                    "path": "a-10.mp3",
-                    "description": {
-                        "zh-CN": "伸懒腰",
-                        "ja-JP": "のび1"
-                    }
-                },
-                {
-                    "name": "a-11",
-                    "path": "a-11.mp3",
-                    "description": {
-                        "zh-CN": "伸懒腰2",
-                        "ja-JP": "のび2"
-                    }
-                },
-                {
-                    "name": "a-12",
-                    "path": "a-12.mp3",
-                    "description": {
-                        "zh-CN": "偷心",
-                        "ja-JP": "あなたのハートも頂きます"
-                    }
-                },
-                {
-                    "name": "a-13",
-                    "path": "a-13.mp3",
-                    "description": {
-                        "zh-CN": "傻笑",
-                        "ja-JP": "笑い1"
-                    }
-                },
-                {
-                    "name": "a-14",
-                    "path": "a-14.mp3",
-                    "description": {
-                        "zh-CN": "傻笑1",
-                        "ja-JP": "笑い2"
-                    }
-                },
-                {
-                    "name": "a-15",
-                    "path": "a-15.mp3",
-                    "description": {
-                        "zh-CN": "傻笑2",
-                        "ja-JP": "笑い3"
-                    }
-                },
-                {
-                    "name": "a-16",
-                    "path": "a-16.mp3",
-                    "description": {
-                        "zh-CN": "傻笑3",
-                        "ja-JP": "笑い4"
-                    }
-                },
-                {
-                    "name": "a-17",
-                    "path": "a-17.mp3",
-                    "description": {
-                        "zh-CN": "傻笑4",
-                        "ja-JP": "笑い5"
-                    }
-                },
-                {
-                    "name": "a-18",
-                    "path": "a-18.mp3",
-                    "description": {
-                        "zh-CN": "傻笑5",
-                        "ja-JP": "笑い6"
-                    }
-                },
-                {
-                    "name": "a-19",
-                    "path": "a-19.mp3",
-                    "description": {
-                        "zh-CN": "傻笑6",
-                        "ja-JP": "笑い7"
-                    }
-                },
-                {
-                    "name": "a-20",
-                    "path": "a-20.mp3",
-                    "description": {
-                        "zh-CN": "傻笑7",
-                        "ja-JP": "笑い8"
-                    }
-                },
-                {
-                    "name": "a-21",
-                    "path": "a-21.mp3",
-                    "description": {
-                        "zh-CN": "傻笑8",
-                        "ja-JP": "笑い9"
-                    }
-                },
-                {
-                    "name": "a-22",
-                    "path": "a-22.mp3",
-                    "description": {
-                        "zh-CN": "剪刀",
-                        "ja-JP": "チョキ"
-                    }
-                },
-                {
-                    "name": "a-23",
-                    "path": "a-23.mp3",
-                    "description": {
-                        "zh-CN": "吃瘪",
-                        "ja-JP": "ぐずり"
-                    }
-                },
-                {
-                    "name": "a-24",
-                    "path": "a-24.mp3",
-                    "description": {
-                        "zh-CN": "吸口水",
-                        "ja-JP": "よだれ1"
-                    }
-                },
-                {
-                    "name": "a-25",
-                    "path": "a-25.mp3",
-                    "description": {
-                        "zh-CN": "吸口水2",
-                        "ja-JP": "よだれ2"
-                    }
-                },
-                {
-                    "name": "a-26",
-                    "path": "a-26.mp3",
-                    "description": {
-                        "zh-CN": "喵喵 我一直都最喜欢阿库娅酱喵",
-                        "ja-JP": "にゃーにゃーは、あくあちゃんのことずーっとだいすきにゃあ♪"
-                    }
-                },
-                {
-                    "name": "a-27",
-                    "path": "a-27.mp3",
-                    "description": {
-                        "zh-CN": "喵喵，阿库娅喵哒哟",
-                        "ja-JP": "にゃんにゃん、あくあにゃんだよ～"
-                    }
-                },
-                {
-                    "name": "a-28",
-                    "path": "a-28.mp3",
-                    "description": {
-                        "zh-CN": "妈妈",
-                        "ja-JP": "マ、ママ"
-                    }
-                },
-                {
-                    "name": "a-29",
-                    "path": "a-29.mp3",
-                    "description": {
-                        "zh-CN": "妮可妮可妮",
-                        "ja-JP": "にっこにっこにー"
-                    }
-                },
-                {
-                    "name": "a-30",
-                    "path": "a-30.mp3",
-                    "description": {
-                        "zh-CN": "布",
-                        "ja-JP": "パー"
-                    }
-                },
-                {
-                    "name": "a-31",
-                    "path": "a-31.mp3",
-                    "description": {
-                        "zh-CN": "弹舌？",
-                        "ja-JP": "舌べらクリッカー"
-                    }
-                },
-                {
-                    "name": "a-32",
-                    "path": "a-32.mp3",
-                    "description": {
-                        "zh-CN": "打哈欠",
-                        "ja-JP": "あくび"
-                    }
-                },
-                {
-                    "name": "a-33",
-                    "path": "a-33.mp3",
-                    "description": {
-                        "zh-CN": "打嗝",
-                        "ja-JP": "ッポ(これなんだ？)"
-                    }
-                },
-                {
-                    "name": "a-34",
-                    "path": "a-34.mp3",
-                    "description": {
-                        "zh-CN": "石头",
-                        "ja-JP": "グー"
-                    }
-                },
-                {
-                    "name": "a-35",
-                    "path": "a-35.mp3",
-                    "description": {
-                        "zh-CN": "蜜汁口胡",
-                        "ja-JP": "あゆぽれぽーちょぽれぇ"
-                    }
-                },
-                {
-                    "name": "a-36",
-                    "path": "a-36.mp3",
-                    "description": {
-                        "zh-CN": "阿库碳",
-                        "ja-JP": "あくたん"
-                    }
-                },
-                {
-                    "name": "a0616-1",
-                    "path": "a0616-1.mp3",
-                    "description": {
-                        "zh-CN": "nice↑",
-                        "ja-JP": "nice↑"
-                    }
-                },
-                {
-                    "name": "a0616-2",
-                    "path": "a0616-2.mp3",
-                    "description": {
-                        "zh-CN": "刷牙",
-                        "ja-JP": "歯磨き～歯磨き～"
-                    }
-                },
-                {
-                    "name": "a0616-3",
-                    "path": "a0616-3.mp3",
-                    "description": {
-                        "zh-CN": "湊阿夸的选拔",
-                        "ja-JP": "湊あくあのオーディション"
-                    }
-                },
-                {
-                    "name": "a0930-1",
-                    "path": "a0930-1.mp3",
-                    "description": {
-                        "zh-CN": "今天也很可爱呢",
-                        "ja-JP": "今日もかわいいね"
-                    }
-                },
-                {
-                    "name": "a0930-2",
-                    "path": "a0930-2.mp3",
-                    "description": {
-                        "zh-CN": "爱你哦",
-                        "ja-JP": "愛してるよ！"
-                    }
-                },
-                {
-                    "name": "a0930-3",
-                    "path": "a0930-3.mp3",
-                    "description": {
-                        "zh-CN": "喜欢你",
-                        "ja-JP": "好きだよ"
-                    }
-                },
-                {
-                    "name": "a20200505-1",
-                    "path": "a20200505-1.mp3",
-                    "description": {
-                        "zh-CN": "笨蛋变态烦死了，钉宫三连",
-                        "ja-JP": "バカ、變態、煩い。釘宮三連Combo"
-                    }
-                },
-                {
-                    "name": "a20200505-2",
-                    "path": "a20200505-2.mp3",
-                    "description": {
-                        "zh-CN": "笨蛋变态烦死了（JS 阿库碳 ver）",
-                        "ja-JP": "バカ、變態、煩い（JS あくたん ver）"
+                        "ja-JP": "Giggle (Placeholder)",
+                        "en-US": "Giggle-1"
                     }
                 }
             ]
         },
         {
-            "categoryName": "english",
+            "categoryName": "singing",
             "categoryDescription": {
-                "zh-CN": "通用",
-                "ja-JP": "通常",
-                "en-US": "English Phrases"
+                "ja-JP": "歌う (Placeholder translation)",
+                "en-US": "Singing"
             },
             "voiceList": [
                 {
-                    "name": "EN_I drink Coca Cola",
+                    "name": "PPAP",
+                    "path": "S_PPAP.mp3",
+                    "description": {
+                        "ja-JP": "PPAP",
+                        "en-US": "PPAP"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "English phrases/Nanolish",
+            "categoryDescription": {
+                "ja-JP": "Nanolish (Placeholder)",
+                "en-US": "Nanolish"
+            },
+            "voiceList": [
+                {
+                    "name": "I drink Coca Cola",
                     "path": "EN_I drink Coca Cola.mp3",
                     "description": {
-                        "zh-CN": "我要吃了",
-                        "ja-JP": "いただきます",
+                        "ja-JP": "I drink Coca Cola",
                         "en-US": "I drink Coca Cola"
                     }
                 },
                 {
-                    "name": "EN_Im brain",
+                    "name": "Im brain",
                     "path": "EN_Im brain.mp3",
                     "description": {
-                        "zh-CN": "知道吗知道吗知道吗？",
-                        "ja-JP": "してますかしてますかしてますか？",
+                        "ja-JP": "I'm brain, bakuhatsu",
                         "en-US": "I'm brain, bakuhatsu!"
                     }
                 },
                 {
-                    "name": "test",
-                    "path": "a-39.mp3",
+                    "name": "Im hamburger",
+                    "path": "EN_Oh no Im Hamburger.mp3",
                     "description": {
-                        "zh-CN": "很厉害吧！",
-                        "ja-JP": "すごいでしょう！"
+                        "ja-JP": "Oh no, I'm hamburger",
+                        "en-US": "Oh no, I'm hamburger"
                     }
                 },
                 {
-                    "name": "a-40",
-                    "path": "a-40.mp3",
+                    "name": "English difficult",
+                    "path": "EN_English Difficult.mp3",
                     "description": {
-                        "zh-CN": "可恶啊~~~",
-                        "ja-JP": "ちくしょう~~~"
+                        "ja-JP": "English Difficult",
+                        "en-US": "English Difficult"
                     }
                 },
                 {
-                    "name": "a-41",
-                    "path": "a-41.mp3",
+                    "name": "Hurry up im sleepy",
+                    "path": "EN_Hurry Up Im Sleepy.mp3",
                     "description": {
-                        "zh-CN": "那个谁稍微有点、下流吧？",
-                        "ja-JP": "ちょっとだけどさ、いやらしくない？"
+                        "ja-JP": "Hurry up!! I'm sleepy!",
+                        "en-US": "Hurry up!! I'm sleepy!"
                     }
                 },
                 {
-                    "name": "a-42",
-                    "path": "a-42.mp3",
+                    "name": "Missile missile",
+                    "path": "EN_Missile Missile.mp3",
                     "description": {
-                        "zh-CN": "大家请和我交往吧",
-                        "ja-JP": "みんなお付き合いくださいませ"
+                        "ja-JP": "...Missile missile",
+                        "en-US": "...Missile missile"
                     }
                 },
                 {
-                    "name": "a-43",
-                    "path": "a-43.mp3",
+                    "name": "Shutup",
+                    "path": "EN_Shut up.mp3",
                     "description": {
-                        "zh-CN": "非常非常的H呢",
-                        "ja-JP": "めちゃめちゃHだった"
+                        "ja-JP": "SHUDDUP!",
+                        "en-US": "SHUDDUP!"
                     }
                 },
                 {
-                    "name": "a-44",
-                    "path": "a-44.mp3",
+                    "name": "I dont know",
+                    "path": "EN_I dont knoww.mp3",
                     "description": {
-                        "zh-CN": "糟糕糟糕糟糕糟糕糟糕",
-                        "ja-JP": "やばいやばいやばいやばい"
+                        "ja-JP": "I don't know",
+                        "en-US": "I don't know"
                     }
                 },
                 {
-                    "name": "a-45",
-                    "path": "a-45.mp3",
+                    "name": "Ahoy",
+                    "path": "EN_Ahoy.mp3",
                     "description": {
-                        "zh-CN": "狗狗好强",
-                        "ja-JP": "わんわん強い"
+                        "ja-JP": "Ahoy",
+                        "en-US": "Ahoy"
                     }
                 },
                 {
-                    "name": "a-46",
-                    "path": "a-46.mp3",
+                    "name": "Oh my God",
+                    "path": "EN_Oh my God.mp3",
                     "description": {
-                        "zh-CN": "现充",
-                        "ja-JP": "リア充だし"
+                        "ja-JP": "Oh my God",
+                        "en-US": "Oh my God"
                     }
                 },
                 {
-                    "name": "a-47",
-                    "path": "a-47.mp3",
+                    "name": "Oh yes",
+                    "path": "EN_Oh yes.mp3",
                     "description": {
-                        "zh-CN": "你丫找事吧",
-                        "ja-JP": "お前何中やねん"
-                    }
-                },
-                {
-                    "name": "a-48",
-                    "path": "a-48.mp3",
-                    "description": {
-                        "zh-CN": "危险",
-                        "ja-JP": "危ない"
-                    }
-                },
-                {
-                    "name": "a-49",
-                    "path": "a-49.mp3",
-                    "description": {
-                        "zh-CN": "哪都行放马过来吧",
-                        "ja-JP": "どっからでもかかってこいよ"
-                    }
-                },
-                {
-                    "name": "a-50",
-                    "path": "a-50.mp3",
-                    "description": {
-                        "zh-CN": "啊 好紧张啊",
-                        "ja-JP": "はぁ…緊張した…"
-                    }
-                },
-                {
-                    "name": "a-51",
-                    "path": "a-51.mp3",
-                    "description": {
-                        "zh-CN": "好、给你",
-                        "ja-JP": "はい、どうぞ"
-                    }
-                },
-                {
-                    "name": "a-52",
-                    "path": "a-52.mp3",
-                    "description": {
-                        "zh-CN": "很厉害吧、不愧是我吧",
-                        "ja-JP": "すごいでしょ～流石でしょ～？"
-                    }
-                },
-                {
-                    "name": "a-53",
-                    "path": "a-53.mp3",
-                    "description": {
-                        "zh-CN": "恭喜 奇怪的女仆",
-                        "ja-JP": "おめでとう、変なメイド"
-                    }
-                },
-                {
-                    "name": "a-54",
-                    "path": "a-54.mp3",
-                    "description": {
-                        "zh-CN": "果然要随我喜欢呢",
-                        "ja-JP": "やっぱり好き勝手やりたいよね"
-                    }
-                },
-                {
-                    "name": "a-55",
-                    "path": "a-55.mp3",
-                    "description": {
-                        "zh-CN": "湊阿库娅姐姐",
-                        "ja-JP": "湊あくあお姉さん"
-                    }
-                },
-                {
-                    "name": "a-56",
-                    "path": "a-56.mp3",
-                    "description": {
-                        "zh-CN": "湊阿库娅在这",
-                        "ja-JP": "湊あくあより"
-                    }
-                },
-                {
-                    "name": "a-57",
-                    "path": "a-57.mp3",
-                    "description": {
-                        "zh-CN": "灵魂rap",
-                        "ja-JP": "マリオ3をやりたいと思ってたんだけど(合いの手付き)"
-                    }
-                },
-                {
-                    "name": "a-58",
-                    "path": "a-58.mp3",
-                    "description": {
-                        "zh-CN": "百鬼",
-                        "ja-JP": "なきり～"
-                    }
-                },
-                {
-                    "name": "a-59",
-                    "path": "a-59.mp3",
-                    "description": {
-                        "zh-CN": "百鬼酱",
-                        "ja-JP": "なきちゃ～ん"
-                    }
-                },
-                {
-                    "name": "a-60",
-                    "path": "a-60.mp3",
-                    "description": {
-                        "zh-CN": "我 我很害怕呢",
-                        "ja-JP": "私 私怖いですよ"
-                    }
-                },
-                {
-                    "name": "a-61",
-                    "path": "a-61.mp3",
-                    "description": {
-                        "zh-CN": "结束了结束了",
-                        "ja-JP": "終わた終わた"
-                    }
-                },
-                {
-                    "name": "a-62",
-                    "path": "a-62.mp3",
-                    "description": {
-                        "zh-CN": "紧张起来了",
-                        "ja-JP": "緊張してきた"
-                    }
-                },
-                {
-                    "name": "a-63",
-                    "path": "a-63.mp3",
-                    "description": {
-                        "zh-CN": "结束语",
-                        "ja-JP": "あとでな～"
-                    }
-                },
-                {
-                    "name": "a-64",
-                    "path": "a-64.mp3",
-                    "description": {
-                        "zh-CN": "嘲讽了你真是对不起",
-                        "ja-JP": "煽って煽り、煽ったけどごめんなさい"
-                    }
-                },
-                {
-                    "name": "a-65",
-                    "path": "a-65.mp3",
-                    "description": {
-                        "zh-CN": "谢谢！！百鬼！！",
-                        "ja-JP": "ありがと～！！なきり～！！"
-                    }
-                },
-                {
-                    "name": "a-66",
-                    "path": "a-66.mp3",
-                    "description": {
-                        "zh-CN": "駆逐艦湊です！提督~提督？",
-                        "ja-JP": "駆逐艦湊です！提督~提督？"
-                    }
-                },
-                {
-                    "name": "a0616-4",
-                    "path": "a0616-4.mp3",
-                    "description": {
-                        "zh-CN": "你已经死了知道了吗",
-                        "ja-JP": "あなたは死んだっていいでしょう"
-                    }
-                },
-                {
-                    "name": "a0616-5",
-                    "path": "a0616-5.mp3",
-                    "description": {
-                        "zh-CN": "emm比如mea酱",
-                        "ja-JP": "あの、めあちゃんとか"
-                    }
-                },
-                {
-                    "name": "a0616-6",
-                    "path": "a0616-6.mp3",
-                    "description": {
-                        "zh-CN": "太奇怪了吧",
-                        "ja-JP": "おかしいでしょう"
-                    }
-                },
-                {
-                    "name": "a0616-7",
-                    "path": "a0616-7.mp3",
-                    "description": {
-                        "zh-CN": "肚子饿了",
-                        "ja-JP": "お腹すいたぁ"
+                        "ja-JP": "Oh yes",
+                        "en-US": "Oh yes"
                     }
                 }
             ]
