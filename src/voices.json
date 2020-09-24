@@ -1,48 +1,6 @@
 {
     "voices": [
         {
-            "categoryName": "lunaSFX",
-            "categoryDescription": {
-                "ja-JP": "Luna Sounds (Placeholder)",
-                "en-US": "Luna Sounds"
-            },
-            "voiceList": [
-                {
-                    "name": "Kamehameha",
-                    "path": "SFX_Kamehameha.mp3",
-                    "description": {
-                        "ja-JP": "Kamehameha (Placeholder)",
-                        "en-US": "Kamehameha"
-                    }
-                },
-                {
-                    "name": "Giggle1",
-                    "path": "SFX_Giggle1.mp3",
-                    "description": {
-                        "ja-JP": "Giggle (Placeholder)",
-                        "en-US": "Giggle-1"
-                    }
-                }
-            ]
-        },
-        {
-            "categoryName": "singing",
-            "categoryDescription": {
-                "ja-JP": "歌う (Placeholder translation)",
-                "en-US": "Singing"
-            },
-            "voiceList": [
-                {
-                    "name": "PPAP",
-                    "path": "S_PPAP.mp3",
-                    "description": {
-                        "ja-JP": "PPAP",
-                        "en-US": "PPAP"
-                    }
-                }
-            ]
-        },
-        {
             "categoryName": "English phrases/Nanolish",
             "categoryDescription": {
                 "ja-JP": "Nanolish (Placeholder)",
@@ -135,6 +93,195 @@
                     "description": {
                         "ja-JP": "Oh yes",
                         "en-US": "Oh yes"
+                    }
+                },
+                {
+                    "name": "Im loving it",
+                    "path": "EN_Im loving it.mp3",
+                    "description": {
+                        "ja-JP": "Im loving it",
+                        "en-US": "Im loving it"
+                    }
+                },
+                {
+                    "name": "Btw1",
+                    "path": "EN_By the way1.mp3",
+                    "description": {
+                        "ja-JP": "By the way-1",
+                        "en-US": "By the way-1"
+                    }
+                },
+                {
+                    "name": "Btw2",
+                    "path": "EN_By the way2.mp3",
+                    "description": {
+                        "ja-JP": "By the way-2",
+                        "en-US": "By the way-2"
+                    }
+                },
+                {
+                    "name": "Nanora is English",
+                    "path": "EN_Nanora is English.mp3",
+                    "description": {
+                        "ja-JP": "Nanora is English",
+                        "en-US": "Nanora is English"
+                    }
+                },
+                {
+                    "name": "Im a sugoi",
+                    "path": "EN_Im a sugoi.mp3",
+                    "description": {
+                        "ja-JP": "I'm a sugoi",
+                        "en-US": "I'm a sugoi"
+                    }
+                },
+                {
+                    "name": "Never give up i can do it",
+                    "path": "EN_Never give up i can do it.mp3",
+                    "description": {
+                        "ja-JP": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
+                        "en-US": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "lunaSFX",
+            "categoryDescription": {
+                "ja-JP": "Luna Sounds (Placeholder)",
+                "en-US": "Luna Sounds"
+            },
+            "voiceList": [
+                {
+                    "name": "Kamehameha",
+                    "path": "SFX_Kamehameha.mp3",
+                    "description": {
+                        "ja-JP": "Kamehameha (Placeholder)",
+                        "en-US": "Kamehameha"
+                    }
+                },
+                {
+                    "name": "Giggle1",
+                    "path": "SFX_Giggle1.mp3",
+                    "description": {
+                        "ja-JP": "Giggle-1 (Placeholder)",
+                        "en-US": "Giggle-1"
+                    }
+                },
+                {
+                    "name": "Giggle2",
+                    "path": "SFX_Giggle2.mp3",
+                    "description": {
+                        "ja-JP": "Giggle-2 (Placeholder)",
+                        "en-US": "Giggle-2"
+                    }
+                },
+                {
+                    "name": "Giggle3",
+                    "path": "SFX_Giggle3.mp3",
+                    "description": {
+                        "ja-JP": "Giggle-3 (Placeholder)",
+                        "en-US": "Giggle-3"
+                    }
+                },
+                {
+                    "name": "Mogumogu",
+                    "path": "SFX_Mogumogu1.mp3",
+                    "description": {
+                        "ja-JP": "Mogu mogu-1 (Placeholder)",
+                        "en-US": "Mogu mogu-1"
+                    }
+                },
+                {
+                    "name": "Ara ara",
+                    "path": "SFX_AraAra.mp3",
+                    "description": {
+                        "ja-JP": "Ara ara",
+                        "en-US": "Ara ara"
+                    }
+                },
+                {
+                    "name": "Lunazilla Attack",
+                    "path": "SFX_Lunazilla Attacks.mp3",
+                    "description": {
+                        "ja-JP": "Lunazilla Attacks (Placeholder)",
+                        "en-US": "Lunazilla Attacks!"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "PianoStream",
+            "categoryDescription": {
+                "ja-JP": "Piano Stream (Placeholder translation)",
+                "en-US": "Piano Stream"
+            },
+            "voiceList": [
+                {
+                    "name": "nanoragayattekita",
+                    "path": "PN_NanoraGaYattekita.mp3",
+                    "description": {
+                        "ja-JP": "Nanora Ga Yattekita (Placeholder)",
+                        "en-US": "Nanora Ga Yattekita"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "phrases",
+            "categoryDescription": {
+                "ja-JP": "Phrases (Placeholder translation)",
+                "en-US": "Phrases"
+            },
+            "voiceList": [
+                {
+                    "name": "bigsmokeEN",
+                    "path": "PH_Big Smoke Order EN.mp3",
+                    "description": {
+                        "ja-JP": "Big Smoke's Order [EN] (Placeholder)",
+                        "en-US": "Big Smoke's Order [EN]"
+                    }
+                },
+                {
+                    "name": "bigsmokeJAP",
+                    "path": "PH_Big Smoke Order JA.mp3",
+                    "description": {
+                        "ja-JP": "Big Smoke's Order [JA] (Placeholder)",
+                        "en-US": "Big Smoke's Order [JA]"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "singing",
+            "categoryDescription": {
+                "ja-JP": "歌う (Placeholder translation)",
+                "en-US": "Singing"
+            },
+            "voiceList": [
+                {
+                    "name": "PPAP",
+                    "path": "S_PPAP.mp3",
+                    "description": {
+                        "ja-JP": "PPAP",
+                        "en-US": "PPAP"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "asmr",
+            "categoryDescription": {
+                "ja-JP": "ASMR",
+                "en-US": "ASMR"
+            },
+            "voiceList": [
+                {
+                    "name": "drink1",
+                    "path": "ASMR_Drink1.mp3",
+                    "description": {
+                        "ja-JP": "Drink-1",
+                        "en-US": "Drink-1"
                     }
                 }
             ]
