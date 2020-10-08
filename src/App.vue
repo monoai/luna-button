@@ -15,8 +15,9 @@
 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirm=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18"/></a></li>
-                        <li><a href="https://twitter.com/himemoriluna" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18"/></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirm=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;Luna's Channel</a></li>
+                        <li><a href="https://twitter.com/himemoriluna" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;Luna's Twitter</a></li>
+                        <!--<li><a href="LINK" target="_blank"><img src="PIC" height="18" style="vertical-align:top"/>&nbsp;&nbsp;LABEL</a></li>-->
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
@@ -54,6 +55,16 @@
 body{
     padding-top: 70px;
     background-image: url('/resources/body_bg.png');
+}
+.nav.navbar-nav li a{
+    color: white;
+    text-shadow: -1px 1px 0 #000,
+                  1px 1px 0 #000,
+                  1px -1px 0 #000,
+                  -1px -1px 0 #000;
+}
+.nav.navbar-nav li a:hover{
+    color: #f2a8cd;
 }
 .nav a:hover{
     border-bottom: 2px solid #666381;
