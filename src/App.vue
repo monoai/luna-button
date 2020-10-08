@@ -1,7 +1,7 @@
 <template>
   <div id="app">
         <Modal></Modal>
-        <nav class="navbar navbar-default navbar-fixed-top">
+        <nav class="navbar navbar-default navbar-fixed-top navbar-inner">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar-collapse" aria-expanded="false">
@@ -53,6 +53,19 @@
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
 body{
     padding-top: 70px;
+    background-image: url('/resources/body_bg.png');
+}
+.nav a:hover{
+    border-bottom: 2px solid #666381;
+}
+.navbar {
+  min-height: 55px;
+}
+.navbar-inner{
+    background-size: contain;
+    background-image: url('/resources/navbar_bg.png');
+    background-repeat: repeat-x;
+    border-bottom: 3px solid #666381;
 }
 .main-content{
     min-height: 100vh;
