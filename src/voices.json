@@ -142,6 +142,22 @@
                         "ja-JP": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
                         "en-US": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!"
                     }
+                },
+                {
+                    "name": "I love you",
+                    "path": "EN_I love you.mp3",
+                    "description": {
+                        "ja-JP": "I love you",
+                        "en-US": "I love you"
+                    }
+                },
+                {
+                    "name": "Okay guguru",
+                    "path": "EN_Okay guguru.mp3",
+                    "description": {
+                        "ja-JP": "Okay Guguru (Placeholder)",
+                        "en-US": "Okay Guguru"
+                    }
                 }
             ]
         },
@@ -158,6 +174,14 @@
                     "description": {
                         "ja-JP": "Kamehameha (Placeholder)",
                         "en-US": "Kamehameha"
+                    }
+                },
+                {
+                    "name": "Fart1",
+                    "path": "SFX_Fart1.mp3",
+                    "description": {
+                        "ja-JP": "Fart (Placeholder)",
+                        "en-US": "Fart"
                     }
                 },
                 {
@@ -185,11 +209,91 @@
                     }
                 },
                 {
-                    "name": "Mogumogu",
+                    "name": "Giggle4",
+                    "path": "SFX_Giggle4.mp3",
+                    "description": {
+                        "ja-JP": "Giggle-4 (Placeholder)",
+                        "en-US": "Giggle-4"
+                    }
+                },
+                {
+                    "name": "Giggle5",
+                    "path": "SFX_Giggle5.mp3",
+                    "description": {
+                        "ja-JP": "Giggle-5 (Placeholder)",
+                        "en-US": "Giggle-5"
+                    }
+                },
+                {
+                    "name": "Mogumogu1",
                     "path": "SFX_Mogumogu1.mp3",
                     "description": {
                         "ja-JP": "Mogu mogu-1 (Placeholder)",
                         "en-US": "Mogu mogu-1"
+                    }
+                },
+                {
+                    "name": "Mogumogu2",
+                    "path": "SFX_Mogumogu2.mp3",
+                    "description": {
+                        "ja-JP": "Mogu mogu-2 (Placeholder)",
+                        "en-US": "Mogu mogu-2"
+                    }
+                },
+                {
+                    "name": "Nna1",
+                    "path": "SFX_Nna1.mp3",
+                    "description": {
+                        "ja-JP": "Nna-1 (Placeholder)",
+                        "en-US": "Nna-1"
+                    }
+                },
+                {
+                    "name": "Nnaaa1",
+                    "path": "SFX_Nnaaa.mp3",
+                    "description": {
+                        "ja-JP": "Nnaaa (Placeholder)",
+                        "en-US": "Nnaaa"
+                    }
+                },
+                {
+                    "name": "Nnaaa long",
+                    "path": "SFX_Nnaaa Long.mp3",
+                    "description": {
+                        "ja-JP": "Nnaaa (Long) (Placeholder)",
+                        "en-US": "Nnaaa (Long)"
+                    }
+                },
+                {
+                    "name": "Nnaaa~i1",
+                    "path": "SFX_Nnaaa~i1.mp3",
+                    "description": {
+                        "ja-JP": "Nnaaa~i-1 (Placeholder)",
+                        "en-US": "Nnaaa~i-1"
+                    }
+                },
+                {
+                    "name": "Nnaaa~i2",
+                    "path": "SFX_Nnaaa~i2.mp3",
+                    "description": {
+                        "ja-JP": "Nnaaa~i-2 (Placeholder)",
+                        "en-US": "Nnaaa~i-2"
+                    }
+                },
+                {
+                    "name": "PrrrHarmonic",
+                    "path": "SFX_Prrr Harmonic.mp3",
+                    "description": {
+                        "ja-JP": "Prrr (Harmonic) (Placeholder)",
+                        "en-US": "Prrr (Harmonic)"
+                    }
+                },
+                {
+                    "name": "Shubashuba1",
+                    "path": "SFX_Shuba shuba.mp3",
+                    "description": {
+                        "ja-JP": "Shuba shuba (Placeholder)",
+                        "en-US": "Shuba shuba"
                     }
                 },
                 {
@@ -201,11 +305,44 @@
                     }
                 },
                 {
-                    "name": "Lunazilla Attack",
-                    "path": "SFX_Lunazilla Attacks.mp3",
+                    "name": "Mama mia",
+                    "path": "SFX_Mama mia.mp3",
                     "description": {
-                        "ja-JP": "Lunazilla Attacks (Placeholder)",
-                        "en-US": "Lunazilla Attacks!"
+                        "ja-JP": "Mama mia",
+                        "en-US": "Mama mia"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "Greetings",
+            "categoryDescription": {
+                "ja-JP": "Greetings (Placeholder translation)",
+                "en-US": "Greetings"
+            },
+            "voiceList": [
+                {
+                    "name": "minna oru short",
+                    "path": "GR_Minna Oru Short.mp3",
+                    "description": {
+                        "ja-JP": "Minna Oru (Short) (Placeholder)",
+                        "en-US": "Minna Oru (Short)"
+                    }
+                },
+                {
+                    "name": "minna oru1",
+                    "path": "GR_Minna Oru1.mp3",
+                    "description": {
+                        "ja-JP": "Minna Oru (Placeholder)",
+                        "en-US": "Minna Oru"
+                    }
+                },
+                {
+                    "name": "minna sashiburi",
+                    "path": "GR_Minna Sashiburi.mp3",
+                    "description": {
+                        "ja-JP": "Minna Sashiburi (Placeholder)",
+                        "en-US": "Minna Sashiburi"
                     }
                 }
             ]
@@ -223,6 +360,14 @@
                     "description": {
                         "ja-JP": "Nanora Ga Yattekita (Placeholder)",
                         "en-US": "Nanora Ga Yattekita"
+                    }
+                },
+                {
+                    "name": "nekofunjatta",
+                    "path": "PN_Neko Funjatta.mp3",
+                    "description": {
+                        "ja-JP": "Neko Funjatta (Placeholder)",
+                        "en-US": "Neko Funjatta"
                     }
                 }
             ]
@@ -248,6 +393,14 @@
                     "description": {
                         "ja-JP": "Big Smoke's Order [JA] (Placeholder)",
                         "en-US": "Big Smoke's Order [JA]"
+                    }
+                },
+                {
+                    "name": "Lunazilla Attack",
+                    "path": "SFX_Lunazilla Attacks.mp3",
+                    "description": {
+                        "ja-JP": "Lunazilla Attacks (Placeholder)",
+                        "en-US": "Lunazilla Attacks!"
                     }
                 }
             ]

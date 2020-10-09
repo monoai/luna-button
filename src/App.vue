@@ -17,7 +17,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirm=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;Luna's Channel</a></li>
                         <li><a href="https://twitter.com/himemoriluna" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;Luna's Twitter</a></li>
-                        <!--<li><a href="LINK" target="_blank"><img src="PIC" height="18" style="vertical-align:top"/>&nbsp;&nbsp;LABEL</a></li>-->
+                        <li><a href="https://discord.gg/bXJ5fgm" target="_blank"><img src="resources/Discord_Social_Icon.jpg" height="18" style="vertical-align:top"/>&nbsp;&nbsp;Luna's Candy Kingdom Discord</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
@@ -44,7 +44,7 @@
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
                 <div>{{$t("info.audioStaff")}}</div>
-                <div><span style="color: #000000">mono</span><span style="color: #FF0000">AI</span> 2020. <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
+                <div><a href="https://twitter.com/monoAI_" target="_blank"><span style="color: #000000">mono</span><span style="color: #FF0000">AI</span></a> 2020. <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
             </div>
         </footer>
   </div>
@@ -84,7 +84,8 @@ body{
 .footer {
     width: 100%;
     height: 60px;
-    background-color: #ebebeb;
+    background-color: #F2A8CD;
+    border-top: 3px solid #c186a4;
 }
 .footer-content {
     padding-top: 10px;
