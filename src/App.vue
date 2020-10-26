@@ -15,9 +15,9 @@
 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirm=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;Luna's Channel</a></li>
-                        <li><a href="https://twitter.com/himemoriluna" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;Luna's Twitter</a></li>
-                        <li><a href="https://discord.gg/bXJ5fgm" target="_blank"><img src="resources/Discord_Social_Icon.jpg" height="18" style="vertical-align:top"/>&nbsp;&nbsp;Luna's Candy Kingdom Discord</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirm=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;{{$t("info.yt_channel")}}</a></li>
+                        <li><a href="https://twitter.com/himemoriluna" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;{{$t("info.twitter")}}</a></li>
+                        <li><a href="https://discord.gg/bXJ5fgm" target="_blank"><img src="resources/Discord_Social_Icon.jpg" height="18" style="vertical-align:top"/>&nbsp;&nbsp;{{$t("info.discord")}}</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
@@ -44,6 +44,7 @@
                     <div class="text-right">{{$t("info.notOfficial")}}</div>
                 </div>
                 <div>{{$t("info.audioStaff")}}</div>
+                <!--<div><p>Me testing out something</p></div>-->
                 <div><a href="https://twitter.com/monoAI_" target="_blank"><span style="color: #000000">mono</span><span style="color: #FF0000">AI</span></a> 2020. <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
             </div>
         </footer>
@@ -56,15 +57,26 @@ body{
     padding-top: 70px;
     background-image: url('/resources/body_bg.png');
 }
-.nav.navbar-nav li a{
+.nav.navbar-nav li a, .navbar-default .navbar-brand{
     color: white;
     text-shadow: -1px 1px 0 #000,
                   1px 1px 0 #000,
                   1px -1px 0 #000,
                   -1px -1px 0 #000;
 }
+.navbar-default .navbar-brand:hover{
+    color: #f2a8cd;
+}
+.navbar-default .navbar-brand:focus{
+    color: #ABA5D8;
+}
 .nav.navbar-nav li a:hover{
     color: #f2a8cd;
+}
+.nav.navbar-nav li a:active,
+.nav.navbar-nav li a:focus,
+.nav.navbar-nav.navbar-right li a:focus{
+    color: #ABA5D8;
 }
 .nav a:hover{
     border-bottom: 2px solid #666381;
@@ -83,7 +95,7 @@ body{
 }
 .footer {
     width: 100%;
-    height: 60px;
+    height: auto;
     background-color: #F2A8CD;
     border-top: 3px solid #c186a4;
 }

@@ -5,13 +5,17 @@
             <div class="cate-body">
                 <button class="btn btn-info" @click="random">{{ $t("action.randomplay") }}</button>
                 <button class="btn btn-info" @click="stopPlay">{{$t("action.stopvoice") }}</button>
-                <button class="btn btn-info" :class="{ 'disabled': autoCheck }" @click="overlap" :title="$t('info.overlapTips')">
+                <button class="btn btn-info" :class="{ 'disabled': autoCheck || loopCheck}" @click="overlap" :title="$t('info.overlapTips')">
                     <input class="checkbox" type="checkbox" v-model="overlapCheck">
                     <span>{{ $t("action.overlap") }}</span>
                 </button>
-                <button class="btn btn-info" :class="{ 'disabled': overlapCheck }" @click="autoPlay">
+                <button class="btn btn-info" :class="{ 'disabled': overlapCheck || loopCheck }" @click="autoPlay">
                     <input class="checkbox" type="checkbox" v-model="autoCheck">
                     <span>{{ $t("action.autoplay") }}</span>
+                </button>
+                <button class="btn btn-info" :class="{ 'disabled': autoCheck || overlapCheck }" @click="loop" :title="$t('info.loopTips')">
+                    <input class="checkbox" type="checkbox" v-model="loopCheck">
+                    <span>{{ $t("action.loop") }}</span>
                 </button>
             </div>
             <div class="cate-body">
@@ -102,6 +106,8 @@ class HomePage extends Vue {
     voices = VoiceList.voices;
     autoCheck = false;
     overlapCheck = false;
+    loopCheck = false;
+    currVoice;
     voice = {};
 
     play(item){
@@ -114,6 +120,7 @@ class HomePage extends Vue {
             let player = document.getElementById('player');
             player.src = "voices/" + item.path;
             this.voice = item;
+            this.currVoice = item;
             player.play();
         }
     }
@@ -125,6 +132,9 @@ class HomePage extends Vue {
     voiceEnd(flag) {
         if(flag !== true && this.autoCheck) {
             this.random();
+        } else if(flag !== true && this.loopCheck) {
+            let player = document.getElementById('player');
+            player.play();
         } else {
             this.voice = {};
         }
@@ -134,16 +144,22 @@ class HomePage extends Vue {
         this.play(tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)]);
     }
     autoPlay(){
-        if (this.overlapCheck) {
+        if (this.overlapCheck || this.loopCheck) {
             return;
         }
         this.autoCheck = !this.autoCheck;
     }
     overlap() {
-        if (this.autoCheck) {
+        if (this.autoCheck || this.loopCheck) {
             return;
         }
         this.overlapCheck = !this.overlapCheck;
+    }
+    loop(){
+        if (this.autoCheck || this.overlapCheck) {
+            return;
+        }
+        this.loopCheck = !this.loopCheck;
     }
     _randomNum(minNum, maxNum) {
         switch(arguments.length) {
