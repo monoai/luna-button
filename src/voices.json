@@ -3,7 +3,7 @@
         {
             "categoryName": "English phrases/Nanolish",
             "categoryDescription": {
-                "ja-JP": "Nanolish (Placeholder)",
+                "ja-JP": "Nanolish",
                 "en-US": "Nanolish"
             },
             "voiceList": [
@@ -164,7 +164,7 @@
         {
             "categoryName": "lunaSFX",
             "categoryDescription": {
-                "ja-JP": "Luna Sounds (Placeholder)",
+                "ja-JP": "ルーナの音声",
                 "en-US": "Luna Sounds"
             },
             "voiceList": [
@@ -172,7 +172,7 @@
                     "name": "Kamehameha",
                     "path": "SFX_Kamehameha.mp3",
                     "description": {
-                        "ja-JP": "Kamehameha (Placeholder)",
+                        "ja-JP": "かめはめ 波 は",
                         "en-US": "Kamehameha"
                     }
                 },
@@ -188,7 +188,7 @@
                     "name": "Giggle1",
                     "path": "SFX_Giggle1.mp3",
                     "description": {
-                        "ja-JP": "Giggle-1 (Placeholder)",
+                        "ja-JP": "くすくす-1",
                         "en-US": "Giggle-1"
                     }
                 },
@@ -196,7 +196,7 @@
                     "name": "Giggle2",
                     "path": "SFX_Giggle2.mp3",
                     "description": {
-                        "ja-JP": "Giggle-2 (Placeholder)",
+                        "ja-JP": "くすくす-2",
                         "en-US": "Giggle-2"
                     }
                 },
@@ -204,7 +204,7 @@
                     "name": "Giggle3",
                     "path": "SFX_Giggle3.mp3",
                     "description": {
-                        "ja-JP": "Giggle-3 (Placeholder)",
+                        "ja-JP": "くすくす-3",
                         "en-US": "Giggle-3"
                     }
                 },
@@ -212,7 +212,7 @@
                     "name": "Giggle4",
                     "path": "SFX_Giggle4.mp3",
                     "description": {
-                        "ja-JP": "Giggle-4 (Placeholder)",
+                        "ja-JP": "くすくす-4",
                         "en-US": "Giggle-4"
                     }
                 },
@@ -220,7 +220,7 @@
                     "name": "Giggle5",
                     "path": "SFX_Giggle5.mp3",
                     "description": {
-                        "ja-JP": "Giggle-5 (Placeholder)",
+                        "ja-JP": "くすくす-5",
                         "en-US": "Giggle-5"
                     }
                 },
@@ -228,7 +228,7 @@
                     "name": "Mogumogu1",
                     "path": "SFX_Mogumogu1.mp3",
                     "description": {
-                        "ja-JP": "Mogu mogu-1 (Placeholder)",
+                        "ja-JP": "もぐもぐ-1",
                         "en-US": "Mogu mogu-1"
                     }
                 },
@@ -236,7 +236,7 @@
                     "name": "Mogumogu2",
                     "path": "SFX_Mogumogu2.mp3",
                     "description": {
-                        "ja-JP": "Mogu mogu-2 (Placeholder)",
+                        "ja-JP": "もぐもぐ-2",
                         "en-US": "Mogu mogu-2"
                     }
                 },
@@ -244,7 +244,7 @@
                     "name": "Nna1",
                     "path": "SFX_Nna1.mp3",
                     "description": {
-                        "ja-JP": "Nna-1 (Placeholder)",
+                        "ja-JP": "んなあ-1",
                         "en-US": "Nna-1"
                     }
                 },
@@ -252,7 +252,7 @@
                     "name": "Nnaaa1",
                     "path": "SFX_Nnaaa.mp3",
                     "description": {
-                        "ja-JP": "Nnaaa (Placeholder)",
+                        "ja-JP": "んなあああ",
                         "en-US": "Nnaaa"
                     }
                 },
@@ -260,7 +260,7 @@
                     "name": "Nnaaa long",
                     "path": "SFX_Nnaaa Long.mp3",
                     "description": {
-                        "ja-JP": "Nnaaa (Long) (Placeholder)",
+                        "ja-JP": "んなあああ (ながながい)",
                         "en-US": "Nnaaa (Long)"
                     }
                 },
@@ -268,7 +268,7 @@
                     "name": "Nnaaa~i1",
                     "path": "SFX_Nnaaa~i1.mp3",
                     "description": {
-                        "ja-JP": "Nnaaa~i-1 (Placeholder)",
+                        "ja-JP": "んなあああ~い-1",
                         "en-US": "Nnaaa~i-1"
                     }
                 },
@@ -276,7 +276,7 @@
                     "name": "Nnaaa~i2",
                     "path": "SFX_Nnaaa~i2.mp3",
                     "description": {
-                        "ja-JP": "Nnaaa~i-2 (Placeholder)",
+                        "ja-JP": "んなあああ~い-2",
                         "en-US": "Nnaaa~i-2"
                     }
                 },
@@ -292,7 +292,7 @@
                     "name": "Shubashuba1",
                     "path": "SFX_Shuba shuba.mp3",
                     "description": {
-                        "ja-JP": "Shuba shuba (Placeholder)",
+                        "ja-JP": "Shuba shuba",
                         "en-US": "Shuba shuba"
                     }
                 },
@@ -300,7 +300,7 @@
                     "name": "Ara ara",
                     "path": "SFX_AraAra.mp3",
                     "description": {
-                        "ja-JP": "Ara ara",
+                        "ja-JP": "あらあら",
                         "en-US": "Ara ara"
                     }
                 },
@@ -317,7 +317,7 @@
         {
             "categoryName": "Greetings",
             "categoryDescription": {
-                "ja-JP": "Greetings (Placeholder translation)",
+                "ja-JP": "挨拶",
                 "en-US": "Greetings"
             },
             "voiceList": [
@@ -325,7 +325,7 @@
                     "name": "minna oru short",
                     "path": "GR_Minna Oru Short.mp3",
                     "description": {
-                        "ja-JP": "Minna Oru (Short) (Placeholder)",
+                        "ja-JP": "みんなおる？ (短い)",
                         "en-US": "Minna Oru (Short)"
                     }
                 },
@@ -333,15 +333,15 @@
                     "name": "minna oru1",
                     "path": "GR_Minna Oru1.mp3",
                     "description": {
-                        "ja-JP": "Minna Oru (Placeholder)",
-                        "en-US": "Minna Oru"
+                        "ja-JP": "みんなおる？",
+                        "en-US": "Minna Oru?"
                     }
                 },
                 {
                     "name": "minna sashiburi",
                     "path": "GR_Minna Sashiburi.mp3",
                     "description": {
-                        "ja-JP": "Minna Sashiburi (Placeholder)",
+                        "ja-JP": "みんなさしぶり",
                         "en-US": "Minna Sashiburi"
                     }
                 }
@@ -350,23 +350,23 @@
         {
             "categoryName": "PianoStream",
             "categoryDescription": {
-                "ja-JP": "Piano Stream (Placeholder translation)",
+                "ja-JP": "ピアノのお稽古",
                 "en-US": "Piano Stream"
             },
             "voiceList": [
                 {
-                    "name": "nanoragayattekita",
-                    "path": "PN_NanoraGaYattekita.mp3",
+                    "name": "nanoragayatekita",
+                    "path": "PN_NanoraGaYatekita.mp3",
                     "description": {
-                        "ja-JP": "Nanora Ga Yattekita (Placeholder)",
-                        "en-US": "Nanora Ga Yattekita"
+                        "ja-JP": "なのらがやーてきたー",
+                        "en-US": "Nanora Ga Yatekita"
                     }
                 },
                 {
                     "name": "nekofunjatta",
                     "path": "PN_Neko Funjatta.mp3",
                     "description": {
-                        "ja-JP": "Neko Funjatta (Placeholder)",
+                        "ja-JP": "ネコふんじゃった",
                         "en-US": "Neko Funjatta"
                     }
                 }
@@ -375,7 +375,7 @@
         {
             "categoryName": "phrases",
             "categoryDescription": {
-                "ja-JP": "Phrases (Placeholder translation)",
+                "ja-JP": "名言",
                 "en-US": "Phrases"
             },
             "voiceList": [
@@ -408,7 +408,7 @@
         {
             "categoryName": "singing",
             "categoryDescription": {
-                "ja-JP": "歌う (Placeholder translation)",
+                "ja-JP": "歌う",
                 "en-US": "Singing"
             },
             "voiceList": [
@@ -433,7 +433,7 @@
                     "name": "drink1",
                     "path": "ASMR_Drink1.mp3",
                     "description": {
-                        "ja-JP": "Drink-1",
+                        "ja-JP": "ドリンク-1",
                         "en-US": "Drink-1"
                     }
                 }

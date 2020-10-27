@@ -49,11 +49,12 @@
     margin-bottom: 12px;
     text-align: center;
 }
-.cate-body button.btn-info{
+.cate-body button.btn-info,
+.btn-new{
     background-color: white;
     background-repeat: repeat-x;
     background-size: contain;
-    color: #c186a4;
+    color: #bf8ac2;
     //text-shadow: -1px 1px 1px #666381,
     //              1px 1px 0px #666381,
     //              1px -1px 0 #666381,
@@ -64,18 +65,6 @@
     margin: 5px;
 }
 .btn-new {
-    background-color: white;
-    background-repeat: repeat-x;
-    background-size: contain;
-    color: #c186a4;
-    //text-shadow: -1px 1px 1px #666381,
-    //              1px 1px 0px #666381,
-    //              1px -1px 0 #666381,
-    //              -1px -1px 0 #666381;
-    border: 3px solid #dd2e44;
-    transition-duration: 0.4s;
-    border-radius: 20px;
-    margin: 5px;
     max-width: 100%;
     word-wrap: break-word !important;
     word-break: break-all !important;
@@ -83,6 +72,13 @@
 }
 .cate-body button:hover{
     color: #ABA5D8;
+    text-shadow: -1px 1px 1px #666381,
+                  1px 1px 0px #666381,
+                  1px -1px 0 #666381,
+                  -1px -1px 0 #666381;
+}
+.cate-body button:focus{
+    color: #91d7f1;
     text-shadow: -1px 1px 1px #666381,
                   1px 1px 0px #666381,
                   1px -1px 0 #666381,

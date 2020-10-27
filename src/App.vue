@@ -15,9 +15,9 @@
 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav">
-                        <li><a href="https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirm=1" target="_blank"><img src="resources/youtube_social_icon_red.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;{{$t("info.yt_channel")}}</a></li>
-                        <li><a href="https://twitter.com/himemoriluna" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="18" style="vertical-align:top"/>&nbsp;&nbsp;{{$t("info.twitter")}}</a></li>
-                        <li><a href="https://discord.gg/bXJ5fgm" target="_blank"><img src="resources/Discord_Social_Icon.jpg" height="18" style="vertical-align:top"/>&nbsp;&nbsp;{{$t("info.discord")}}</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw?sub_confirm=1" target="_blank"><img src="resources/youtube_pink3.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.yt_channel")}}</a></li>
+                        <li><a href="https://twitter.com/himemoriluna" target="_blank"><img src="resources/twitter_pink.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.twitter")}}</a></li>
+                        <li><a href="https://discord.gg/bXJ5fgm" target="_blank"><img src="resources/discord_pink.png" height="18" style="vertical-align:middle"/>&nbsp;&nbsp;{{$t("info.discord")}}</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
@@ -68,7 +68,7 @@ body{
     color: #f2a8cd;
 }
 .navbar-default .navbar-brand:focus{
-    color: #ABA5D8;
+    color: #bf8ac2;
 }
 .nav.navbar-nav li a:hover{
     color: #f2a8cd;
@@ -76,10 +76,10 @@ body{
 .nav.navbar-nav li a:active,
 .nav.navbar-nav li a:focus,
 .nav.navbar-nav.navbar-right li a:focus{
-    color: #ABA5D8;
+    color: #bf8ac2;
 }
 .nav a:hover{
-    border-bottom: 2px solid #666381;
+    border-bottom: 2px solid #998ede;
 }
 .navbar {
   min-height: 55px;
@@ -88,7 +88,7 @@ body{
     background-size: contain;
     background-image: url('/resources/navbar_bg.png');
     background-repeat: repeat-x;
-    border-bottom: 3px solid #666381;
+    border-bottom: 3px solid #998ede;
 }
 .main-content{
     min-height: 100vh;
@@ -96,8 +96,8 @@ body{
 .footer {
     width: 100%;
     height: auto;
-    background-color: #F2A8CD;
-    border-top: 3px solid #c186a4;
+    background-color: #fecfdf;
+    border-top: 3px solid #fdb3d8;
 }
 .footer-content {
     padding-top: 10px;
