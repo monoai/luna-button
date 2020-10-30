@@ -17,6 +17,11 @@
                     <input class="checkbox" type="checkbox" v-model="loopCheck">
                     <span>{{ $t("action.loop") }}</span>
                 </button>
+                <button class="btn btn-info">
+                  <span>Volume: </span>
+                  <input class="slidecontainer slider" type="range" min="0" max="100" value="80" id="volNum" @click="volGet">
+                </button>
+                <p>Volume: <span id="volOut">80</span></p>
             </div>
             <div class="cate-body">
                 <span>{{ voice.name ? $t("action.playing") + $t("voice." + voice.name ) : $t("action.noplay") }}</span>
@@ -89,8 +94,42 @@
     vertical-align: middle;
     margin: 0 5px 3px 0;
 }
-</style>
+/*Slider CSS modified from w3schools*/
+.slider {
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  display: inline-block;
+  width: auto; /* Full-width */
+  height: 5px; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+  transition: opacity .2s;
+}
 
+/* Mouse-over effects */
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 15px; /* Set a specific slider handle width */
+  height: 15px; /* Slider handle height */
+  background: #4CAF50; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+  width: 15px; /* Set a specific slider handle width */
+  height: 15px; /* Slider handle height */
+  background: #4CAF50; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+</style>
 
 <script>
 import Vue from 'vue'
@@ -107,13 +146,17 @@ class HomePage extends Vue {
     voice = {};
 
     play(item){
+      let slider = document.getElementById('volNum');
         if (this.overlapCheck) {
             let audio = new Audio("voices/" + item.path);
+            audio.volume = (slider.value/100);
             this.voice = item;
             audio.play()
         } else {
             this.stopPlay();
             let player = document.getElementById('player');
+            player.volume = (slider.value/100);
+            /*console.log(player.volume);*/
             player.src = "voices/" + item.path;
             this.voice = item;
             this.currVoice = item;
@@ -126,10 +169,12 @@ class HomePage extends Vue {
         this.voiceEnd(true);
     }
     voiceEnd(flag) {
+      let slider = document.getElementById('volNum');
         if(flag !== true && this.autoCheck) {
             this.random();
         } else if(flag !== true && this.loopCheck) {
             let player = document.getElementById('player');
+            player.volume = (slider.value/100);
             player.play();
         } else {
             this.voice = {};
@@ -166,6 +211,16 @@ class HomePage extends Vue {
             default:
                 return 0;
         }
+    }
+    volGet() {
+      let slider = document.getElementById('volNum');
+      let output = document.getElementById("volOut");
+      output.innerHTML = slider.value;
+
+      slider.oninput = function() {
+        output.innerHTML = slider.value;
+      }
+
     }
 }
 export default HomePage;
