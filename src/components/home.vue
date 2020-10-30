@@ -155,7 +155,6 @@ class HomePage extends Vue {
         } else {
             this.stopPlay();
             let player = document.getElementById('player');
-            player.volume = (slider.value/100);
             /*console.log(player.volume);*/
             player.src = "voices/" + item.path;
             this.voice = item;
@@ -169,12 +168,10 @@ class HomePage extends Vue {
         this.voiceEnd(true);
     }
     voiceEnd(flag) {
-      let slider = document.getElementById('volNum');
         if(flag !== true && this.autoCheck) {
             this.random();
         } else if(flag !== true && this.loopCheck) {
             let player = document.getElementById('player');
-            player.volume = (slider.value/100);
             player.play();
         } else {
             this.voice = {};
@@ -215,10 +212,12 @@ class HomePage extends Vue {
     volGet() {
       let slider = document.getElementById('volNum');
       let output = document.getElementById("volOut");
+      let player = document.getElementById('player');
       output.innerHTML = slider.value;
 
       slider.oninput = function() {
         output.innerHTML = slider.value;
+        player.volume = (slider.value/100);
       }
 
     }
