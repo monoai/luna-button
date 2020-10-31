@@ -23,7 +23,8 @@ const en_US = {
         autoplay: "Autoplay",
         loop: "Loop",
         playing: "Now Playing：",
-        noplay: "Nothing playing."
+        noplay: "Nothing playing.",
+        volume: "Volume: "
     },
     lang: {
         'zh-CN': "简体中文",

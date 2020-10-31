@@ -80,11 +80,19 @@
                     }
                 },
                 {
-                    "name": "Oh my God",
-                    "path": "EN_Oh my God.mp3",
+                    "name": "Oh my God1",
+                    "path": "EN_Oh my God1.mp3",
                     "description": {
-                        "ja-JP": "Oh my God",
-                        "en-US": "Oh my God"
+                        "ja-JP": "Oh my God-1",
+                        "en-US": "Oh my God-1"
+                    }
+                },
+                {
+                    "name": "Oh my God2",
+                    "path": "EN_Oh my God2.mp3",
+                    "description": {
+                        "ja-JP": "Oh my God-2",
+                        "en-US": "Oh my God-2"
                     }
                 },
                 {
@@ -157,6 +165,22 @@
                     "description": {
                         "ja-JP": "Okay Guguru (Placeholder)",
                         "en-US": "Okay Guguru"
+                    }
+                },
+                {
+                    "name": "hotdog is enemy",
+                    "path": "EN_Hotdog is Enemy.mp3",
+                    "description": {
+                        "ja-JP": "Hotdog is Enemy",
+                        "en-US": "Hotdog is Enemy"
+                    }
+                },
+                {
+                    "name": "hotdog is good",
+                    "path": "EN_Hotdog is Good.mp3",
+                    "description": {
+                        "ja-JP": "Hotdog is Good",
+                        "en-US": "Hotdog is Good"
                     }
                 }
             ]
@@ -311,6 +335,38 @@
                         "ja-JP": "Mama mia",
                         "en-US": "Mama mia"
                     }
+                },
+                {
+                    "name": "Baka aho",
+                    "path": "SFX_Baka aho.mp3",
+                    "description": {
+                        "ja-JP": "ばか阿呆",
+                        "en-US": "Baka aho"
+                    }
+                },
+                {
+                    "name": "Bluna",
+                    "path": "SFX_Bluna.mp3",
+                    "description": {
+                        "ja-JP": "ぶルーナ",
+                        "en-US": "Bluna"
+                    }
+                },
+                {
+                    "name": "Controller Slam",
+                    "path": "SFX_Controller Slam.mp3",
+                    "description": {
+                        "ja-JP": "Controller Slam",
+                        "en-US": "Controller Slam"
+                    }
+                },
+                {
+                    "name": "Hentai",
+                    "path": "SFX_Hentai.mp3",
+                    "description": {
+                        "ja-JP": "変態",
+                        "en-US": "Hentai"
+                    }
                 }
             ]
         },
@@ -343,6 +399,38 @@
                     "description": {
                         "ja-JP": "みんなさしぶり",
                         "en-US": "Minna Sashiburi"
+                    }
+                },
+                {
+                    "name": "goodnighto-1",
+                    "path": "GR_Goodnighto1.mp3",
+                    "description": {
+                        "ja-JP": "Goodnighto-1",
+                        "en-US": "Goodnighto-1"
+                    }
+                },
+                {
+                    "name": "goodnighto-2",
+                    "path": "GR_Goodnighto2.mp3",
+                    "description": {
+                        "ja-JP": "Goodnighto-2",
+                        "en-US": "Goodnighto-2"
+                    }
+                },
+                {
+                    "name": "otsuluna long-1",
+                    "path": "GR_OtsuLunaLong1.mp3",
+                    "description": {
+                        "ja-JP": "おつルーナ-1",
+                        "en-US": "OtsuLuna (Long)-1"
+                    }
+                },
+                {
+                    "name": "otsuluna long-2",
+                    "path": "GR_OtsuLunaLong2.mp3",
+                    "description": {
+                        "ja-JP": "おつルーナ-2",
+                        "en-US": "OtsuLuna (Long)-2"
                     }
                 }
             ]
@@ -401,6 +489,22 @@
                     "description": {
                         "ja-JP": "Lunazilla Attacks (Placeholder)",
                         "en-US": "Lunazilla Attacks!"
+                    }
+                },
+                {
+                    "name": "sayonara hotdog",
+                    "path": "PH_Sayonara Hotdog.mp3",
+                    "description": {
+                        "ja-JP": "さようならホットドッグ",
+                        "en-US": "Sayonara Hotdog"
+                    }
+                },
+                {
+                    "name": "matsuri",
+                    "path": "PH_Ma...tsu...ri....mp3",
+                    "description": {
+                        "ja-JP": "ま。。。つ。。。り。。。",
+                        "en-US": "Ma...tsu...ri..."
                     }
                 }
             ]
