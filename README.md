@@ -1,8 +1,11 @@
-# Luna button
-![Github](https://img.shields.io/github/last-commit/monoai/luna-button)
+# Luna Button
+[![Last Commit](https://img.shields.io/github/last-commit/monoai/luna-button)]()
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fluna-button.vercel.app)](https://luna-button.vercel.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/monoAI_)](https://twitter.com/monoAI_)
+
 A Voice Button Website dedicated to VTuber Himemori Luna.
+
 [Click here to visit the website](https://luna-button.vercel.app)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fluna-button.vercel.app)
 
 ## Related Links:
 
@@ -53,7 +56,8 @@ To deploy a local development environment, first install the latest version of N
 > To contribute your code to this project, you don't have to compile locally. After passing the test in the development server and pushing it to Github, you can directly require a Pull Request to this project.
 
 ## LICENCE
-![LICENCE](https://img.shields.io/github/license/monoai/luna-button)
+[![LICENCE](https://img.shields.io/github/license/monoai/luna-button)](LICENCE)
+
 Program: MIT
 
 Audio: According to the [Hololive secondary creation licence](https://www.hololive.tv/terms).
