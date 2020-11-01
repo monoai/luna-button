@@ -19,9 +19,9 @@ const ja_JP = {
         control: "コントロール",
         stopvoice: "再生停止",
         randomplay: "ランダム",
-        overlap: "声重なる可能",
-        autoplay: "とまらない",
-        loop: "繰り返す",
+        overlap: "多重再生",
+        autoplay: "連続再生",
+        loop: "ループ再生",
         playing: "現在再生：",
         noplay: "再生なし",
         volume: "ボリューム: "
