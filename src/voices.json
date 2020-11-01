@@ -196,7 +196,7 @@
                     "name": "Kamehameha",
                     "path": "SFX_Kamehameha.mp3",
                     "description": {
-                        "ja-JP": "かめはめ 波 は",
+                        "ja-JP": "かめはめ波",
                         "en-US": "Kamehameha"
                     }
                 },
@@ -284,7 +284,7 @@
                     "name": "Nnaaa long",
                     "path": "SFX_Nnaaa Long.mp3",
                     "description": {
-                        "ja-JP": "んなあああ (ながながい)",
+                        "ja-JP": "んなあああ(長い)",
                         "en-US": "Nnaaa (Long)"
                     }
                 },
@@ -421,7 +421,7 @@
                     "name": "otsuluna long-1",
                     "path": "GR_OtsuLunaLong1.mp3",
                     "description": {
-                        "ja-JP": "おつルーナ-1",
+                        "ja-JP": "おつルーナ(長い)-1",
                         "en-US": "OtsuLuna (Long)-1"
                     }
                 },
@@ -429,7 +429,7 @@
                     "name": "otsuluna long-2",
                     "path": "GR_OtsuLunaLong2.mp3",
                     "description": {
-                        "ja-JP": "おつルーナ-2",
+                        "ja-JP": "おつルーナ(長い)-2",
                         "en-US": "OtsuLuna (Long)-2"
                     }
                 }
