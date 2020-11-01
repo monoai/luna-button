@@ -1,8 +1,10 @@
 # Luna button
+![Github](https://img.shields.io/github/last-commit/monoai/luna-button)
+A Voice Button Website dedicated to VTuber Himemori Luna.
+[Click here to visit the website](https://luna-button.vercel.app)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fluna-button.vercel.app)
 
-Luna button [Click here to visit LINK](LINK)
-
-Related Links:
+## Related Links:
 
 * [Himemori Luna's Youtube channel](https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw)
 
@@ -51,13 +53,13 @@ To deploy a local development environment, first install the latest version of N
 > To contribute your code to this project, you don't have to compile locally. After passing the test in the development server and pushing it to Github, you can directly require a Pull Request to this project.
 
 ## LICENCE
-
+![LICENCE](https://img.shields.io/github/license/monoai/luna-button)
 Program: MIT
 
 Audio: According to the [Hololive secondary creation licence](https://www.hololive.tv/terms).
 
-This project is a work of fans and is not related to the hololive official.
+This project is a work of fans and is not related to the official Hololive.
 
 ## Special Thanks
 
-This project is modified based on the [Aqua button](https://github.com/zyzsdy/aqua-button).
+This project is modified based on zyzsdy's [Aqua button](https://github.com/zyzsdy/aqua-button).
