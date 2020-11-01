@@ -6,15 +6,15 @@
                 <button class="btn btn-info" @click="random">{{ $t("action.randomplay") }}</button>
                 <button class="btn btn-info" @click="stopPlay">{{$t("action.stopvoice") }}</button>
                 <button class="btn btn-info" :class="{ 'disabled': autoCheck || loopCheck}" @click="overlap" :title="$t('info.overlapTips')">
-                    <input class="checkbox" type="checkbox" v-model="overlapCheck">
+                    <input class="checkbox" type="checkbox" onchange="this.checked = this.parentNode.disabled" v-model="overlapCheck">
                     <span>{{ $t("action.overlap") }}</span>
                 </button>
                 <button class="btn btn-info" :class="{ 'disabled': overlapCheck || loopCheck }" @click="autoPlay">
-                    <input class="checkbox" type="checkbox" v-model="autoCheck">
+                    <input class="checkbox" type="checkbox" onchange="this.checked = this.parentNode.disabled" v-model="autoCheck">
                     <span>{{ $t("action.autoplay") }}</span>
                 </button>
                 <button class="btn btn-info" :class="{ 'disabled': autoCheck || overlapCheck }" @click="loop" :title="$t('info.loopTips')">
-                    <input class="checkbox" type="checkbox" v-model="loopCheck">
+                    <input class="checkbox" type="checkbox" onchange="this.checked = this.parentNode.disabled" v-model="loopCheck">
                     <span>{{ $t("action.loop") }}</span>
                 </button>
                 <button class="btn btn-info">

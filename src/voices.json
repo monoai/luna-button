@@ -394,11 +394,11 @@
                     }
                 },
                 {
-                    "name": "minna sashiburi",
+                    "name": "minna hisashiburi",
                     "path": "GR_Minna Sashiburi.mp3",
                     "description": {
-                        "ja-JP": "みんなさしぶり",
-                        "en-US": "Minna Sashiburi"
+                        "ja-JP": "みんな久しぶり",
+                        "en-US": "Minna Hisashiburi"
                     }
                 },
                 {
