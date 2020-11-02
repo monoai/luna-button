@@ -55,8 +55,8 @@ To deploy a local development environment, first install the latest version of N
 
 > To contribute your code to this project, you don't have to compile locally. After passing the test in the development server and pushing it to Github, you can directly require a Pull Request to this project.
 
-## LICENCE
-[![LICENCE](https://img.shields.io/github/license/monoai/luna-button)](LICENCE)
+## LICENSE
+[![LICENSE](https://img.shields.io/github/license/monoai/luna-button)](LICENSE)
 
 Program: MIT
 

@@ -3,7 +3,7 @@ const ja_JP = {
         title: "ルーナボタン",
         info: "通知",
         null: "空",
-        audioStaff: "オーディオクリップ: TO BE ADDED",
+        tlHelpers: "翻訳ヘルパー: こーでー",
         toGithub: "Githubで翻訳に参加、音声を追加および提案をしてください。",
         notOfficial: "このサイトはファン作品であり、公式とは関係ありません。",
         overlapTips: "声重なる再生モードは手動で停止できません。大量のスレッドを作成するので、後リフレッシュしてください。",

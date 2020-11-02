@@ -163,7 +163,7 @@
                     "name": "Okay guguru",
                     "path": "EN_Okay Guguru.mp3",
                     "description": {
-                        "ja-JP": "Okay Guguru (Placeholder)",
+                        "ja-JP": "Okay Guguru",
                         "en-US": "Okay Guguru"
                     }
                 },
@@ -204,7 +204,7 @@
                     "name": "Fart1",
                     "path": "SFX_Fart1.mp3",
                     "description": {
-                        "ja-JP": "Fart (Placeholder)",
+                        "ja-JP": "おなら",
                         "en-US": "Fart"
                     }
                 },
@@ -308,15 +308,15 @@
                     "name": "PrrrHarmonic",
                     "path": "SFX_Prrr Harmonic.mp3",
                     "description": {
-                        "ja-JP": "Prrr (Harmonic) (Placeholder)",
-                        "en-US": "Prrr (Harmonic)"
+                        "ja-JP": "Prrr (旋律的)",
+                        "en-US": "Prrr (Melodic)"
                     }
                 },
                 {
                     "name": "Shubashuba1",
                     "path": "SFX_Shuba shuba.mp3",
                     "description": {
-                        "ja-JP": "Shuba shuba",
+                        "ja-JP": "シュバシュバ",
                         "en-US": "Shuba shuba"
                     }
                 },
@@ -340,7 +340,7 @@
                     "name": "Baka aho",
                     "path": "SFX_Baka aho.mp3",
                     "description": {
-                        "ja-JP": "ばか阿呆",
+                        "ja-JP": "バカ！アホ！",
                         "en-US": "Baka aho"
                     }
                 },
@@ -356,7 +356,7 @@
                     "name": "Controller Slam",
                     "path": "SFX_Controller Slam.mp3",
                     "description": {
-                        "ja-JP": "Controller Slam",
+                        "ja-JP": "コントローラー(を)叩く",
                         "en-US": "Controller Slam"
                     }
                 },
@@ -405,7 +405,7 @@
                     "name": "goodnighto-1",
                     "path": "GR_Goodnighto1.mp3",
                     "description": {
-                        "ja-JP": "Goodnighto-1",
+                        "ja-JP": "ぐっとないと-1",
                         "en-US": "Goodnighto-1"
                     }
                 },
@@ -413,7 +413,7 @@
                     "name": "goodnighto-2",
                     "path": "GR_Goodnighto2.mp3",
                     "description": {
-                        "ja-JP": "Goodnighto-2",
+                        "ja-JP": "ぐっとないと-2",
                         "en-US": "Goodnighto-2"
                     }
                 },
@@ -446,7 +446,7 @@
                     "name": "nanoragayatekita",
                     "path": "PN_NanoraGaYatekita.mp3",
                     "description": {
-                        "ja-JP": "なのらがやーてきたー",
+                        "ja-JP": "なのらがやってきたー",
                         "en-US": "Nanora Ga Yatekita"
                     }
                 },
@@ -471,7 +471,7 @@
                     "name": "bigsmokeEN",
                     "path": "PH_Big Smoke Order EN.mp3",
                     "description": {
-                        "ja-JP": "Big Smoke's Order [EN] (Placeholder)",
+                        "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [EN]",
                         "en-US": "Big Smoke's Order [EN]"
                     }
                 },
@@ -479,15 +479,15 @@
                     "name": "bigsmokeJAP",
                     "path": "PH_Big Smoke Order JA.mp3",
                     "description": {
-                        "ja-JP": "Big Smoke's Order [JA] (Placeholder)",
-                        "en-US": "Big Smoke's Order [JA]"
+                        "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [JP]",
+                        "en-US": "Big Smoke's Order [JP]"
                     }
                 },
                 {
                     "name": "Lunazilla Attack",
                     "path": "SFX_Lunazilla Attacks.mp3",
                     "description": {
-                        "ja-JP": "Lunazilla Attacks (Placeholder)",
+                        "ja-JP": "ナノラ(ルーナジラ)の進撃",
                         "en-US": "Lunazilla Attacks!"
                     }
                 },
@@ -503,7 +503,7 @@
                     "name": "matsuri",
                     "path": "PH_Ma...tsu...ri....mp3",
                     "description": {
-                        "ja-JP": "ま。。。つ。。。り。。。",
+                        "ja-JP": "まぁぁああつぅぅううりぃぃい！",
                         "en-US": "Ma...tsu...ri..."
                     }
                 }
@@ -537,7 +537,7 @@
                     "name": "drink1",
                     "path": "ASMR_Drink1.mp3",
                     "description": {
-                        "ja-JP": "ドリンク-1",
+                        "ja-JP": "ごくごく-1",
                         "en-US": "Drink-1"
                     }
                 }
