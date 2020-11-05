@@ -29,7 +29,8 @@ const ja_JP = {
     lang: {
         'zh-CN': "简体中文",
         'en-US': "English",
-        'ja-JP': "日本語"
+        'ja-JP': "日本語",
+        'zh-TW': "中文"
     }
 }
 export default ja_JP;

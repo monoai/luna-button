@@ -4,7 +4,8 @@
             "categoryName": "English phrases/Nanolish",
             "categoryDescription": {
                 "ja-JP": "Nanolish",
-                "en-US": "Nanolish"
+                "en-US": "Nanolish",
+                "zh-TW": "Nanolish"
             },
             "voiceList": [
                 {
@@ -12,15 +13,17 @@
                     "path": "EN_I drink Coca Cola.mp3",
                     "description": {
                         "ja-JP": "I drink Coca Cola",
-                        "en-US": "I drink Coca Cola"
+                        "en-US": "I drink Coca Cola",
+                        "zh-TW": "I drink Coca Cola"
                     }
                 },
                 {
                     "name": "Im brain",
                     "path": "EN_Im brain.mp3",
                     "description": {
-                        "ja-JP": "I'm brain, bakuhatsu",
-                        "en-US": "I'm brain, bakuhatsu!"
+                        "ja-JP": "I'm brain, bakuhatsu!",
+                        "en-US": "I'm brain, bakuhatsu!",
+                        "zh-TW": "I'm brain, bakuhatsu!"
                     }
                 },
                 {
@@ -28,7 +31,8 @@
                     "path": "EN_Oh no Im Hamburger.mp3",
                     "description": {
                         "ja-JP": "Oh no, I'm hamburger",
-                        "en-US": "Oh no, I'm hamburger"
+                        "en-US": "Oh no, I'm hamburger",
+                        "zh-TW": "Oh no, I'm hamburger"
                     }
                 },
                 {
@@ -36,7 +40,8 @@
                     "path": "EN_English Difficult.mp3",
                     "description": {
                         "ja-JP": "English Difficult",
-                        "en-US": "English Difficult"
+                        "en-US": "English Difficult",
+                        "zh-TW": "English Difficult"
                     }
                 },
                 {
@@ -44,7 +49,8 @@
                     "path": "EN_Hurry Up Im Sleepy.mp3",
                     "description": {
                         "ja-JP": "Hurry up!! I'm sleepy!",
-                        "en-US": "Hurry up!! I'm sleepy!"
+                        "en-US": "Hurry up!! I'm sleepy!",
+                        "zh-TW": "Hurry up!! I'm sleepy!"
                     }
                 },
                 {
@@ -52,7 +58,8 @@
                     "path": "EN_Missile Missile.mp3",
                     "description": {
                         "ja-JP": "...Missile missile",
-                        "en-US": "...Missile missile"
+                        "en-US": "...Missile missile",
+                        "zh-TW": "...Missile missile"
                     }
                 },
                 {
@@ -60,7 +67,8 @@
                     "path": "EN_Shut up.mp3",
                     "description": {
                         "ja-JP": "SHUDDUP!",
-                        "en-US": "SHUDDUP!"
+                        "en-US": "SHUDDUP!",
+                        "zh-TW": "SHUDDUP!"
                     }
                 },
                 {
@@ -68,7 +76,8 @@
                     "path": "EN_I dont knoww.mp3",
                     "description": {
                         "ja-JP": "I don't know",
-                        "en-US": "I don't know"
+                        "en-US": "I don't know",
+                        "zh-TW": "I don't know"
                     }
                 },
                 {
@@ -76,7 +85,8 @@
                     "path": "EN_Ahoy.mp3",
                     "description": {
                         "ja-JP": "Ahoy",
-                        "en-US": "Ahoy"
+                        "en-US": "Ahoy",
+                        "zh-TW": "Ahoy"
                     }
                 },
                 {
@@ -84,7 +94,8 @@
                     "path": "EN_Oh my God1.mp3",
                     "description": {
                         "ja-JP": "Oh my God-1",
-                        "en-US": "Oh my God-1"
+                        "en-US": "Oh my God-1",
+                        "zh-TW": "Oh my God-1"
                     }
                 },
                 {
@@ -92,7 +103,8 @@
                     "path": "EN_Oh my God2.mp3",
                     "description": {
                         "ja-JP": "Oh my God-2",
-                        "en-US": "Oh my God-2"
+                        "en-US": "Oh my God-2",
+                        "zh-TW": "Oh my God-2"
                     }
                 },
                 {
@@ -100,7 +112,8 @@
                     "path": "EN_Oh yes.mp3",
                     "description": {
                         "ja-JP": "Oh yes",
-                        "en-US": "Oh yes"
+                        "en-US": "Oh yes",
+                        "zh-TW": "Oh yes"
                     }
                 },
                 {
@@ -108,7 +121,8 @@
                     "path": "EN_Im loving it.mp3",
                     "description": {
                         "ja-JP": "Im loving it",
-                        "en-US": "Im loving it"
+                        "en-US": "Im loving it",
+                        "zh-TW": "Im loving it"
                     }
                 },
                 {
@@ -116,7 +130,8 @@
                     "path": "EN_By the way1.mp3",
                     "description": {
                         "ja-JP": "By the way-1",
-                        "en-US": "By the way-1"
+                        "en-US": "By the way-1",
+                        "zh-TW": "By the way-1"
                     }
                 },
                 {
@@ -124,7 +139,8 @@
                     "path": "EN_By the way2.mp3",
                     "description": {
                         "ja-JP": "By the way-2",
-                        "en-US": "By the way-2"
+                        "en-US": "By the way-2",
+                        "zh-TW": "By the way-2"
                     }
                 },
                 {
@@ -132,7 +148,8 @@
                     "path": "EN_Nanora is English.mp3",
                     "description": {
                         "ja-JP": "Nanora is English",
-                        "en-US": "Nanora is English"
+                        "en-US": "Nanora is English",
+                        "zh-TW": "Nanora is English"
                     }
                 },
                 {
@@ -140,7 +157,8 @@
                     "path": "EN_Im a sugoi.mp3",
                     "description": {
                         "ja-JP": "I'm a sugoi",
-                        "en-US": "I'm a sugoi"
+                        "en-US": "I'm a sugoi",
+                        "zh-TW": "I'm a sugoi"
                     }
                 },
                 {
@@ -148,7 +166,8 @@
                     "path": "EN_Never give up i can do it.mp3",
                     "description": {
                         "ja-JP": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
-                        "en-US": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!"
+                        "en-US": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
+                        "zh-TW": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!"
                     }
                 },
                 {
@@ -156,7 +175,8 @@
                     "path": "EN_I love you.mp3",
                     "description": {
                         "ja-JP": "I love you",
-                        "en-US": "I love you"
+                        "en-US": "I love you",
+                        "zh-TW": "I love you"
                     }
                 },
                 {
@@ -164,7 +184,8 @@
                     "path": "EN_Okay Guguru.mp3",
                     "description": {
                         "ja-JP": "Okay Guguru",
-                        "en-US": "Okay Guguru"
+                        "en-US": "Okay Guguru",
+                        "zh-TW": "Okay Guguru"
                     }
                 },
                 {
@@ -172,7 +193,8 @@
                     "path": "EN_Hotdog is Enemy.mp3",
                     "description": {
                         "ja-JP": "Hotdog is Enemy",
-                        "en-US": "Hotdog is Enemy"
+                        "en-US": "Hotdog is Enemy",
+                        "zh-TW": "Hotdog is Enemy"
                     }
                 },
                 {
@@ -180,7 +202,8 @@
                     "path": "EN_Hotdog is Good.mp3",
                     "description": {
                         "ja-JP": "Hotdog is Good",
-                        "en-US": "Hotdog is Good"
+                        "en-US": "Hotdog is Good",
+                        "zh-TW": "Hotdog is Good"
                     }
                 }
             ]
@@ -189,7 +212,8 @@
             "categoryName": "lunaSFX",
             "categoryDescription": {
                 "ja-JP": "ルーナの音声",
-                "en-US": "Luna Sounds"
+                "en-US": "Luna Sounds",
+                "zh-TW": "璐娜音"
             },
             "voiceList": [
                 {
@@ -197,7 +221,8 @@
                     "path": "SFX_Kamehameha.mp3",
                     "description": {
                         "ja-JP": "かめはめ波",
-                        "en-US": "Kamehameha"
+                        "en-US": "Kamehameha",
+                        "zh-TW": "龜派氣功"
                     }
                 },
                 {
@@ -205,7 +230,8 @@
                     "path": "SFX_Fart1.mp3",
                     "description": {
                         "ja-JP": "おなら",
-                        "en-US": "Fart"
+                        "en-US": "Fart",
+                        "zh-TW": "屁"
                     }
                 },
                 {
@@ -213,7 +239,8 @@
                     "path": "SFX_Giggle1.mp3",
                     "description": {
                         "ja-JP": "くすくす-1",
-                        "en-US": "Giggle-1"
+                        "en-US": "Giggle-1",
+                        "zh-TW": "誒嘿嘿-1"
                     }
                 },
                 {
@@ -221,7 +248,8 @@
                     "path": "SFX_Giggle2.mp3",
                     "description": {
                         "ja-JP": "くすくす-2",
-                        "en-US": "Giggle-2"
+                        "en-US": "Giggle-2",
+                        "zh-TW": "誒嘿嘿-2"
                     }
                 },
                 {
@@ -229,7 +257,8 @@
                     "path": "SFX_Giggle3.mp3",
                     "description": {
                         "ja-JP": "くすくす-3",
-                        "en-US": "Giggle-3"
+                        "en-US": "Giggle-3",
+                        "zh-TW": "誒嘿嘿-3"
                     }
                 },
                 {
@@ -237,7 +266,8 @@
                     "path": "SFX_Giggle4.mp3",
                     "description": {
                         "ja-JP": "くすくす-4",
-                        "en-US": "Giggle-4"
+                        "en-US": "Giggle-4",
+                        "zh-TW": "誒嘿嘿-4"
                     }
                 },
                 {
@@ -245,7 +275,8 @@
                     "path": "SFX_Giggle5.mp3",
                     "description": {
                         "ja-JP": "くすくす-5",
-                        "en-US": "Giggle-5"
+                        "en-US": "Giggle-5",
+                        "zh-TW": "誒嘿嘿-5"
                     }
                 },
                 {
@@ -253,7 +284,8 @@
                     "path": "SFX_Mogumogu1.mp3",
                     "description": {
                         "ja-JP": "もぐもぐ-1",
-                        "en-US": "Mogu mogu-1"
+                        "en-US": "Mogu mogu-1",
+                        "zh-TW": "嚼嚼-1"
                     }
                 },
                 {
@@ -261,7 +293,8 @@
                     "path": "SFX_Mogumogu2.mp3",
                     "description": {
                         "ja-JP": "もぐもぐ-2",
-                        "en-US": "Mogu mogu-2"
+                        "en-US": "Mogu mogu-2",
+                        "zh-TW": "嚼嚼-2"
                     }
                 },
                 {
@@ -269,7 +302,8 @@
                     "path": "SFX_Nna1.mp3",
                     "description": {
                         "ja-JP": "んなあ-1",
-                        "en-US": "Nna-1"
+                        "en-US": "Nna-1",
+                        "zh-TW": "嗯吶-1"
                     }
                 },
                 {
@@ -277,7 +311,8 @@
                     "path": "SFX_Nnaaa.mp3",
                     "description": {
                         "ja-JP": "んなあああ",
-                        "en-US": "Nnaaa"
+                        "en-US": "Nnaaa",
+                        "zh-TW": "嗯吶啊"
                     }
                 },
                 {
@@ -285,7 +320,8 @@
                     "path": "SFX_Nnaaa Long.mp3",
                     "description": {
                         "ja-JP": "んなあああ(長い)",
-                        "en-US": "Nnaaa (Long)"
+                        "en-US": "Nnaaa (Long)",
+                        "zh-TW": "嗯吶啊啊啊 (長)"
                     }
                 },
                 {
@@ -293,7 +329,8 @@
                     "path": "SFX_Nnaaa~i1.mp3",
                     "description": {
                         "ja-JP": "んなあああ~い-1",
-                        "en-US": "Nnaaa~i-1"
+                        "en-US": "Nnaaa~i-1",
+                        "zh-TW": "嗯吶啊啊~咿~-1"
                     }
                 },
                 {
@@ -301,7 +338,8 @@
                     "path": "SFX_Nnaaa~i2.mp3",
                     "description": {
                         "ja-JP": "んなあああ~い-2",
-                        "en-US": "Nnaaa~i-2"
+                        "en-US": "Nnaaa~i-2",
+                        "zh-TW": "嗯吶啊啊~咿~-2"
                     }
                 },
                 {
@@ -309,7 +347,8 @@
                     "path": "SFX_Prrr Harmonic.mp3",
                     "description": {
                         "ja-JP": "Prrr (旋律的)",
-                        "en-US": "Prrr (Melodic)"
+                        "en-US": "Prrr (Melodic)",
+                        "zh-TW": "Prrr (旋律)"
                     }
                 },
                 {
@@ -317,7 +356,8 @@
                     "path": "SFX_Shuba shuba.mp3",
                     "description": {
                         "ja-JP": "シュバシュバ",
-                        "en-US": "Shuba shuba"
+                        "en-US": "Shuba shuba",
+                        "zh-TW": "Shuba shuba"
                     }
                 },
                 {
@@ -325,15 +365,17 @@
                     "path": "SFX_AraAra.mp3",
                     "description": {
                         "ja-JP": "あらあら",
-                        "en-US": "Ara ara"
+                        "en-US": "Ara ara",
+                        "zh-TW": "啊啦啊啦"
                     }
                 },
                 {
                     "name": "Mama mia",
                     "path": "SFX_Mama mia.mp3",
                     "description": {
-                        "ja-JP": "Mama mia",
-                        "en-US": "Mama mia"
+                        "ja-JP": "マンマ・ミーア",
+                        "en-US": "Mama mia",
+                        "zh-TW": "Mama mia"
                     }
                 },
                 {
@@ -341,7 +383,8 @@
                     "path": "SFX_Baka aho.mp3",
                     "description": {
                         "ja-JP": "バカ！アホ！",
-                        "en-US": "Baka aho"
+                        "en-US": "Baka aho",
+                        "zh-TW": "笨蛋 傻瓜"
                     }
                 },
                 {
@@ -349,7 +392,8 @@
                     "path": "SFX_Bluna.mp3",
                     "description": {
                         "ja-JP": "ぶルーナ",
-                        "en-US": "Bluna"
+                        "en-US": "Bluna",
+                        "zh-TW": "藍璐娜"
                     }
                 },
                 {
@@ -357,7 +401,8 @@
                     "path": "SFX_Controller Slam.mp3",
                     "description": {
                         "ja-JP": "コントローラー、叩く",
-                        "en-US": "Controller Slam"
+                        "en-US": "Controller Slam",
+                        "zh-TW": "敲搖控器"
                     }
                 },
                 {
@@ -365,7 +410,8 @@
                     "path": "SFX_Hentai.mp3",
                     "description": {
                         "ja-JP": "変態",
-                        "en-US": "Hentai"
+                        "en-US": "Hentai",
+                        "zh-TW": "變態"
                     }
                 }
             ]
@@ -374,7 +420,8 @@
             "categoryName": "Greetings",
             "categoryDescription": {
                 "ja-JP": "挨拶",
-                "en-US": "Greetings"
+                "en-US": "Greetings",
+                "zh-TW": "打招呼"
             },
             "voiceList": [
                 {
@@ -382,7 +429,8 @@
                     "path": "GR_Minna Oru Short.mp3",
                     "description": {
                         "ja-JP": "みんなおる？ (短い)",
-                        "en-US": "Minna Oru (Short)"
+                        "en-US": "Minna Oru? (Short)",
+                        "zh-TW": "大家在嗎? (短)"
                     }
                 },
                 {
@@ -390,7 +438,8 @@
                     "path": "GR_Minna Oru1.mp3",
                     "description": {
                         "ja-JP": "みんなおる？",
-                        "en-US": "Minna Oru?"
+                        "en-US": "Minna Oru?",
+                        "zh-TW": "大家在嗎?"
                     }
                 },
                 {
@@ -398,7 +447,8 @@
                     "path": "GR_Minna Sashiburi.mp3",
                     "description": {
                         "ja-JP": "みんな久しぶり",
-                        "en-US": "Minna Hisashiburi"
+                        "en-US": "Minna Hisashiburi",
+                        "zh-TW": "大家好久不見"
                     }
                 },
                 {
@@ -406,7 +456,8 @@
                     "path": "GR_Goodnighto1.mp3",
                     "description": {
                         "ja-JP": "ぐっとないと-1",
-                        "en-US": "Goodnighto-1"
+                        "en-US": "Goodnighto-1",
+                        "zh-TW": "Good Night-1"
                     }
                 },
                 {
@@ -414,7 +465,8 @@
                     "path": "GR_Goodnighto2.mp3",
                     "description": {
                         "ja-JP": "ぐっとないと-2",
-                        "en-US": "Goodnighto-2"
+                        "en-US": "Goodnighto-2",
+                        "zh-TW": "Good Night-2"
                     }
                 },
                 {
@@ -422,7 +474,8 @@
                     "path": "GR_OtsuLunaLong1.mp3",
                     "description": {
                         "ja-JP": "おつルーナ(長い)-1",
-                        "en-US": "OtsuLuna (Long)-1"
+                        "en-US": "OtsuLuna (Long)-1",
+                        "zh-TW": "辛苦了璐娜 (長)-1"
                     }
                 },
                 {
@@ -430,7 +483,8 @@
                     "path": "GR_OtsuLunaLong2.mp3",
                     "description": {
                         "ja-JP": "おつルーナ(長い)-2",
-                        "en-US": "OtsuLuna (Long)-2"
+                        "en-US": "OtsuLuna (Long)-2",
+                        "zh-TW": "辛苦了璐娜 (長)-2"
                     }
                 }
             ]
@@ -439,7 +493,8 @@
             "categoryName": "PianoStream",
             "categoryDescription": {
                 "ja-JP": "ピアノのお稽古",
-                "en-US": "Piano Stream"
+                "en-US": "Piano Stream",
+                "zh-TW": "鋼琴練習"
             },
             "voiceList": [
                 {
@@ -447,7 +502,8 @@
                     "path": "PN_NanoraGaYatekita.mp3",
                     "description": {
                         "ja-JP": "なのらがやってきたー",
-                        "en-US": "Nanora Ga Yatekita"
+                        "en-US": "Nanora Ga Yatekita",
+                        "zh-TW": "吶喏啦過來了"
                     }
                 },
                 {
@@ -455,7 +511,8 @@
                     "path": "PN_Neko Funjatta.mp3",
                     "description": {
                         "ja-JP": "ネコふんじゃった",
-                        "en-US": "Neko Funjatta"
+                        "en-US": "Neko Funjatta",
+                        "zh-TW": "踩到了貓咪"
                     }
                 }
             ]
@@ -464,7 +521,8 @@
             "categoryName": "phrases",
             "categoryDescription": {
                 "ja-JP": "名言",
-                "en-US": "Phrases"
+                "en-US": "Phrases",
+                "zh-TW": "名句"
             },
             "voiceList": [
                 {
@@ -472,7 +530,8 @@
                     "path": "PH_Big Smoke Order EN.mp3",
                     "description": {
                         "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [EN]",
-                        "en-US": "Big Smoke's Order [EN]"
+                        "en-US": "Big Smoke's Order [EN]",
+                        "zh-TW": "Big Smoke 點餐台詞 [EN]"
                     }
                 },
                 {
@@ -480,7 +539,8 @@
                     "path": "PH_Big Smoke Order JA.mp3",
                     "description": {
                         "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [JP]",
-                        "en-US": "Big Smoke's Order [JP]"
+                        "en-US": "Big Smoke's Order [JP]",
+                        "zh-TW": "Big Smoke 點餐台詞 [JP]"
                     }
                 },
                 {
@@ -488,7 +548,8 @@
                     "path": "SFX_Lunazilla Attacks.mp3",
                     "description": {
                         "ja-JP": "ナノラ(ルーナジラ)の進撃",
-                        "en-US": "Lunazilla Attacks!"
+                        "en-US": "Lunazilla Attacks!",
+                        "zh-TW": "進擊的吶喏啦(璐娜哥吉拉)"
                     }
                 },
                 {
@@ -496,7 +557,8 @@
                     "path": "PH_Sayonara Hotdog.mp3",
                     "description": {
                         "ja-JP": "さようならホットドッグ",
-                        "en-US": "Sayonara Hotdog"
+                        "en-US": "Sayonara Hotdog",
+                        "zh-TW": "再見了Hotdog"
                     }
                 },
                 {
@@ -504,7 +566,8 @@
                     "path": "PH_Ma...tsu...ri....mp3",
                     "description": {
                         "ja-JP": "まぁぁああつぅぅううりぃぃい！",
-                        "en-US": "Ma...tsu...ri..."
+                        "en-US": "Ma...tsu...ri...",
+                        "zh-TW": "Ma...tsu...ri..."
                     }
                 }
             ]
@@ -513,7 +576,8 @@
             "categoryName": "singing",
             "categoryDescription": {
                 "ja-JP": "歌う",
-                "en-US": "Singing"
+                "en-US": "Singing",
+                "zh-TW": "唱歌"
             },
             "voiceList": [
                 {
@@ -521,7 +585,8 @@
                     "path": "S_PPAP.mp3",
                     "description": {
                         "ja-JP": "PPAP",
-                        "en-US": "PPAP"
+                        "en-US": "PPAP",
+                        "zh-TW": "PPAP"
                     }
                 }
             ]
@@ -530,7 +595,8 @@
             "categoryName": "asmr",
             "categoryDescription": {
                 "ja-JP": "ASMR",
-                "en-US": "ASMR"
+                "en-US": "ASMR",
+                "zh-TW": "ASMR"
             },
             "voiceList": [
                 {
@@ -538,7 +604,8 @@
                     "path": "ASMR_Drink1.mp3",
                     "description": {
                         "ja-JP": "ごくごく-1",
-                        "en-US": "Drink-1"
+                        "en-US": "Drink-1",
+                        "zh-TW": "喝東西-1"
                     }
                 }
             ]
