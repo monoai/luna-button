@@ -54,6 +54,15 @@
                     }
                 },
                 {
+                    "name": "Wake up",
+                    "path": "EN_Wake up.mp3",
+                    "description": {
+                        "ja-JP": "WAKE UP!",
+                        "en-US": "WAKE UP!",
+                        "zh-TW": "WAKE UP!"
+                    }
+                },
+                {
                     "name": "Missile missile",
                     "path": "EN_Missile Missile.mp3",
                     "description": {
