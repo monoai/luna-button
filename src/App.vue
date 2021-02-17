@@ -26,6 +26,7 @@
                                 <li><a href="javascript:;" @click="chlang('en-US')">{{$t("lang.en-US")}}</a></li>
                                 <li><a href="javascript:;" @click="chlang('zh-TW')">{{$t("lang.zh-TW")}}</a></li>
                                 <li><a href="javascript:;" @click="chlang('ja-JP')">{{$t("lang.ja-JP")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('ms-MY')">{{$t("lang.ms-MY")}}</a></li>
                             </ul>
                         </li>
                     </ul>
