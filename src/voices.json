@@ -5,7 +5,8 @@
             "categoryDescription": {
                 "ja-JP": "Nanolish",
                 "en-US": "Nanolish",
-                "zh-TW": "Nanolish"
+                "zh-TW": "Nanolish",
+                "ms-MY": "Nanolisy"
             },
             "voiceList": [
                 {
@@ -14,7 +15,8 @@
                     "description": {
                         "ja-JP": "I drink Coca Cola",
                         "en-US": "I drink Coca Cola",
-                        "zh-TW": "I drink Coca Cola"
+                        "zh-TW": "I drink Coca Cola",
+                        "ms-MY": "I drink Coca Cola"
                     }
                 },
                 {
@@ -23,7 +25,8 @@
                     "description": {
                         "ja-JP": "I'm brain, bakuhatsu!",
                         "en-US": "I'm brain, bakuhatsu!",
-                        "zh-TW": "I'm brain, bakuhatsu!"
+                        "zh-TW": "I'm brain, bakuhatsu!",
+                        "ms-MY": "I'm brain, bakuhatsu!"
                     }
                 },
                 {
@@ -32,7 +35,8 @@
                     "description": {
                         "ja-JP": "Oh no, I'm hamburger",
                         "en-US": "Oh no, I'm hamburger",
-                        "zh-TW": "Oh no, I'm hamburger"
+                        "zh-TW": "Oh no, I'm hamburger",
+                        "ms-MY": "Oh no, I'm hamburger"
                     }
                 },
                 {
@@ -41,7 +45,8 @@
                     "description": {
                         "ja-JP": "English Difficult",
                         "en-US": "English Difficult",
-                        "zh-TW": "English Difficult"
+                        "zh-TW": "English Difficult",
+                        "ms-MY": "English Difficult"
                     }
                 },
                 {
@@ -50,7 +55,8 @@
                     "description": {
                         "ja-JP": "Hurry up!! I'm sleepy!",
                         "en-US": "Hurry up!! I'm sleepy!",
-                        "zh-TW": "Hurry up!! I'm sleepy!"
+                        "zh-TW": "Hurry up!! I'm sleepy!",
+                        "ms-MY": "Hurry up!! I'm sleepy!"
                     }
                 },
                 {
@@ -59,7 +65,8 @@
                     "description": {
                         "ja-JP": "WAKE UP!",
                         "en-US": "WAKE UP!",
-                        "zh-TW": "WAKE UP!"
+                        "zh-TW": "WAKE UP!",
+                        "ms-MY": "WAKE UP!"
                     }
                 },
                 {
@@ -68,7 +75,8 @@
                     "description": {
                         "ja-JP": "...Missile missile",
                         "en-US": "...Missile missile",
-                        "zh-TW": "...Missile missile"
+                        "zh-TW": "...Missile missile",
+                        "ms-MY": "...Missile missile"
                     }
                 },
                 {
@@ -77,7 +85,8 @@
                     "description": {
                         "ja-JP": "SHUDDUP!",
                         "en-US": "SHUDDUP!",
-                        "zh-TW": "SHUDDUP!"
+                        "zh-TW": "SHUDDUP!",
+                        "ms-MY": "SHUDDUP!"
                     }
                 },
                 {
@@ -86,7 +95,8 @@
                     "description": {
                         "ja-JP": "I don't know",
                         "en-US": "I don't know",
-                        "zh-TW": "I don't know"
+                        "zh-TW": "I don't know",
+                        "ms-MY": "I don't know"
                     }
                 },
                 {
@@ -95,7 +105,8 @@
                     "description": {
                         "ja-JP": "Ahoy",
                         "en-US": "Ahoy",
-                        "zh-TW": "Ahoy"
+                        "zh-TW": "Ahoy",
+                        "ms-MY": "Ahoi"
                     }
                 },
                 {
@@ -104,7 +115,8 @@
                     "description": {
                         "ja-JP": "Oh my God-1",
                         "en-US": "Oh my God-1",
-                        "zh-TW": "Oh my God-1"
+                        "zh-TW": "Oh my God-1",
+                        "ms-MY": "Oh my God-1"
                     }
                 },
                 {
@@ -113,7 +125,8 @@
                     "description": {
                         "ja-JP": "Oh my God-2",
                         "en-US": "Oh my God-2",
-                        "zh-TW": "Oh my God-2"
+                        "zh-TW": "Oh my God-2",
+                        "ms-MY": "Oh my God-2"
                     }
                 },
                 {
@@ -122,7 +135,8 @@
                     "description": {
                         "ja-JP": "Oh yes",
                         "en-US": "Oh yes",
-                        "zh-TW": "Oh yes"
+                        "zh-TW": "Oh yes",
+                        "zh-TW": "ms-MY"
                     }
                 },
                 {
@@ -131,7 +145,8 @@
                     "description": {
                         "ja-JP": "Im loving it",
                         "en-US": "Im loving it",
-                        "zh-TW": "Im loving it"
+                        "zh-TW": "Im loving it",
+                        "ms-MY": "Im loving it"
                     }
                 },
                 {
@@ -140,7 +155,8 @@
                     "description": {
                         "ja-JP": "By the way-1",
                         "en-US": "By the way-1",
-                        "zh-TW": "By the way-1"
+                        "zh-TW": "By the way-1",
+                        "ms-MY": "By the way-1"
                     }
                 },
                 {
@@ -149,7 +165,8 @@
                     "description": {
                         "ja-JP": "By the way-2",
                         "en-US": "By the way-2",
-                        "zh-TW": "By the way-2"
+                        "zh-TW": "By the way-2",
+                        "ms-MY": "By the way-2"
                     }
                 },
                 {
@@ -158,7 +175,8 @@
                     "description": {
                         "ja-JP": "Nanora is English",
                         "en-US": "Nanora is English",
-                        "zh-TW": "Nanora is English"
+                        "zh-TW": "Nanora is English",
+                        "ms-MY": "Nanora is English"
                     }
                 },
                 {
@@ -167,7 +185,8 @@
                     "description": {
                         "ja-JP": "I'm a sugoi",
                         "en-US": "I'm a sugoi",
-                        "zh-TW": "I'm a sugoi"
+                        "zh-TW": "I'm a sugoi",
+                        "ms-MY": "I'm a sugoi"
                     }
                 },
                 {
@@ -176,7 +195,8 @@
                     "description": {
                         "ja-JP": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
                         "en-US": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
-                        "zh-TW": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!"
+                        "zh-TW": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
+                        "ms-MY": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!"
                     }
                 },
                 {
@@ -185,7 +205,8 @@
                     "description": {
                         "ja-JP": "I love you",
                         "en-US": "I love you",
-                        "zh-TW": "I love you"
+                        "zh-TW": "I love you",
+                        "ms-MY": "I love you"
                     }
                 },
                 {
@@ -194,7 +215,8 @@
                     "description": {
                         "ja-JP": "Okay Guguru",
                         "en-US": "Okay Guguru",
-                        "zh-TW": "Okay Guguru"
+                        "zh-TW": "Okay Guguru",
+                        "ms-MY": "Okay Guguru"
                     }
                 },
                 {
@@ -203,7 +225,8 @@
                     "description": {
                         "ja-JP": "Hotdog is Enemy",
                         "en-US": "Hotdog is Enemy",
-                        "zh-TW": "Hotdog is Enemy"
+                        "zh-TW": "Hotdog is Enemy",
+                        "ms-MY": "Hotdog is Enemy"
                     }
                 },
                 {
@@ -212,7 +235,8 @@
                     "description": {
                         "ja-JP": "Hotdog is Good",
                         "en-US": "Hotdog is Good",
-                        "zh-TW": "Hotdog is Good"
+                        "zh-TW": "Hotdog is Good",
+                        "ms-MY": "Hotdog is Good"
                     }
                 }
             ]
@@ -222,7 +246,8 @@
             "categoryDescription": {
                 "ja-JP": "ルーナの音声",
                 "en-US": "Luna Sounds",
-                "zh-TW": "璐娜音"
+                "zh-TW": "璐娜音",
+                "ms-MY": "Suara Luna"
             },
             "voiceList": [
                 {
@@ -231,7 +256,8 @@
                     "description": {
                         "ja-JP": "かめはめ波",
                         "en-US": "Kamehameha",
-                        "zh-TW": "龜派氣功"
+                        "zh-TW": "龜派氣功",
+                        "ms-MY": "Kamehameha"
                     }
                 },
                 {
@@ -240,7 +266,8 @@
                     "description": {
                         "ja-JP": "おなら",
                         "en-US": "Fart",
-                        "zh-TW": "屁"
+                        "zh-TW": "屁",
+                        "ms-MY": "Kentut"
                     }
                 },
                 {
@@ -249,7 +276,8 @@
                     "description": {
                         "ja-JP": "くすくす-1",
                         "en-US": "Giggle-1",
-                        "zh-TW": "誒嘿嘿-1"
+                        "zh-TW": "誒嘿嘿-1",
+                        "ms-MY": "Berdekit-dekit-1"
                     }
                 },
                 {
@@ -258,7 +286,8 @@
                     "description": {
                         "ja-JP": "くすくす-2",
                         "en-US": "Giggle-2",
-                        "zh-TW": "誒嘿嘿-2"
+                        "zh-TW": "誒嘿嘿-2",
+                        "ms-MY": "Berdekit-dekit-2"
                     }
                 },
                 {
@@ -267,7 +296,8 @@
                     "description": {
                         "ja-JP": "くすくす-3",
                         "en-US": "Giggle-3",
-                        "zh-TW": "誒嘿嘿-3"
+                        "zh-TW": "誒嘿嘿-3",
+                        "ms-MY": "Berdekit-dekit-3"
                     }
                 },
                 {
@@ -276,7 +306,8 @@
                     "description": {
                         "ja-JP": "くすくす-4",
                         "en-US": "Giggle-4",
-                        "zh-TW": "誒嘿嘿-4"
+                        "zh-TW": "誒嘿嘿-4",
+                        "ms-MY": "Berdekit-dekit-4"
                     }
                 },
                 {
@@ -285,7 +316,8 @@
                     "description": {
                         "ja-JP": "くすくす-5",
                         "en-US": "Giggle-5",
-                        "zh-TW": "誒嘿嘿-5"
+                        "zh-TW": "誒嘿嘿-5",
+                        "ms-MY": "Berdekit-dekit-5"
                     }
                 },
                 {
@@ -294,7 +326,8 @@
                     "description": {
                         "ja-JP": "もぐもぐ-1",
                         "en-US": "Mogu mogu-1",
-                        "zh-TW": "嚼嚼-1"
+                        "zh-TW": "嚼嚼-1",
+                        "ms-MY": "Kunyah-1"
                     }
                 },
                 {
@@ -303,7 +336,8 @@
                     "description": {
                         "ja-JP": "もぐもぐ-2",
                         "en-US": "Mogu mogu-2",
-                        "zh-TW": "嚼嚼-2"
+                        "zh-TW": "嚼嚼-2",
+                        "ms-MY": "Kunyah-2"
                     }
                 },
                 {
@@ -312,7 +346,8 @@
                     "description": {
                         "ja-JP": "んなあ-1",
                         "en-US": "Nna-1",
-                        "zh-TW": "嗯吶-1"
+                        "zh-TW": "嗯吶-1",
+                        "ms-MY": "Nnaa-1"
                     }
                 },
                 {
@@ -321,7 +356,8 @@
                     "description": {
                         "ja-JP": "んなあああ",
                         "en-US": "Nnaaa",
-                        "zh-TW": "嗯吶啊"
+                        "zh-TW": "嗯吶啊",
+                        "ms-MY": "Nnaaaa-1"
                     }
                 },
                 {
@@ -330,7 +366,8 @@
                     "description": {
                         "ja-JP": "んなあああ(長い)",
                         "en-US": "Nnaaa (Long)",
-                        "zh-TW": "嗯吶啊啊啊 (長)"
+                        "zh-TW": "嗯吶啊啊啊 (長)",
+                        "ms-MY": "Nnaaaa (Panjang)"
                     }
                 },
                 {
@@ -339,7 +376,8 @@
                     "description": {
                         "ja-JP": "んなあああ~い-1",
                         "en-US": "Nnaaa~i-1",
-                        "zh-TW": "嗯吶啊啊~咿~-1"
+                        "zh-TW": "嗯吶啊啊~咿~-1",
+                        "ms-MY": "Nnaaaa~i-1"
                     }
                 },
                 {
@@ -348,7 +386,8 @@
                     "description": {
                         "ja-JP": "んなあああ~い-2",
                         "en-US": "Nnaaa~i-2",
-                        "zh-TW": "嗯吶啊啊~咿~-2"
+                        "zh-TW": "嗯吶啊啊~咿~-2",
+                        "ms-MY": "Nnaaaa~i-2"
                     }
                 },
                 {
@@ -357,7 +396,8 @@
                     "description": {
                         "ja-JP": "Prrr (旋律的)",
                         "en-US": "Prrr (Melodic)",
-                        "zh-TW": "Prrr (旋律)"
+                        "zh-TW": "Prrr (旋律)",
+                        "ms-MY": "Prrr (Beralun)"
                     }
                 },
                 {
@@ -366,7 +406,8 @@
                     "description": {
                         "ja-JP": "シュバシュバ",
                         "en-US": "Shuba shuba",
-                        "zh-TW": "Shuba shuba"
+                        "zh-TW": "Shuba shuba",
+                        "ms-MY": "Syuba-syuba"
                     }
                 },
                 {
@@ -375,7 +416,8 @@
                     "description": {
                         "ja-JP": "あらあら",
                         "en-US": "Ara ara",
-                        "zh-TW": "啊啦啊啦"
+                        "zh-TW": "啊啦啊啦",
+                        "ms-MY": "Alah-alah"
                     }
                 },
                 {
@@ -384,7 +426,8 @@
                     "description": {
                         "ja-JP": "マンマ・ミーア",
                         "en-US": "Mama mia",
-                        "zh-TW": "Mama mia"
+                        "zh-TW": "Mama mia",
+                        "ms-MY": "Mamma mia"
                     }
                 },
                 {
@@ -393,7 +436,8 @@
                     "description": {
                         "ja-JP": "バカ！アホ！",
                         "en-US": "Baka aho",
-                        "zh-TW": "笨蛋 傻瓜"
+                        "zh-TW": "笨蛋 傻瓜",
+                        "ms-MY": "Dungu! Tolol!"
                     }
                 },
                 {
@@ -402,7 +446,8 @@
                     "description": {
                         "ja-JP": "ぶルーナ",
                         "en-US": "Bluna",
-                        "zh-TW": "藍璐娜"
+                        "zh-TW": "藍璐娜",
+                        "ms-MY": "Luna Biru"
                     }
                 },
                 {
@@ -411,7 +456,8 @@
                     "description": {
                         "ja-JP": "コントローラー、叩く",
                         "en-US": "Controller Slam",
-                        "zh-TW": "敲搖控器"
+                        "zh-TW": "敲搖控器",
+                        "ms-MY": "Hentakan Alat Kawal"
                     }
                 },
                 {
@@ -420,7 +466,8 @@
                     "description": {
                         "ja-JP": "変態",
                         "en-US": "Hentai",
-                        "zh-TW": "變態"
+                        "zh-TW": "變態",
+                        "ms-MY": "Hentai"
                     }
                 }
             ]
@@ -430,7 +477,8 @@
             "categoryDescription": {
                 "ja-JP": "挨拶",
                 "en-US": "Greetings",
-                "zh-TW": "打招呼"
+                "zh-TW": "打招呼",
+                "ms-MY": "Sapaan"
             },
             "voiceList": [
                 {
@@ -439,7 +487,8 @@
                     "description": {
                         "ja-JP": "みんなおる？ (短い)",
                         "en-US": "Minna Oru? (Short)",
-                        "zh-TW": "大家在嗎? (短)"
+                        "zh-TW": "大家在嗎? (短)",
+                        "ms-MY": "Semua ada? (Pendek)"
                     }
                 },
                 {
@@ -448,7 +497,8 @@
                     "description": {
                         "ja-JP": "みんなおる？",
                         "en-US": "Minna Oru?",
-                        "zh-TW": "大家在嗎?"
+                        "zh-TW": "大家在嗎?",
+                        "ms-MY": "Semua ada?"
                     }
                 },
                 {
@@ -457,7 +507,8 @@
                     "description": {
                         "ja-JP": "みんな久しぶり",
                         "en-US": "Minna Hisashiburi",
-                        "zh-TW": "大家好久不見"
+                        "zh-TW": "大家好久不見",
+                        "ms-MY": "Lama tak berjumpa semua"
                     }
                 },
                 {
@@ -466,7 +517,8 @@
                     "description": {
                         "ja-JP": "ぐっとないと-1",
                         "en-US": "Goodnighto-1",
-                        "zh-TW": "Good Night-1"
+                        "zh-TW": "Good Night-1",
+                        "ms-MY": "Gut Naito-1"
                     }
                 },
                 {
@@ -475,7 +527,8 @@
                     "description": {
                         "ja-JP": "ぐっとないと-2",
                         "en-US": "Goodnighto-2",
-                        "zh-TW": "Good Night-2"
+                        "zh-TW": "Good Night-2",
+                        "ms-MY": "Gut Naito-2"
                     }
                 },
                 {
@@ -484,7 +537,8 @@
                     "description": {
                         "ja-JP": "おつルーナ(長い)-1",
                         "en-US": "OtsuLuna (Long)-1",
-                        "zh-TW": "辛苦了璐娜 (長)-1"
+                        "zh-TW": "辛苦了璐娜 (長)-1",
+                        "ms-MY": "Selamat Tinggaluna (Panjang)-1"
                     }
                 },
                 {
@@ -493,7 +547,8 @@
                     "description": {
                         "ja-JP": "おつルーナ(長い)-2",
                         "en-US": "OtsuLuna (Long)-2",
-                        "zh-TW": "辛苦了璐娜 (長)-2"
+                        "zh-TW": "辛苦了璐娜 (長)-2",
+                        "ms-MY": "Selamat Tinggaluna (Panjang)-2"
                     }
                 }
             ]
@@ -503,7 +558,8 @@
             "categoryDescription": {
                 "ja-JP": "ピアノのお稽古",
                 "en-US": "Piano Stream",
-                "zh-TW": "鋼琴練習"
+                "zh-TW": "鋼琴練習",
+                "ms-MY": "Latihan Piano"
             },
             "voiceList": [
                 {
@@ -512,7 +568,8 @@
                     "description": {
                         "ja-JP": "なのらがやってきたー",
                         "en-US": "Nanora Ga Yatekita",
-                        "zh-TW": "吶喏啦過來了"
+                        "zh-TW": "吶喏啦過來了",
+                        "ms-MY": "Nanora telah tiba"
                     }
                 },
                 {
@@ -521,7 +578,8 @@
                     "description": {
                         "ja-JP": "ネコふんじゃった",
                         "en-US": "Neko Funjatta",
-                        "zh-TW": "踩到了貓咪"
+                        "zh-TW": "踩到了貓咪",
+                        "ms-MY": "Flohwalzer"
                     }
                 }
             ]
@@ -531,7 +589,8 @@
             "categoryDescription": {
                 "ja-JP": "名言",
                 "en-US": "Phrases",
-                "zh-TW": "名句"
+                "zh-TW": "名句",
+                "ms-MY": "Ungkapan"
             },
             "voiceList": [
                 {
@@ -540,7 +599,8 @@
                     "description": {
                         "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [EN]",
                         "en-US": "Big Smoke's Order [EN]",
-                        "zh-TW": "Big Smoke 點餐台詞 [EN]"
+                        "zh-TW": "Big Smoke 點餐台詞 [EN]",
+                        "ms-MY": "Pesanan Big Smoke [BI]"
                     }
                 },
                 {
@@ -549,7 +609,8 @@
                     "description": {
                         "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [JP]",
                         "en-US": "Big Smoke's Order [JP]",
-                        "zh-TW": "Big Smoke 點餐台詞 [JP]"
+                        "zh-TW": "Big Smoke 點餐台詞 [JP]",
+                        "ms-MY": "Pesanan Big Smoke [BJ]"
                     }
                 },
                 {
@@ -558,7 +619,8 @@
                     "description": {
                         "ja-JP": "ナノラ(ルーナジラ)の進撃",
                         "en-US": "Lunazilla Attacks!",
-                        "zh-TW": "進擊的吶喏啦(璐娜哥吉拉)"
+                        "zh-TW": "進擊的吶喏啦(璐娜哥吉拉)",
+                        "ms-MY": "Serangan Raksaluna"
                     }
                 },
                 {
@@ -567,7 +629,8 @@
                     "description": {
                         "ja-JP": "さようならホットドッグ",
                         "en-US": "Sayonara Hotdog",
-                        "zh-TW": "再見了Hotdog"
+                        "zh-TW": "再見了Hotdog",
+                        "ms-MY": "Selamat Jalan Hot Dog"
                     }
                 },
                 {
@@ -576,7 +639,8 @@
                     "description": {
                         "ja-JP": "まぁぁああつぅぅううりぃぃい！",
                         "en-US": "Ma...tsu...ri...",
-                        "zh-TW": "Ma...tsu...ri..."
+                        "zh-TW": "Ma...tsu...ri...",
+                        "ms-MY": "Maaatsuuuriii"
                     }
                 }
             ]
@@ -586,7 +650,8 @@
             "categoryDescription": {
                 "ja-JP": "歌う",
                 "en-US": "Singing",
-                "zh-TW": "唱歌"
+                "zh-TW": "唱歌",
+                "ms-MY": "Nyanyian"
             },
             "voiceList": [
                 {
@@ -595,7 +660,8 @@
                     "description": {
                         "ja-JP": "PPAP",
                         "en-US": "PPAP",
-                        "zh-TW": "PPAP"
+                        "zh-TW": "PPAP",
+                        "ms-MY": "PPAP"
                     }
                 }
             ]
@@ -605,7 +671,8 @@
             "categoryDescription": {
                 "ja-JP": "ASMR",
                 "en-US": "ASMR",
-                "zh-TW": "ASMR"
+                "zh-TW": "ASMR",
+                "ms-MY": "ASMR"
             },
             "voiceList": [
                 {
@@ -614,7 +681,8 @@
                     "description": {
                         "ja-JP": "ごくごく-1",
                         "en-US": "Drink-1",
-                        "zh-TW": "喝東西-1"
+                        "zh-TW": "喝東西-1",
+                        "ms-MY": "Deguk-1"
                     }
                 }
             ]
