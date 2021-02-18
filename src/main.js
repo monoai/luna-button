@@ -8,6 +8,7 @@ import en_US from './locales/en-US'
 import zh_CN from './locales/zh-CN'
 import zh_TW from './locales/zh-TW'
 import ja_JP from './locales/ja-JP'
+import ms_MY from './locales/ms-MY'
 
 import $ from 'jquery'
 global.jQuery = global.$ = $;
@@ -23,6 +24,7 @@ let addZh_CN = { voice: {}, voicecategory: {} };
 let addZh_TW = { voice: {}, voicecategory: {} };
 let adden_US = { voice: {}, voicecategory: {} };
 let addja_JP = { voice: {}, voicecategory: {} };
+let addms_MY = { voice: {}, voicecategory: {} };
 
 for (let voiceCategoryList of VoiceList.voices){
   if(voiceCategoryList.categoryDescription !== undefined){
@@ -37,6 +39,9 @@ for (let voiceCategoryList of VoiceList.voices){
     }
     if(voiceCategoryList.categoryDescription['ja-JP'] !== undefined){
       addja_JP.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['ja-JP'];
+    }
+    if(voiceCategoryList.categoryDescription['ms-MY'] !== undefined){
+      addms_MY.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['ms-MY'];
     }
   }
   for (let voiceItem of voiceCategoryList.voiceList){
@@ -53,6 +58,9 @@ for (let voiceCategoryList of VoiceList.voices){
       if(voiceItem.description['ja-JP'] !== undefined){
         addja_JP.voice[voiceItem.name] = voiceItem.description['ja-JP'];
       }
+      if(voiceItem.description['ms-MY'] !== undefined){
+        addms_MY.voice[voiceItem.name] = voiceItem.description['ms-MY'];
+      }
     }
   }
 }
@@ -61,6 +69,7 @@ let emzh_CN = Object.assign(zh_CN, addZh_CN);
 let emzh_TW = Object.assign(zh_TW, addZh_TW);
 let emen_US = Object.assign(en_US, adden_US);
 let emja_JP = Object.assign(ja_JP, addja_JP);
+let emms_MY = Object.assign(ms_MY, addms_MY);
 
 Vue.config.productionTip = false
 
@@ -71,7 +80,8 @@ const messages = {
   'en-US': emen_US,
   'zh-CN': emzh_CN,
   'zh-TW': emzh_TW,
-  'ja-JP': emja_JP
+  'ja-JP': emja_JP,
+  'ms-MY': emms_MY
 }
 
 let locale = 'en-US';
@@ -84,12 +94,14 @@ else if(/cn/i.test(navigator.language)) {
 else if(/cn/i.test(navigator.language)) {
   locale = 'zh-TW';
 }
+else if(/ms/i.test(navigator.language)) {
+  locale = 'ms-MY';
+}
 
 const i18n = new VueI18n({
   locale,
   messages
 })
-
 
 new Vue({
   router,

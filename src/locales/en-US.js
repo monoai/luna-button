@@ -3,7 +3,7 @@ const en_US = {
         title: "Luna Button",
         info: "Information",
         null: "Empty",
-        tlHelpers: "Translation Helpers: こーでー, Uchan",
+        tlHelpers: "Translation Helpers: こーでー, Uchan, Admiy02",
         toGithub: "Please participate in translation, add audio, or make suggestions on Github:",
         notOfficial: "This site is a fan work and is not associated with the official Hololive.",
         overlapTips: "Overlapping play can't be stopped and creates a lot of playback, better refresh when you've had enough of it",
@@ -30,7 +30,8 @@ const en_US = {
         'zh-CN': "简体中文",
         'en-US': "English",
         'ja-JP': "日本語",
-        'zh-TW': "中文"
+        'zh-TW': "中文",
+        'ms-MY': "bahasa Melayu"
     }
 }
 export default en_US;
