@@ -57,6 +57,7 @@ for (let voiceCategoryList of VoiceList.voices){
       }
       if(voiceItem.description['ja-JP'] !== undefined){
         addja_JP.voice[voiceItem.name] = voiceItem.description['ja-JP'];
+      }
       if(voiceItem.description['ms-MY'] !== undefined){
         addms_MY.voice[voiceItem.name] = voiceItem.description['ms-MY'];
       }
@@ -101,7 +102,6 @@ const i18n = new VueI18n({
   locale,
   messages
 })
-
 
 new Vue({
   router,

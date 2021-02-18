@@ -3,7 +3,7 @@ const ms_MY = {
         title: "Butang Luna",
         info: "Maklumat",
         null: "Kosong",
-        tlHelpers: "Bantuan terjemahan oleh こーでー, Uchan",
+        tlHelpers: "Bantuan terjemahan oleh こーでー, Uchan, Admiy02",
         toGithub: "Sumbangkan terjemahan, bunyi-bunyian atau cadangan lain di Github:",
         notOfficial: "Laman ini hanyalah buatan peminat serta tiada kaitan dengan hololive secara rasmi.",
         overlapTips: "Bunyi yang dimainkan secara bertindan tidak boleh dihentikan serta menghasilkan gema. Muatkan semula lama sekiranya sudah puas",
@@ -30,7 +30,7 @@ const ms_MY = {
         'zh-CN': "简体中文",
         'en-US': "English",
         'ja-JP': "日本語",
-        'zh-TW': "中文"
+        'zh-TW': "中文",
         'ms-MY': "bahasa Melayu"
     }
 }

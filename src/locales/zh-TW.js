@@ -3,7 +3,7 @@ const zh_TW = {
         title: "璐娜按鈕",
         info: "資訊",
         null: "空",
-        tlHelpers: "翻譯幫手: こーでー, Uchan",
+        tlHelpers: "翻譯幫手: こーでー, Uchan, Admiy02",
         toGithub: "到Github參與翻譯、追加聲音或提供建議",
         notOfficial: "本網站由粉絲創作，與Hololive官方沒有關係",
         overlapTips: "聲音的重疊播放模式無法中途停止，會產生很多次播放，重新整理頁面可以全部停止",
@@ -30,7 +30,8 @@ const zh_TW = {
         'zh-CN': "简体中文",
         'en-US': "English",
         'ja-JP': "日本語",
-        'zh-TW': "中文"
+        'zh-TW': "中文",
+        'ms-MY': "bahasa Melayu"
     }
 }
 export default zh_TW;
