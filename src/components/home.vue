@@ -17,11 +17,13 @@
                     <input class="checkbox" type="checkbox" onchange="this.checked = this.parentNode.disabled" v-model="loopCheck">
                     <span>{{ $t("action.loop") }}</span>
                 </button>
-                <button class="btn btn-info">
-                  <span>{{ $t("action.volume") }}</span>
-                  <input class="slidecontainer slider" type="range" min="0" max="100" value="80" id="volNum" @click="volGet">
-                </button>
-                <p>{{ $t("action.volume") }}<span id="volOut">80</span></p>
+                <div class="visible-md visible-lg">
+                  <button class="btn btn-info">
+                    <span>{{ $t("action.volume") }}</span>
+                    <input class="slidecontainer slider" type="range" min="0" max="100" value="80" id="volNum" @click="volGet">
+                  </button>
+                  <p>{{ $t("action.volume") }}<span id="volOut">80</span></p>
+                </div>
             </div>
             <div class="cate-body">
                 <span>{{ voice.name ? $t("action.playing") + $t("voice." + voice.name ) : $t("action.noplay") }}</span>
