@@ -53,12 +53,11 @@
 
 <style lang="scss">
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Mina&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mina&family=Open+Sans:wght@600&family=PT+Sans&family=Source+Sans+Pro&display=swap');
 body{
     padding-top: 70px;
     background-image: url('/resources/body_bg.png');
-    font-family: 'Mina', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 .nav.navbar-nav li a, .navbar-default .navbar-brand{
     color: white;
