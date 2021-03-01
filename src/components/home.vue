@@ -79,17 +79,11 @@
 }
 .cate-body button:hover{
     color: #ABA5D8;
-    text-shadow: -1px 1px 1px #666381,
-                  1px 1px 0px #666381,
-                  1px -1px 0 #666381,
-                  -1px -1px 0 #666381;
+    text-shadow: -1px 0 1px #666381, 0 1px #666381, 1px 0 #666381, 0 -1px #666381;
 }
 .cate-body button:focus{
     color: #91d7f1;
-    text-shadow: -1px 1px 1px #666381,
-                  1px 1px 0px #666381,
-                  1px -1px 0 #666381,
-                  -1px -1px 0 #666381;
+    text-shadow: -1px 0 1px #666381, 0 1px #666381, 1px 0 #666381, 0 -1px #666381;
 }
 .checkbox {
     display: inline-block;
