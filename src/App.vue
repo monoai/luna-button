@@ -21,12 +21,12 @@
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
-                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{$t("lang." + currentLang)}} <span class="caret"></span></a>
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{$t("info.lang")}} <country-flag :country=changeFlag size='small'/> {{$t("lang." + currentLang)}} <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="javascript:;" @click="chlang('en-US')">{{$t("lang.en-US")}}</a></li>
-                                <li><a href="javascript:;" @click="chlang('zh-TW')">{{$t("lang.zh-TW")}}</a></li>
-                                <li><a href="javascript:;" @click="chlang('ja-JP')">{{$t("lang.ja-JP")}}</a></li>
-                                <li><a href="javascript:;" @click="chlang('ms-MY')">{{$t("lang.ms-MY")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('en-US')"><country-flag country="us" size='small'/> {{$t("lang.en-US")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('zh-TW')"><country-flag country="tw" size='small'/> {{$t("lang.zh-TW")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('ja-JP')"><country-flag country="jp" size='small'/> {{$t("lang.ja-JP")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('ms-MY')"><country-flag country="my" size='small'/> {{$t("lang.ms-MY")}}</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -53,9 +53,12 @@
 
 <style lang="scss">
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mina&family=Source+Sans+Pro&display=swap');
 body{
     padding-top: 70px;
     background-image: url('/resources/body_bg.png');
+    font-family: 'Mina', sans-serif;
 }
 .nav.navbar-nav li a, .navbar-default .navbar-brand{
     color: white;
@@ -112,16 +115,31 @@ body{
 import Vue from 'vue'
 import Component from 'vue-class-component'
 import Modal from './components/modal.vue'
+import CountryFlag from 'vue-country-flag'
 //import fetchpost from './util/fetchpost'
 
 @Component({
     components:{
-        Modal
+        Modal,
+        CountryFlag
     }
 })
 class App extends Vue {
     get currentLang(){
         return this.$i18n.locale;
+    }
+    get changeFlag(){
+        if(this.currentLang == 'en-US') {
+          return 'us';
+        } else if (this.currentLang == 'ja-JP'){
+          return 'jp';
+        } else if (this.currentLang == 'zh-TW'){
+          return 'tw';
+        } else if (this.currentLang == 'ms-MY'){
+          return 'my';
+        } else {
+          return 'ph';
+        }
     }
     created(){
         //eslint-disable-next-line

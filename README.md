@@ -1,11 +1,11 @@
 # Luna Button
 [![Last Commit](https://img.shields.io/github/last-commit/monoai/luna-button)]()
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fluna-button.vercel.app)](https://luna-button.vercel.app)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fnanora.moe)](https://nanora.moe)
 [![Twitter Follow](https://img.shields.io/twitter/follow/monoAI_)](https://twitter.com/monoAI_)
 
-A Voice Button Website dedicated to VTuber Himemori Luna.
+A Voice Button Website dedicated to Hololive 4th Generation VTuber Himemori Luna. んなあああああああああああああ！！！！
 
-[Click here to visit the website](https://luna-button.vercel.app)
+[Click here to visit https://nanora.moe](https://nanora.moe)
 
 ## Related Links:
 
@@ -36,6 +36,8 @@ Please help us translate to English and Japanese!
 The language files for the main program are in three .js files named the language name in [src/locales](src/locales).
 
 The language files for voices are in [src/voices.json](src/voices.json).
+
+The country flags are located in [src/App.vue](src/App.vue) just in case a new language is implemented.
 
 The corresponding modification can be recognized by the program as a valid translation.
 
