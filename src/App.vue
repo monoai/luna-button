@@ -70,7 +70,7 @@ body{
     color: #f2a8cd;
 }
 .navbar-default .navbar-brand:focus{
-    color: #bf8ac2;
+    color: #c8b1e5;
 }
 .nav.navbar-nav li a:hover{
     color: #f2a8cd;
@@ -78,7 +78,7 @@ body{
 .nav.navbar-nav li a:active,
 .nav.navbar-nav li a:focus,
 .nav.navbar-nav.navbar-right li a:focus{
-    color: #bf8ac2;
+    color: #c8b1e5;
 }
 .nav a:hover{
     border-bottom: 2px solid #998ede;
