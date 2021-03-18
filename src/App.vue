@@ -45,7 +45,7 @@
                 </div>
                 <div>{{$t("info.tlHelpers")}}</div>
                 <!--<div><p>Me testing out something</p></div>-->
-                <div><a href="https://twitter.com/monoAI_" target="_blank"><span style="color: #000000">mono</span><span style="color: #FF0000">AI</span></a> 2020. <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
+                <div><a href="https://twitter.com/monoAI_" target="_blank" @click="linkClick"><span style="color: #000000">mono</span><span style="color: #FF0000">AI</span></a> 2020. <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
             </div>
         </footer>
   </div>
@@ -148,6 +148,12 @@ class App extends Vue {
     chlang(v){
         this.$i18n.locale = v;
         localStorage.setItem("lang", v);
+    }
+    linkClick(){
+      let player = document.getElementById('player');
+      player.src = "voices/GR_OniiChan.mp3";
+      player.play();
+      /*console.log(player.volume);*/
     }
 }
 
