@@ -176,10 +176,7 @@ class HomePage extends Vue {
     random() {
         let tempList = this.voices[this._randomNum(0, this.voices.length - 1)];
         if (tempList.categoryName == "blessings" ) {
-<<<<<<< HEAD
           //eslint-disable-next-line
-=======
->>>>>>> 916da0ae09841a6fb4187a3969aa04f39a5271d9
           console.log("BLESSING DENIED");
           this.random();
         } else {
