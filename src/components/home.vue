@@ -142,7 +142,7 @@ class HomePage extends Vue {
     voice = {};
 
     play(item){
-      let slider = document.getElementById('volNum');
+      let slider = document.getElementById('volSlider');
         if (this.overlapCheck) {
             let audio = new Audio("voices/" + item.path);
             audio.volume = (slider.value/100);
