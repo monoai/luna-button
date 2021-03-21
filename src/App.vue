@@ -53,11 +53,14 @@
 
 <style lang="scss">
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
-@import url('https://fonts.googleapis.com/css2?family=Mina&family=Open+Sans:wght@600&family=PT+Sans&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mina&family=Open+Sans:wght@600&family=PT+Sans&family=Source+Sans+Pro&family=M+PLUS+Rounded+1c:wght@700&display=swap');
 body{
     padding-top: 70px;
     background-image: url('/resources/body_bg.png');
     font-family: 'Open Sans', sans-serif;
+}
+.navbar-brand {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 .nav.navbar-nav li a, .navbar-default .navbar-brand{
     color: white;
@@ -153,7 +156,10 @@ class App extends Vue {
       let player = document.getElementById('player');
       player.src = "voices/GR_OniiChan.mp3";
       player.play();
-      /*console.log(player.volume);*/
+      //eslint-disable-next-line
+      console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
+      //eslint-disable-next-line
+      console.log("ルーナちゃんありがちゅ！");
     }
 }
 
