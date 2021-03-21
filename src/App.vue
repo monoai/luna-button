@@ -156,9 +156,13 @@ class App extends Vue {
       let player = document.getElementById('player');
       player.src = "voices/GR_OniiChan.mp3";
       player.play();
+<<<<<<< HEAD
       //eslint-disable-next-line
       console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
       //eslint-disable-next-line
+=======
+      console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
+>>>>>>> 916da0ae09841a6fb4187a3969aa04f39a5271d9
       console.log("ルーナちゃんありがちゅ！");
     }
 }
