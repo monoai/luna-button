@@ -10,7 +10,8 @@ const zh_TW = {
         loopTips: "重複播放你選取的聲音，會一直播放下去。其它2個功能會無效，除非關閉循環功能",
         yt_channel: "璐娜頻道",
         twitter: "璐娜推特",
-        discord: "璐娜糖果王國 English Discord"
+        discord: "璐娜糖果王國 English Discord",
+        lang: "語言: "
     },
     action: {
         toggleNavbar: "顯示/隱藏控制列",

@@ -10,7 +10,8 @@ const ja_JP = {
         loopTips: "これは選択したトラックをループします、永遠に再生されるので、他の2つの機能は役に立たず、ループがオフになるまで無効になります",
         yt_channel: "ルーナのチャンネル",
         twitter: "ルーナのツイッター",
-        discord: "ルーナのお菓子王国 Discord"
+        discord: "ルーナのお菓子王国 Discord",
+        lang: "言語: "
     },
     action: {
         toggleNavbar: "ナビゲーションバーを切り替える",

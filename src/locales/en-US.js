@@ -10,7 +10,8 @@ const en_US = {
         loopTips: "This will loop your selected track, since it'll play forever, the two other functionalities are useless and will be disabled until loop is turned off",
         yt_channel: "Luna's Channel",
         twitter: "Luna's Twitter",
-        discord: "Luna's Candy Kingdom Discord"
+        discord: "Luna's Candy Kingdom Discord",
+        lang: "Language: "
     },
     action: {
         toggleNavbar: "Toggle navigation bar",

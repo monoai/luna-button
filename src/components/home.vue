@@ -20,7 +20,7 @@
                 <div class="visible-md visible-lg">
                   <button class="btn btn-info">
                     <span>{{ $t("action.volume") }}</span>
-                    <input class="slidecontainer slider" type="range" min="0" max="100" value="80" id="volNum" @click="volGet">
+                    <input class="slidecontainer slider" type="range" min="0" max="100" value="80" id="volSlider" @input="volGet">
                   </button>
                   <p>{{ $t("action.volume") }}<span id="volOut">80</span></p>
                 </div>
@@ -78,18 +78,12 @@
     white-space: normal !important;
 }
 .cate-body button:hover{
-    color: #ABA5D8;
-    text-shadow: -1px 1px 1px #666381,
-                  1px 1px 0px #666381,
-                  1px -1px 0 #666381,
-                  -1px -1px 0 #666381;
+    color: #fdb3d8;
+    text-shadow: -1px 0 1px #a358a8, 0 1px #a358a8, 1px 0 #a358a8, 0 -1px #a358a8;
 }
 .cate-body button:focus{
     color: #91d7f1;
-    text-shadow: -1px 1px 1px #666381,
-                  1px 1px 0px #666381,
-                  1px -1px 0 #666381,
-                  -1px -1px 0 #666381;
+    text-shadow: -1px 0 1px #666381, 0 1px #666381, 1px 0 #666381, 0 -1px #666381;
 }
 .checkbox {
     display: inline-block;
@@ -181,7 +175,13 @@ class HomePage extends Vue {
     }
     random() {
         let tempList = this.voices[this._randomNum(0, this.voices.length - 1)];
-        this.play(tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)]);
+        if (tempList.categoryName == "blessings" ) {
+          //eslint-disable-next-line
+          console.log("BLESSING DENIED");
+          this.random();
+        } else {
+          this.play(tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)]);
+        }
     }
     autoPlay(){
         if (this.overlapCheck || this.loopCheck) {
@@ -212,15 +212,11 @@ class HomePage extends Vue {
         }
     }
     volGet() {
-      let slider = document.getElementById('volNum');
+      let slider = document.getElementById("volSlider");
       let output = document.getElementById("volOut");
       let player = document.getElementById('player');
       output.innerHTML = slider.value;
-
-      slider.oninput = function() {
-        output.innerHTML = slider.value;
-        player.volume = (slider.value/100);
-      }
+      player.volume = (slider.value/100);
 
     }
 }

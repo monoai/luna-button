@@ -21,12 +21,12 @@
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
                         <li class="dropdown">
-                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{$t("lang." + currentLang)}} <span class="caret"></span></a>
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{$t("info.lang")}} <country-flag :country=changeFlag size='small'/> {{$t("lang." + currentLang)}} <span class="caret"></span></a>
                             <ul class="dropdown-menu">
-                                <li><a href="javascript:;" @click="chlang('en-US')">{{$t("lang.en-US")}}</a></li>
-                                <li><a href="javascript:;" @click="chlang('zh-TW')">{{$t("lang.zh-TW")}}</a></li>
-                                <li><a href="javascript:;" @click="chlang('ja-JP')">{{$t("lang.ja-JP")}}</a></li>
-                                <li><a href="javascript:;" @click="chlang('ms-MY')">{{$t("lang.ms-MY")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('en-US')"><country-flag country="us" size='small'/> {{$t("lang.en-US")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('zh-TW')"><country-flag country="tw" size='small'/> {{$t("lang.zh-TW")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('ja-JP')"><country-flag country="jp" size='small'/> {{$t("lang.ja-JP")}}</a></li>
+                                <li><a href="javascript:;" @click="chlang('ms-MY')"><country-flag country="my" size='small'/> {{$t("lang.ms-MY")}}</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -45,7 +45,7 @@
                 </div>
                 <div>{{$t("info.tlHelpers")}}</div>
                 <!--<div><p>Me testing out something</p></div>-->
-                <div><a href="https://twitter.com/monoAI_" target="_blank"><span style="color: #000000">mono</span><span style="color: #FF0000">AI</span></a> 2020. <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
+                <div><a href="https://twitter.com/monoAI_" target="_blank" @click="linkClick"><span style="color: #000000">mono</span><span style="color: #FF0000">AI</span></a> 2020. <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
             </div>
         </footer>
   </div>
@@ -53,9 +53,14 @@
 
 <style lang="scss">
 @import "../node_modules/bootstrap/dist/css/bootstrap.css";
+@import url('https://fonts.googleapis.com/css2?family=Mina&family=Open+Sans:wght@600&family=PT+Sans&family=Source+Sans+Pro&family=M+PLUS+Rounded+1c:wght@700&display=swap');
 body{
     padding-top: 70px;
     background-image: url('/resources/body_bg.png');
+    font-family: 'Open Sans', sans-serif;
+}
+.navbar-brand {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 .nav.navbar-nav li a, .navbar-default .navbar-brand{
     color: white;
@@ -68,7 +73,7 @@ body{
     color: #f2a8cd;
 }
 .navbar-default .navbar-brand:focus{
-    color: #bf8ac2;
+    color: #c8b1e5;
 }
 .nav.navbar-nav li a:hover{
     color: #f2a8cd;
@@ -76,7 +81,7 @@ body{
 .nav.navbar-nav li a:active,
 .nav.navbar-nav li a:focus,
 .nav.navbar-nav.navbar-right li a:focus{
-    color: #bf8ac2;
+    color: #c8b1e5;
 }
 .nav a:hover{
     border-bottom: 2px solid #998ede;
@@ -112,16 +117,31 @@ body{
 import Vue from 'vue'
 import Component from 'vue-class-component'
 import Modal from './components/modal.vue'
+import CountryFlag from 'vue-country-flag'
 //import fetchpost from './util/fetchpost'
 
 @Component({
     components:{
-        Modal
+        Modal,
+        CountryFlag
     }
 })
 class App extends Vue {
     get currentLang(){
         return this.$i18n.locale;
+    }
+    get changeFlag(){
+        if(this.currentLang == 'en-US') {
+          return 'us';
+        } else if (this.currentLang == 'ja-JP'){
+          return 'jp';
+        } else if (this.currentLang == 'zh-TW'){
+          return 'tw';
+        } else if (this.currentLang == 'ms-MY'){
+          return 'my';
+        } else {
+          return 'ph';
+        }
     }
     created(){
         //eslint-disable-next-line
@@ -131,6 +151,15 @@ class App extends Vue {
     chlang(v){
         this.$i18n.locale = v;
         localStorage.setItem("lang", v);
+    }
+    linkClick(){
+      let player = document.getElementById('player');
+      player.src = "voices/GR_OniiChan.mp3";
+      player.play();
+      //eslint-disable-next-line
+      console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
+      //eslint-disable-next-line
+      console.log("ルーナちゃんありがちゅ！");
     }
 }
 

@@ -10,7 +10,8 @@ const ms_MY = {
         loopTips: "Runut yang dimainkan akan terus bergelng selama-lamanya. Akibatnya, dua fungsian yang lain tiada gunanya sehinggalah gelungan ditamatkan",
         yt_channel: "Saluran Luna",
         twitter: "Twitter Luna",
-        discord: "Discord Kerajaan Manisan Luna"
+        discord: "Discord Kerajaan Manisan Luna",
+        lang: "bahasa: "
     },
     action: {
         toggleNavbar: "Silihkan palang navigasi",

@@ -1,11 +1,13 @@
 # Luna Button
 [![Last Commit](https://img.shields.io/github/last-commit/monoai/luna-button)]()
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fluna-button.vercel.app)](https://luna-button.vercel.app)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fnanora.moe)](https://nanora.moe)
 [![Twitter Follow](https://img.shields.io/twitter/follow/monoAI_)](https://twitter.com/monoAI_)
 
-A Voice Button Website dedicated to VTuber Himemori Luna.
+![Luna-Button Cover](https://user-images.githubusercontent.com/46586720/108640159-10942d80-74d3-11eb-917b-da15b979a233.png)
 
-[Click here to visit the website](https://luna-button.vercel.app)
+A Voice Button Website dedicated to Hololive 4th Generation VTuber Himemori Luna. んなあああああ！！！！
+
+[Click here to visit https://nanora.moe](https://nanora.moe)
 
 ## Related Links:
 
@@ -25,17 +27,21 @@ Voice is always in mp3 format and stored in [public/voices](public/voices). The 
 
 For new voice, please use software such as MP3GainGUI for volume standardization. Currently the volume standardized value is 80.
 
+Please note that for this project, we specifically categorize the voices by this pattern: `CATEGORY_VOICENAME.mp3`. Example for a proper filename is `EN_ICookTheSubaru.mp3` where `EN` represents the `Nanolish` Category while `ICookTheSubaru` represents the voice name. It doesn't have to fully transcribe the line as long as it describes it for easy locating. Please check [voices.json](src/voices.json) for more information.
+
 Because this site uses a strong cache strategy, except for `index.html`, files with the same filename, even if modified, will **NEVER** be refreshed by the client. Therefore, the filename of the newly voice, whatever it is new or modified, **MUST** be different from any previous filename.
 
 If you are modifying voice, delete the original file after modification.
 
 ### Participate in translation
 
-Please help us translate to English and Japanese!
+Please help us translate to the available languages! (EN/JP/TW/MY)
 
 The language files for the main program are in three .js files named the language name in [src/locales](src/locales).
 
 The language files for voices are in [src/voices.json](src/voices.json).
+
+The country flags are located in [src/App.vue](src/App.vue) just in case a new language is implemented.
 
 The corresponding modification can be recognized by the program as a valid translation.
 
@@ -67,3 +73,5 @@ This project is a work of fans and is not related to the official Hololive.
 ## Special Thanks
 
 This project is modified based on zyzsdy's [Aqua button](https://github.com/zyzsdy/aqua-button).
+
+The creator of this project would like to thank the contributors for their translation/voice work and the Luna Candy Kingdom Discord server for their help and support in developing this site.
