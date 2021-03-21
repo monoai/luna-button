@@ -1,1428 +1,1422 @@
 {
-    "voices": [
+  "voices": [
+    {
+      "categoryName": "English phrases/Nanolish",
+      "categoryDescription": {
+        "ja-JP": "Nanolish",
+        "en-US": "Nanolish",
+        "zh-TW": "Nanolish",
+        "ms-MY": "Nanolisy"
+      },
+      "voiceList": [
         {
-            "categoryName": "English phrases/Nanolish",
-            "categoryDescription": {
-                "ja-JP": "Nanolish",
-                "en-US": "Nanolish",
-                "zh-TW": "Nanolish",
-                "ms-MY": "Nanolisy"
-            },
-            "voiceList": [
-                {
-                    "name": "I drink Coca Cola",
-                    "path": "EN_I drink Coca Cola.mp3",
-                    "description": {
-                        "ja-JP": "I drink Coca Cola",
-                        "en-US": "I drink Coca Cola",
-                        "zh-TW": "I drink Coca Cola",
-                        "ms-MY": "I drink Coca Cola"
-                    }
-                },
-                {
-                    "name": "Im brain",
-                    "path": "EN_Im brain.mp3",
-                    "description": {
-                        "ja-JP": "I'm brain, bakuhatsu!",
-                        "en-US": "I'm brain, bakuhatsu!",
-                        "zh-TW": "I'm brain, bakuhatsu!",
-                        "ms-MY": "I'm brain, bakuhatsu!"
-                    }
-                },
-                {
-                    "name": "Im hamburger",
-                    "path": "EN_Oh no Im Hamburger.mp3",
-                    "description": {
-                        "ja-JP": "Oh no, I'm hamburger",
-                        "en-US": "Oh no, I'm hamburger",
-                        "zh-TW": "Oh no, I'm hamburger",
-                        "ms-MY": "Oh no, I'm hamburger"
-                    }
-                },
-                {
-                    "name": "English difficult",
-                    "path": "EN_English Difficult.mp3",
-                    "description": {
-                        "ja-JP": "English Difficult",
-                        "en-US": "English Difficult",
-                        "zh-TW": "English Difficult",
-                        "ms-MY": "English Difficult"
-                    }
-                },
-                {
-                    "name": "Hurry up im sleepy",
-                    "path": "EN_Hurry Up Im Sleepy.mp3",
-                    "description": {
-                        "ja-JP": "Hurry up!! I'm sleepy!",
-                        "en-US": "Hurry up!! I'm sleepy!",
-                        "zh-TW": "Hurry up!! I'm sleepy!",
-                        "ms-MY": "Hurry up!! I'm sleepy!"
-                    }
-                },
-                {
-                    "name": "Wake up",
-                    "path": "EN_Wake up.mp3",
-                    "description": {
-                        "ja-JP": "WAKE UP!",
-                        "en-US": "WAKE UP!",
-                        "zh-TW": "WAKE UP!",
-                        "ms-MY": "WAKE UP!"
-                    }
-                },
-                {
-                    "name": "Missile missile",
-                    "path": "EN_Missile Missile.mp3",
-                    "description": {
-                        "ja-JP": "...Missile missile",
-                        "en-US": "...Missile missile",
-                        "zh-TW": "...Missile missile",
-                        "ms-MY": "...Missile missile"
-                    }
-                },
-                {
-                    "name": "Shutup",
-                    "path": "EN_Shut up.mp3",
-                    "description": {
-                        "ja-JP": "SHUDDUP!",
-                        "en-US": "SHUDDUP!",
-                        "zh-TW": "SHUDDUP!",
-                        "ms-MY": "SHUDDUP!"
-                    }
-                },
-                {
-                    "name": "I dont know",
-                    "path": "EN_I dont knoww.mp3",
-                    "description": {
-                        "ja-JP": "I don't know",
-                        "en-US": "I don't know",
-                        "zh-TW": "I don't know",
-                        "ms-MY": "I don't know"
-                    }
-                },
-                {
-                    "name": "Ahoy",
-                    "path": "EN_Ahoy.mp3",
-                    "description": {
-                        "ja-JP": "Ahoy",
-                        "en-US": "Ahoy",
-                        "zh-TW": "Ahoy",
-                        "ms-MY": "Ahoi"
-                    }
-                },
-                {
-                    "name": "Oh my God1",
-                    "path": "EN_Oh my God1.mp3",
-                    "description": {
-                        "ja-JP": "Oh my God-1",
-                        "en-US": "Oh my God-1",
-                        "zh-TW": "Oh my God-1",
-                        "ms-MY": "Oh my God-1"
-                    }
-                },
-                {
-                    "name": "Oh my God2",
-                    "path": "EN_Oh my God2.mp3",
-                    "description": {
-                        "ja-JP": "Oh my God-2",
-                        "en-US": "Oh my God-2",
-                        "zh-TW": "Oh my God-2",
-                        "ms-MY": "Oh my God-2"
-                    }
-                },
-                {
-                    "name": "Oh yes",
-                    "path": "EN_Oh yes.mp3",
-                    "description": {
-                        "ja-JP": "Oh yes",
-                        "en-US": "Oh yes",
-                        "zh-TW": "Oh yes",
-                        "zh-TW": "ms-MY"
-                    }
-                },
-                {
-                    "name": "Im loving it",
-                    "path": "EN_Im loving it.mp3",
-                    "description": {
-                        "ja-JP": "Im loving it",
-                        "en-US": "Im loving it",
-                        "zh-TW": "Im loving it",
-                        "ms-MY": "Im loving it"
-                    }
-                },
-                {
-                    "name": "Btw1",
-                    "path": "EN_By the way1.mp3",
-                    "description": {
-                        "ja-JP": "By the way-1",
-                        "en-US": "By the way-1",
-                        "zh-TW": "By the way-1",
-                        "ms-MY": "By the way-1"
-                    }
-                },
-                {
-                    "name": "Btw2",
-                    "path": "EN_By the way2.mp3",
-                    "description": {
-                        "ja-JP": "By the way-2",
-                        "en-US": "By the way-2",
-                        "zh-TW": "By the way-2",
-                        "ms-MY": "By the way-2"
-                    }
-                },
-                {
-                    "name": "Nanora is English",
-                    "path": "EN_Nanora is English.mp3",
-                    "description": {
-                        "ja-JP": "Nanora is English",
-                        "en-US": "Nanora is English",
-                        "zh-TW": "Nanora is English",
-                        "ms-MY": "Nanora is English"
-                    }
-                },
-                {
-                    "name": "Im a sugoi",
-                    "path": "EN_Im a sugoi.mp3",
-                    "description": {
-                        "ja-JP": "I'm a sugoi",
-                        "en-US": "I'm a sugoi",
-                        "zh-TW": "I'm a sugoi",
-                        "ms-MY": "I'm a sugoi"
-                    }
-                },
-                {
-                    "name": "Never give up i can do it",
-                    "path": "EN_Never give up i can do it.mp3",
-                    "description": {
-                        "ja-JP": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
-                        "en-US": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
-                        "zh-TW": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
-                        "ms-MY": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!"
-                    }
-                },
-                {
-                    "name": "I love you",
-                    "path": "EN_I love you.mp3",
-                    "description": {
-                        "ja-JP": "I love you",
-                        "en-US": "I love you",
-                        "zh-TW": "I love you",
-                        "ms-MY": "I love you"
-                    }
-                },
-                {
-                    "name": "Okay guguru",
-                    "path": "EN_Okay Guguru.mp3",
-                    "description": {
-                        "ja-JP": "Okay Guguru",
-                        "en-US": "Okay Guguru",
-                        "zh-TW": "Okay Guguru",
-                        "ms-MY": "Okay Guguru"
-                    }
-                },
-                {
-                    "name": "hotdog is enemy",
-                    "path": "EN_Hotdog is Enemy.mp3",
-                    "description": {
-                        "ja-JP": "Hotdog is Enemy",
-                        "en-US": "Hotdog is Enemy",
-                        "zh-TW": "Hotdog is Enemy",
-                        "ms-MY": "Hotdog is Enemy"
-                    }
-                },
-                {
-                    "name": "hotdog is good",
-                    "path": "EN_Hotdog is Good.mp3",
-                    "description": {
-                        "ja-JP": "Hotdog is Good",
-                        "en-US": "Hotdog is Good",
-                        "zh-TW": "Hotdog is Good",
-                        "ms-MY": "Hotdog is Good"
-                    }
-                }
-            ]
+          "name": "Ahoy",
+          "path": "EN_Ahoy.mp3",
+          "description": {
+            "ja-JP": "Ahoy",
+            "en-US": "Ahoy",
+            "zh-TW": "Ahoy",
+            "ms-MY": "Ahoi"
+          }
         },
         {
-            "categoryName": "lunaSFX",
-            "categoryDescription": {
-                "ja-JP": "ルーナの音声",
-                "en-US": "Luna Sounds",
-                "zh-TW": "璐娜音",
-                "ms-MY": "Suara Luna"
-            },
-            "voiceList": [
-                {
-                    "name": "Kamehameha",
-                    "path": "SFX_Kamehameha.mp3",
-                    "description": {
-                        "ja-JP": "かめはめ波",
-                        "en-US": "Kamehameha",
-                        "zh-TW": "龜派氣功",
-                        "ms-MY": "Kamehameha"
-                    }
-                },
-                {
-                    "name": "Fart2",
-                    "path": "SFX_Fart2.mp3",
-                    "description": {
-                        "ja-JP": "おなら-2",
-                        "en-US": "Fart-2",
-                        "zh-TW": "屁-2",
-                        "ms-MY": "Kentut-2"
-                    }
-                },
-                {
-                    "name": "Giggle1",
-                    "path": "SFX_Giggle1.mp3",
-                    "description": {
-                        "ja-JP": "くすくす-1",
-                        "en-US": "Giggle-1",
-                        "zh-TW": "誒嘿嘿-1",
-                        "ms-MY": "Berdekit-dekit-1"
-                    }
-                },
-                {
-                    "name": "Giggle2",
-                    "path": "SFX_Giggle2.mp3",
-                    "description": {
-                        "ja-JP": "くすくす-2",
-                        "en-US": "Giggle-2",
-                        "zh-TW": "誒嘿嘿-2",
-                        "ms-MY": "Berdekit-dekit-2"
-                    }
-                },
-                {
-                    "name": "Giggle3",
-                    "path": "SFX_Giggle3.mp3",
-                    "description": {
-                        "ja-JP": "くすくす-3",
-                        "en-US": "Giggle-3",
-                        "zh-TW": "誒嘿嘿-3",
-                        "ms-MY": "Berdekit-dekit-3"
-                    }
-                },
-                {
-                    "name": "Giggle4",
-                    "path": "SFX_Giggle4.mp3",
-                    "description": {
-                        "ja-JP": "くすくす-4",
-                        "en-US": "Giggle-4",
-                        "zh-TW": "誒嘿嘿-4",
-                        "ms-MY": "Berdekit-dekit-4"
-                    }
-                },
-                {
-                    "name": "Giggle5",
-                    "path": "SFX_Giggle5.mp3",
-                    "description": {
-                        "ja-JP": "くすくす-5",
-                        "en-US": "Giggle-5",
-                        "zh-TW": "誒嘿嘿-5",
-                        "ms-MY": "Berdekit-dekit-5"
-                    }
-                },
-                {
-                    "name": "Mogumogu1",
-                    "path": "SFX_Mogumogu1.mp3",
-                    "description": {
-                        "ja-JP": "もぐもぐ-1",
-                        "en-US": "Mogu mogu-1",
-                        "zh-TW": "嚼嚼-1",
-                        "ms-MY": "Kunyah-1"
-                    }
-                },
-                {
-                    "name": "Mogumogu2",
-                    "path": "SFX_Mogumogu2.mp3",
-                    "description": {
-                        "ja-JP": "もぐもぐ-2",
-                        "en-US": "Mogu mogu-2",
-                        "zh-TW": "嚼嚼-2",
-                        "ms-MY": "Kunyah-2"
-                    }
-                },
-                {
-                    "name": "Nna1",
-                    "path": "SFX_Nna1.mp3",
-                    "description": {
-                        "ja-JP": "んなあ-1",
-                        "en-US": "Nna-1",
-                        "zh-TW": "嗯吶-1",
-                        "ms-MY": "Nnaa-1"
-                    }
-                },
-                {
-                    "name": "Nnaaa1",
-                    "path": "SFX_Nnaaa.mp3",
-                    "description": {
-                        "ja-JP": "んなあああ",
-                        "en-US": "Nnaaa",
-                        "zh-TW": "嗯吶啊",
-                        "ms-MY": "Nnaaaa-1"
-                    }
-                },
-                {
-                    "name": "Nnaaa long",
-                    "path": "SFX_Nnaaa Long.mp3",
-                    "description": {
-                        "ja-JP": "んなあああ(長い)",
-                        "en-US": "Nnaaa (Long)",
-                        "zh-TW": "嗯吶啊啊啊 (長)",
-                        "ms-MY": "Nnaaaa (Panjang)"
-                    }
-                },
-                {
-                    "name": "Nnaaa~i1",
-                    "path": "SFX_Nnaaa~i1.mp3",
-                    "description": {
-                        "ja-JP": "んなあああ~い-1",
-                        "en-US": "Nnaaa~i-1",
-                        "zh-TW": "嗯吶啊啊~咿~-1",
-                        "ms-MY": "Nnaaaa~i-1"
-                    }
-                },
-                {
-                    "name": "Nnaaa~i2",
-                    "path": "SFX_Nnaaa~i2.mp3",
-                    "description": {
-                        "ja-JP": "んなあああ~い-2",
-                        "en-US": "Nnaaa~i-2",
-                        "zh-TW": "嗯吶啊啊~咿~-2",
-                        "ms-MY": "Nnaaaa~i-2"
-                    }
-                },
-                {
-                    "name": "PrrrHarmonic",
-                    "path": "SFX_Prrr Harmonic.mp3",
-                    "description": {
-                        "ja-JP": "Prrr (旋律的)",
-                        "en-US": "Prrr (Melodic)",
-                        "zh-TW": "Prrr (旋律)",
-                        "ms-MY": "Prrr (Beralun)"
-                    }
-                },
-                {
-                    "name": "Shubashuba1",
-                    "path": "SFX_Shuba shuba.mp3",
-                    "description": {
-                        "ja-JP": "シュバシュバ",
-                        "en-US": "Shuba shuba",
-                        "zh-TW": "Shuba shuba",
-                        "ms-MY": "Syuba-syuba"
-                    }
-                },
-                {
-                    "name": "Ara ara",
-                    "path": "SFX_AraAra.mp3",
-                    "description": {
-                        "ja-JP": "あらあら-1",
-                        "en-US": "Ara ara1",
-                        "zh-TW": "啊啦啊啦-1",
-                        "ms-MY": "Alah-alah-1"
-                    }
-                },
-                {
-                    "name": "Mama mia",
-                    "path": "SFX_Mama mia.mp3",
-                    "description": {
-                        "ja-JP": "マンマ・ミーア",
-                        "en-US": "Mama mia",
-                        "zh-TW": "Mama mia",
-                        "ms-MY": "Mamma mia"
-                    }
-                },
-                {
-                    "name": "Baka aho",
-                    "path": "SFX_Baka aho.mp3",
-                    "description": {
-                        "ja-JP": "バカ！アホ！",
-                        "en-US": "Baka aho",
-                        "zh-TW": "笨蛋 傻瓜",
-                        "ms-MY": "Dungu! Tolol!"
-                    }
-                },
-                {
-                    "name": "Bluna",
-                    "path": "SFX_Bluna.mp3",
-                    "description": {
-                        "ja-JP": "ぶルーナ",
-                        "en-US": "Bluna",
-                        "zh-TW": "藍璐娜",
-                        "ms-MY": "Luna Biru"
-                    }
-                },
-                {
-                    "name": "Controller Slam",
-                    "path": "SFX_Controller Slam.mp3",
-                    "description": {
-                        "ja-JP": "コントローラー、叩く",
-                        "en-US": "Controller Slam",
-                        "zh-TW": "敲搖控器",
-                        "ms-MY": "Hentakan Alat Kawal"
-                    }
-                },
-                {
-                    "name": "Hentai",
-                    "path": "SFX_Hentai.mp3",
-                    "description": {
-                        "ja-JP": "変態",
-                        "en-US": "Hentai",
-                        "zh-TW": "變態",
-                        "ms-MY": "Hentai"
-                    }
-                }
-            ]
+          "name": "angry jigglypuff luna no sleep",
+          "path": "EN_JigglypuffLunaNoSleep.mp3",
+          "description": {
+            "ja-JP": "怒っているプリン",
+            "en-US": "Angry Jigglypuff Luna"
+          }
         },
         {
-            "categoryName": "Greetings",
-            "categoryDescription": {
-                "ja-JP": "挨拶",
-                "en-US": "Greetings",
-                "zh-TW": "打招呼",
-                "ms-MY": "Sapaan"
-            },
-            "voiceList": [
-                {
-                    "name": "minna oru short",
-                    "path": "GR_Minna Oru Short.mp3",
-                    "description": {
-                        "ja-JP": "みんなおる？ (短い)",
-                        "en-US": "Minna Oru? (Short)",
-                        "zh-TW": "大家在嗎? (短)",
-                        "ms-MY": "Semua ada? (Pendek)"
-                    }
-                },
-                {
-                    "name": "minna oru1",
-                    "path": "GR_Minna Oru1.mp3",
-                    "description": {
-                        "ja-JP": "みんなおる？",
-                        "en-US": "Minna Oru?",
-                        "zh-TW": "大家在嗎?",
-                        "ms-MY": "Semua ada?"
-                    }
-                },
-                {
-                    "name": "minna hisashiburi",
-                    "path": "GR_Minna Sashiburi.mp3",
-                    "description": {
-                        "ja-JP": "みんな久しぶり",
-                        "en-US": "Minna Hisashiburi",
-                        "zh-TW": "大家好久不見",
-                        "ms-MY": "Lama tak berjumpa semua"
-                    }
-                },
-                {
-                    "name": "goodnighto-1",
-                    "path": "GR_Goodnighto1.mp3",
-                    "description": {
-                        "ja-JP": "ぐっとないと-1",
-                        "en-US": "Goodnighto-1",
-                        "zh-TW": "Good Night-1",
-                        "ms-MY": "Gut Naito-1"
-                    }
-                },
-                {
-                    "name": "goodnighto-2",
-                    "path": "GR_Goodnighto2.mp3",
-                    "description": {
-                        "ja-JP": "ぐっとないと-2",
-                        "en-US": "Goodnighto-2",
-                        "zh-TW": "Good Night-2",
-                        "ms-MY": "Gut Naito-2"
-                    }
-                },
-                {
-                    "name": "otsuluna long-1",
-                    "path": "GR_OtsuLunaLong1.mp3",
-                    "description": {
-                        "ja-JP": "おつルーナ(長い)-1",
-                        "en-US": "OtsuLuna (Long)-1",
-                        "zh-TW": "辛苦了璐娜 (長)-1",
-                        "ms-MY": "Selamat Tinggaluna (Panjang)-1"
-                    }
-                },
-                {
-                    "name": "otsuluna long-2",
-                    "path": "GR_OtsuLunaLong2.mp3",
-                    "description": {
-                        "ja-JP": "おつルーナ(長い)-2",
-                        "en-US": "OtsuLuna (Long)-2",
-                        "zh-TW": "辛苦了璐娜 (長)-2",
-                        "ms-MY": "Selamat Tinggaluna (Panjang)-2"
-                    }
-                }
-            ]
+          "name": "big brain",
+          "path": "EN_Big Brain.mp3",
+          "description": {
+            "ja-JP": "Big Brain",
+            "en-US": "Big Brain"
+          }
         },
         {
-            "categoryName": "PianoStream",
-            "categoryDescription": {
-                "ja-JP": "ピアノのお稽古",
-                "en-US": "Piano Stream",
-                "zh-TW": "鋼琴練習",
-                "ms-MY": "Latihan Piano"
-            },
-            "voiceList": [
-                {
-                    "name": "nanoragayatekita",
-                    "path": "PN_NanoraGaYatekita.mp3",
-                    "description": {
-                        "ja-JP": "なのらがやってきたー",
-                        "en-US": "Nanora Ga Yatekita",
-                        "zh-TW": "吶喏啦過來了",
-                        "ms-MY": "Nanora telah tiba"
-                    }
-                },
-                {
-                    "name": "nekofunjatta",
-                    "path": "PN_Neko Funjatta.mp3",
-                    "description": {
-                        "ja-JP": "ネコふんじゃった",
-                        "en-US": "Neko Funjatta",
-                        "zh-TW": "踩到了貓咪",
-                        "ms-MY": "Flohwalzer"
-                    }
-                }
-            ]
+          "name": "brah",
+          "path": "EN_Brah.mp3",
+          "description": {
+            "ja-JP": "Brah",
+            "en-US": "Brah"
+          }
         },
         {
-            "categoryName": "phrases",
-            "categoryDescription": {
-                "ja-JP": "名言",
-                "en-US": "Phrases",
-                "zh-TW": "名句",
-                "ms-MY": "Ungkapan"
-            },
-            "voiceList": [
-                {
-                    "name": "bigsmokeEN",
-                    "path": "PH_Big Smoke Order EN.mp3",
-                    "description": {
-                        "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [EN]",
-                        "en-US": "Big Smoke's Order [EN]",
-                        "zh-TW": "Big Smoke 點餐台詞 [EN]",
-                        "ms-MY": "Pesanan Big Smoke [BI]"
-                    }
-                },
-                {
-                    "name": "bigsmokeJAP",
-                    "path": "PH_Big Smoke Order JA.mp3",
-                    "description": {
-                        "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [JP]",
-                        "en-US": "Big Smoke's Order [JP]",
-                        "zh-TW": "Big Smoke 點餐台詞 [JP]",
-                        "ms-MY": "Pesanan Big Smoke [BJ]"
-                    }
-                },
-                {
-                    "name": "Lunazilla Attack",
-                    "path": "SFX_Lunazilla Attacks.mp3",
-                    "description": {
-                        "ja-JP": "ナノラ(ルーナジラ)の進撃",
-                        "en-US": "Lunazilla Attacks!",
-                        "zh-TW": "進擊的吶喏啦(璐娜哥吉拉)",
-                        "ms-MY": "Serangan Raksaluna"
-                    }
-                },
-                {
-                    "name": "sayonara hotdog",
-                    "path": "PH_Sayonara Hotdog.mp3",
-                    "description": {
-                        "ja-JP": "さようならホットドッグ",
-                        "en-US": "Sayonara Hotdog",
-                        "zh-TW": "再見了Hotdog",
-                        "ms-MY": "Selamat Jalan Hot Dog"
-                    }
-                },
-                {
-                    "name": "matsuri",
-                    "path": "PH_Ma...tsu...ri....mp3",
-                    "description": {
-                        "ja-JP": "まぁぁああつぅぅううりぃぃい！",
-                        "en-US": "Ma...tsu...ri...",
-                        "zh-TW": "Ma...tsu...ri...",
-                        "ms-MY": "Maaatsuuuriii"
-                    }
-                }
-            ]
+          "name": "Bruh",
+          "path": "EN_Bruh.mp3",
+          "description": {
+            "ja-JP": "Bruh",
+            "en-US": "Bruh"
+          }
         },
         {
-            "categoryName": "singing",
-            "categoryDescription": {
-                "ja-JP": "歌う",
-                "en-US": "Singing",
-                "zh-TW": "唱歌",
-                "ms-MY": "Nyanyian"
-            },
-            "voiceList": [
-                {
-                    "name": "PPAP",
-                    "path": "S_PPAP.mp3",
-                    "description": {
-                        "ja-JP": "PPAP",
-                        "en-US": "PPAP",
-                        "zh-TW": "PPAP",
-                        "ms-MY": "PPAP"
-                    }
-                }
-            ]
+          "name": "Btw1",
+          "path": "EN_By the way1.mp3",
+          "description": {
+            "ja-JP": "By the way-1",
+            "en-US": "By the way-1",
+            "zh-TW": "By the way-1",
+            "ms-MY": "By the way-1"
+          }
         },
         {
-            "categoryName": "asmr",
-            "categoryDescription": {
-                "ja-JP": "ASMR",
-                "en-US": "ASMR",
-                "zh-TW": "ASMR",
-                "ms-MY": "ASMR"
-            },
-            "voiceList": [
-                {
-                    "name": "drink1",
-                    "path": "ASMR_Drink1.mp3",
-                    "description": {
-                        "ja-JP": "ごくごく-1",
-                        "en-US": "Drink-1",
-                        "zh-TW": "喝東西-1",
-                        "ms-MY": "Deguk-1"
-                    }
-                }
-            ]
+          "name": "Btw2",
+          "path": "EN_By the way2.mp3",
+          "description": {
+            "ja-JP": "By the way-2",
+            "en-US": "By the way-2",
+            "zh-TW": "By the way-2",
+            "ms-MY": "By the way-2"
+          }
         },
         {
-            "categoryName": "newVoices",
-            "categoryDescription": {
-                "ja-JP": "NEW VOICES",
-                "en-US": "NEW VOICES"
-            },
-            "voiceList": [
-                {
-                    "name": "cough1",
-                    "path": "ASMR_Cough.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Cough"
-                    }
-                },
-                {
-                    "name": "eating1",
-                    "path": "ASMR_Eating1.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Eating-1"
-                    }
-                },
-                {
-                    "name": "eating2",
-                    "path": "ASMR_Eating2.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Eating-2"
-                    }
-                },
-                {
-                    "name": "heartbeat",
-                    "path": "ASMR_Heartbeat.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Hearbeat"
-                    }
-                },
-                {
-                    "name": "slurp",
-                    "path": "ASMR_Slurp.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Slurp"
-                    }
-                },
-                {
-                    "name": "sneeze1",
-                    "path": "ASMR_Sneeze1.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Sneeze-1"
-                    }
-                },
-                {
-                    "name": "iyaa",
-                    "path": "BLESS_S_Iyaa.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Iyaa!"
-                    }
-                },
-                {
-                    "name": "kyaa",
-                    "path": "BLESS_S_Kyaa1.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Kyaa!-1"
-                    }
-                },
-                {
-                    "name": "s_scream1",
-                    "path": "BLESS_S_Scream1.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Scream-1"
-                    }
-                },
-                {
-                    "name": "s_scream2",
-                    "path": "BLESS_S_Scream2.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Scream-2"
-                    }
-                },
-                {
-                    "name": "bless_scream1",
-                    "path": "BLESS_Scream1.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Surpised Scream-1"
-                    }
-                },
-                {
-                    "name": "big brain",
-                    "path": "EN_Big Brain.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Big Brain"
-                    }
-                },
-                {
-                    "name": "brah",
-                    "path": "EN_Brah.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Brah"
-                    }
-                },
-                {
-                    "name": "Bruh",
-                    "path": "EN_Bruh.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Bruh"
-                    }
-                },
-                {
-                    "name": "i cook the subaru",
-                    "path": "EN_ICookTheSubaru.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I cook the Subaru"
-                    }
-                },
-                {
-                    "name": "i like turkey",
-                    "path": "EN_ILikeTurkey.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I like Turkey!"
-                    }
-                },
-                {
-                    "name": "i love you",
-                    "path": "EN_ILoveYou.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I love you!"
-                    }
-                },
-                {
-                    "name": "im back",
-                    "path": "EN_ImBack.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I'm back"
-                    }
-                },
-                {
-                    "name": "im back nanora",
-                    "path": "EN_ImBackNanora.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I'm back nanora"
-                    }
-                },
-                {
-                    "name": "im chucky",
-                    "path": "EN_ImChucky.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I'm Chucky!"
-                    }
-                },
-                {
-                    "name": "im fine thank you",
-                    "path": "EN_ImFineThankYou.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I'm fine, thank you"
-                    }
-                },
-                {
-                    "name": "im sleeping now",
-                    "path": "EN_ImSleepingNow.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I'm sleeping now"
-                    }
-                },
-                {
-                    "name": "im wake up",
-                    "path": "EN_ImWakeUp.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I'm wake up"
-                    }
-                },
-                {
-                    "name": "angry jigglypuff luna no sleep",
-                    "path": "EN_JigglyPuffLunaNoSleep.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Angry Jigglypuff Luna"
-                    }
-                },
-                {
-                    "name": "luna invisible",
-                    "path": "EN_LunaInvisible.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Luna Invisible"
-                    }
-                },
-                {
-                    "name": "nes",
-                    "path": "EN_NES.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Nintendo Entertainment System"
-                    }
-                },
-                {
-                    "name": "no no together luna",
-                    "path": "EN_NonoTogether.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "No! No! Together Luna!"
-                    }
-                },
-                {
-                    "name": "oh my god (sleepy)",
-                    "path": "EN_Oh My God_Sleepy.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Oh my God (Sleepy)"
-                    }
-                },
-                {
-                    "name": "pardun",
-                    "path": "EN_Pardun.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Pardun"
-                    }
-                },
-                {
-                    "name": "turkey=subaru",
-                    "path": "EN_Turkey=Subaru.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Turkey = Subaru"
-                    }
-                },
-                {
-                    "name": "you are welcome",
-                    "path": "EN_YouAreWelcome.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "You are welcome!"
-                    }
-                },
-                {
-                    "name": "good morning (sleepy)",
-                    "path": "GR_GoodMorning Sleepy.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Good Morning (Sleepy)"
-                    }
-                },
-                {
-                    "name": "Thanks for subscribing (EN)",
-                    "path": "GR_ThanksForSubscribingEN.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Thank you for subscribing to the channel (EN)"
-                    }
-                },
-                {
-                    "name": "Thanks for subscribing (JP)",
-                    "path": "GR_ThanksForSubscribingJP.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Thank you for subscribing to the channel (JP)"
-                    }
-                },
-                {
-                    "name": "cute is justice majide",
-                    "path": "PH_CuteIsJusticeMajide.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Cute is Justice!... MAJIDE..?"
-                    }
-                },
-                {
-                    "name": "goodbye everyone me die",
-                    "path": "PH_GoodbyeEveryone.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Goodbye everyone... Me die"
-                    }
-                },
-                {
-                    "name": "itadaku nora",
-                    "path": "PH_ItadakuNora.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Itadaku-nora!"
-                    }
-                },
-                {
-                    "name": "jigglypuff luna",
-                    "path": "PH_JigglypuffLuna.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Jigglypuff Luna writes on your face"
-                    }
-                },
-                {
-                    "name": "loyalty to luna1",
-                    "path": "PH_LoyaltyToLuna1.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Loyalty to Luna-1"
-                    }
-                },
-                {
-                    "name": "loyalty to luna2",
-                    "path": "PH_LoyaltyToLuna2.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Loyalty to Luna-2"
-                    }
-                },
-                {
-                    "name": "luna cooks subaru",
-                    "path": "PH_LunaCooksSubaru.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Luna cooks Subaru"
-                    }
-                },
-                {
-                    "name": "luna is an angel majide",
-                    "path": "PH_LunaTenshi.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Luna is an angel!... MAJIDE..?"
-                    }
-                },
-                {
-                    "name": "nanora nanora im a nanora",
-                    "path": "PH_NanoraNanora.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Nanora nanora! I'm a nanora!"
-                    }
-                },
-                {
-                    "name": "navi luna",
-                    "path": "PH_NaviLuna.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Navi Luna"
-                    }
-                },
-                {
-                    "name": "professor luna kills everyone",
-                    "path": "PH_ProfessorLunaKillsEveryone.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Professor Luna kills everyone"
-                    }
-                },
-                {
-                    "name": "shin nanora",
-                    "path": "PH_ShinNanora.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Shin Nanora"
-                    }
-                },
-                {
-                    "name": "subaru-chan? choco-chan?",
-                    "path": "PH_SubaruchanChocochan.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Subaru-chan? Choco-chan?"
-                    }
-                },
-                {
-                    "name": "sweety princess",
-                    "path": "PH_SweetyPrincess.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I'm sweety princess! Oh yes!"
-                    }
-                },
-                {
-                    "name": "i want to play it",
-                    "path": "PN_IWantToPlayIt.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "I want to play it!"
-                    }
-                },
-                {
-                    "name": "luna did not spoil",
-                    "path": "PN_NoSpoilers.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Luna did not spoil!"
-                    }
-                },
-                {
-                    "name": "abc",
-                    "path": "S_ABC.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Alphabet Song (ABC)"
-                    }
-                },
-                {
-                    "name": "Aitakatta",
-                    "path": "S_Aitakatta.mp3",
-                    "description": {
-                        "ja-JP": "会いたかった",
-                        "en-US": "Aitakatta"
-                    }
-                },
-                {
-                    "name": "jigglypuff song (karaoke)",
-                    "path": "S_JigglypuffSong Karaoke.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Jigglypuff Song (Karaoke)"
-                    }
-                },
-                {
-                    "name": "jigglypuff song",
-                    "path": "S_JigglypuffSong.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Jigglypuff Song"
-                    }
-                },
-                {
-                    "name": "kirby victory",
-                    "path": "S_KirbyVictory.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Kirby Victory Theme"
-                    }
-                },
-                {
-                    "name": "one winged angel",
-                    "path": "S_OneWingedAngel.mp3",
-                    "description": {
-                        "_ja-JP": "片翼の天使",
-                        "en-US": "One Winged Angel"
-                    }
-                },
-                {
-                    "name": "silent night santa-san",
-                    "path": "S_SilentNight.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Silent Night (Santa-san)"
-                    }
-                },
-                {
-                    "name": "star wars theme",
-                    "path": "S_StarWarsTheme.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Star Wars Theme"
-                    }
-                },
-                {
-                    "name": "twinkle twinkle",
-                    "path": "S_TwinkleTwinkle.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Twinkle Twinkle Little Star"
-                    }
-                },
-                {
-                    "name": "aha",
-                    "path": "SFX_Aha.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Aha!"
-                    }
-                },
-                {
-                    "name": "ara ara2",
-                    "path": "SFX_AraAra2.mp3",
-                    "description": {
-                        "ja-JP": "あらあら-2",
-                        "en-US": "Ara ara-2"
-                    }
-                },
-                {
-                    "name": "baka aho (long)",
-                    "path": "SFX_Baka aho long.mp3",
-                    "description": {
-                        "ja-JP": "バカ！アホ！(長い)",
-                        "en-US": "Baka Aho! (Long)"
-                    }
-                },
-                {
-                    "name": "douya",
-                    "path": "SFX_Douya.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Douya!"
-                    }
-                },
-                {
-                    "name": "eep1",
-                    "path": "SFX_Eep1.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Eep!-1"
-                    }
-                },
-                {
-                    "name": "excited gacha luna noises",
-                    "path": "SFX_ExcitedGachaLuna.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Excited Gacha Luna noises"
-                    }
-                },
-                {
-                    "name": "Fart1",
-                    "path": "SFX_Fart1.mp3",
-                    "description": {
-                        "ja-JP": "おなら-1",
-                        "en-US": "Aha!"
-                    }
-                },
-                {
-                    "name": "fuee",
-                    "path": "SFX_Fueee.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Fueeee!"
-                    }
-                },
-                {
-                    "name": "hmm faint",
-                    "path": "SFX_Hmm faint.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Hmm (Faint)"
-                    }
-                },
-                {
-                    "name": "hmm long",
-                    "path": "SFX_Hmm long.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Hmm (long)"
-                    }
-                },
-                {
-                    "name": "hmm short",
-                    "path": "SFX_Hmm short.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Hmm (Short)"
-                    }
-                },
-                {
-                    "name": "irritated luna noises",
-                    "path": "SFX_IrritatedNoises.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Irritated Luna Noises"
-                    }
-                },
-                {
-                    "name": "kupo",
-                    "path": "SFX_Kupo.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Kupo"
-                    }
-                },
-                {
-                    "name": "LINE",
-                    "path": "SFX_LINE.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "LINE"
-                    }
-                },
-                {
-                    "name": "majide",
-                    "path": "SFX_Majide.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "MAJIDE...?"
-                    }
-                },
-                {
-                    "name": "musha musha",
-                    "path": "SFX_mushamusha.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Musha musha"
-                    }
-                },
-                {
-                    "name": "nnaa (Sleepy)",
-                    "path": "SFX_Nnaa Sleepy.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Nnaa (Sleepy)"
-                    }
-                },
-                {
-                    "name": "nnnai",
-                    "path": "SFX_Nnnai.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Nnnai!"
-                    }
-                },
-                {
-                    "name": "nyaa",
-                    "path": "SFX_Nyaa.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Nyaa~"
-                    }
-                },
-                {
-                    "name": "Nyaa nya nya",
-                    "path": "SFX_Nyaanyanya.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Nyaa! nya! nya!"
-                    }
-                },
-                {
-                    "name": "nyonyonyo",
-                    "path": "SFX_Nyonyonyo.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Nyo nyo nyo!"
-                    }
-                },
-                {
-                    "name": "prr (long)",
-                    "path": "SFX_Prr long.mp3",
-                    "description": {
-                        "ja-JP": "Prr (長い)",
-                        "en-US": "Prr (Long)"
-                    }
-                },
-                {
-                    "name": "prr1",
-                    "path": "SFX_Prr1.mp3",
-                    "description": {
-                        "ja-JP": "Prr-1",
-                        "en-US": "Prr-1"
-                    }
-                },
-                {
-                    "name": "prr2",
-                    "path": "SFX_Prr2.mp3",
-                    "description": {
-                        "ja-JP": "Prr-2",
-                        "en-US": "Prr-2"
-                    }
-                },
-                {
-                    "name": "punching nnaa battle cries",
-                    "path": "SFX_PunchingNnaa.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Nnaa Battle Cries"
-                    }
-                },
-                {
-                    "name": "sensei",
-                    "path": "SFX_Sensei.mp3",
-                    "description": {
-                        "ja-JP": "先生",
-                        "en-US": "Sensei"
-                    }
-                },
-                {
-                    "name": "sexy luna",
-                    "path": "SFX_SexyLuna.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Sexy Luna"
-                    }
-                },
-                {
-                    "name": "shubashuba2",
-                    "path": "SFX_Shuba shuba2.mp3",
-                    "description": {
-                        "ja-JP": "シュバシュバ-2",
-                        "en-US": "Shuba shuba-2"
-                    }
-                },
-                {
-                    "name": "panicking luna noises",
-                    "path": "SFX_SurprisedLuna.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Panicking Luna noises"
-                    }
-                },
-                {
-                    "name": "umu umu",
-                    "path": "SFX_Umuumu.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Umu umu umu"
-                    }
-                },
-                {
-                    "name": "yatta long",
-                    "path": "SFX_Yatta Long.mp3",
-                    "description": {
-                        "_ja-JP": "",
-                        "en-US": "Yatta! (Long)"
-                    }
-                },
-                {
-                    "name": "yo sensei",
-                    "path": "SFX_YoSensei.mp3",
-                    "description": {
-                        "ja-JP": "よ先生",
-                        "en-US": "Yo Sensei"
-                    }
-                }
-            ]
+          "name": "English difficult",
+          "path": "EN_English Difficult.mp3",
+          "description": {
+            "ja-JP": "English Difficult",
+            "en-US": "English Difficult",
+            "zh-TW": "English Difficult",
+            "ms-MY": "English Difficult"
+          }
+        },
+        {
+          "name": "hotdog is enemy",
+          "path": "EN_Hotdog is Enemy.mp3",
+          "description": {
+            "ja-JP": "Hotdog is Enemy",
+            "en-US": "Hotdog is Enemy",
+            "zh-TW": "Hotdog is Enemy",
+            "ms-MY": "Hotdog is Enemy"
+          }
+        },
+        {
+          "name": "hotdog is good",
+          "path": "EN_Hotdog is Good.mp3",
+          "description": {
+            "ja-JP": "Hotdog is Good",
+            "en-US": "Hotdog is Good",
+            "zh-TW": "Hotdog is Good",
+            "ms-MY": "Hotdog is Good"
+          }
+        },
+        {
+          "name": "Hurry up im sleepy",
+          "path": "EN_Hurry Up Im Sleepy.mp3",
+          "description": {
+            "ja-JP": "Hurry up!! I'm sleepy!",
+            "en-US": "Hurry up!! I'm sleepy!",
+            "zh-TW": "Hurry up!! I'm sleepy!",
+            "ms-MY": "Hurry up!! I'm sleepy!"
+          }
+        },
+        {
+          "name": "im back",
+          "path": "EN_ImBack.mp3",
+          "description": {
+            "ja-JP": "I'm back",
+            "en-US": "I'm back"
+          }
+        },
+        {
+          "name": "im back nanora",
+          "path": "EN_ImBackNanora.mp3",
+          "description": {
+            "ja-JP": "I'm back nanora",
+            "en-US": "I'm back nanora"
+          }
+        },
+        {
+          "name": "im chucky",
+          "path": "EN_ImChucky.mp3",
+          "description": {
+            "ja-JP": "I'm Chucky!",
+            "en-US": "I'm Chucky!"
+          }
+        },
+        {
+          "name": "i cook the subaru",
+          "path": "EN_ICookTheSubaru.mp3",
+          "description": {
+            "ja-JP": "I cook the Subaru",
+            "en-US": "I cook the Subaru"
+          }
+        },
+        {
+          "name": "i like turkey",
+          "path": "EN_ILikeTurkey.mp3",
+          "description": {
+            "ja-JP": "I like Turkey!",
+            "en-US": "I like Turkey!"
+          }
+        },
+        {
+          "name": "I dont know",
+          "path": "EN_I dont knoww.mp3",
+          "description": {
+            "ja-JP": "I don't know",
+            "en-US": "I don't know",
+            "zh-TW": "I don't know",
+            "ms-MY": "I don't know"
+          }
+        },
+        {
+          "name": "I drink Coca Cola",
+          "path": "EN_I drink Coca Cola.mp3",
+          "description": {
+            "ja-JP": "I drink Coca Cola",
+            "en-US": "I drink Coca Cola",
+            "zh-TW": "I drink Coca Cola",
+            "ms-MY": "I drink Coca Cola"
+          }
+        },
+        {
+          "name": "I love you-1",
+          "path": "EN_I love you1.mp3",
+          "description": {
+            "ja-JP": "I love you-1",
+            "en-US": "I love you-1",
+            "zh-TW": "I love you-1",
+            "ms-MY": "I love you-1"
+          }
+        },
+        {
+          "name": "i love you-2",
+          "path": "EN_I love you2.mp3",
+          "description": {
+            "ja-JP": "I love you-2",
+            "en-US": "I love you-2"
+          }
+        },
+        {
+          "name": "Im a sugoi",
+          "path": "EN_Im a sugoi.mp3",
+          "description": {
+            "ja-JP": "I'm a sugoi",
+            "en-US": "I'm a sugoi",
+            "zh-TW": "I'm a sugoi",
+            "ms-MY": "I'm a sugoi"
+          }
+        },
+        {
+          "name": "Im brain",
+          "path": "EN_Im brain.mp3",
+          "description": {
+            "ja-JP": "I'm brain, bakuhatsu!",
+            "en-US": "I'm brain, bakuhatsu!",
+            "zh-TW": "I'm brain, bakuhatsu!",
+            "ms-MY": "I'm brain, bakuhatsu!"
+          }
+        },
+        {
+          "name": "im fine thank you",
+          "path": "EN_ImFineThankYou.mp3",
+          "description": {
+            "ja-JP": "I'm fine, thank you",
+            "en-US": "I'm fine, thank you"
+          }
+        },
+        {
+          "name": "Im loving it",
+          "path": "EN_Im loving it.mp3",
+          "description": {
+            "ja-JP": "Im loving it",
+            "en-US": "Im loving it",
+            "zh-TW": "Im loving it",
+            "ms-MY": "Im loving it"
+          }
+        },
+        {
+          "name": "im sleeping now",
+          "path": "EN_ImSleepingNow.mp3",
+          "description": {
+            "ja-JP": "I'm sleeping now",
+            "en-US": "I'm sleeping now"
+          }
+        },
+        {
+          "name": "im wake up",
+          "path": "EN_ImWakeUp.mp3",
+          "description": {
+            "ja-JP": "I'm wake up",
+            "en-US": "I'm wake up"
+          }
+        },
+        {
+          "name": "luna invisible",
+          "path": "EN_LunaInvisible.mp3",
+          "description": {
+            "ja-JP": "Luna Invisible",
+            "en-US": "Luna Invisible"
+          }
+        },
+        {
+          "name": "Missile missile",
+          "path": "EN_Missile Missile.mp3",
+          "description": {
+            "ja-JP": "...Missile missile",
+            "en-US": "...Missile missile",
+            "zh-TW": "...Missile missile",
+            "ms-MY": "...Missile missile"
+          }
+        },
+        {
+          "name": "Nanora is English",
+          "path": "EN_Nanora is English.mp3",
+          "description": {
+            "ja-JP": "Nanora is English",
+            "en-US": "Nanora is English",
+            "zh-TW": "Nanora is English",
+            "ms-MY": "Nanora is English"
+          }
+        },
+        {
+          "name": "nes",
+          "path": "EN_NES.mp3",
+          "description": {
+            "ja-JP": "Nintendo Entertainment System",
+            "en-US": "Nintendo Entertainment System"
+          }
+        },
+        {
+          "name": "Never give up i can do it",
+          "path": "EN_Never give up i can do it.mp3",
+          "description": {
+            "ja-JP": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
+            "en-US": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
+            "zh-TW": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!",
+            "ms-MY": "Never give up! I can do it! Cute is Justice! I'm winner! Enemy hotdog! Yes, LET'S GO!!"
+          }
+        },
+        {
+          "name": "no no together luna",
+          "path": "EN_NonoTogether.mp3",
+          "description": {
+            "ja-JP": "No! No! Together Luna!",
+            "en-US": "No! No! Together Luna!"
+          }
+        },
+        {
+          "name": "Oh my God1",
+          "path": "EN_Oh my God1.mp3",
+          "description": {
+            "ja-JP": "Oh my God-1",
+            "en-US": "Oh my God-1",
+            "zh-TW": "Oh my God-1",
+            "ms-MY": "Oh my God-1"
+          }
+        },
+        {
+          "name": "Oh my God2",
+          "path": "EN_Oh my God2.mp3",
+          "description": {
+            "ja-JP": "Oh my God-2",
+            "en-US": "Oh my God-2",
+            "zh-TW": "Oh my God-2",
+            "ms-MY": "Oh my God-2"
+          }
+        },
+        {
+          "name": "oh my god (sleepy)",
+          "path": "EN_Oh My God_Sleepy.mp3",
+          "description": {
+            "ja-JP": "Oh my God (眠そう)",
+            "en-US": "Oh my God (Sleepy)"
+          }
+        },
+        {
+          "name": "Im hamburger",
+          "path": "EN_Oh no Im Hamburger.mp3",
+          "description": {
+            "ja-JP": "Oh no, I'm hamburger",
+            "en-US": "Oh no, I'm hamburger",
+            "zh-TW": "Oh no, I'm hamburger",
+            "ms-MY": "Oh no, I'm hamburger"
+          }
+        },
+        {
+          "name": "Oh yes",
+          "path": "EN_Oh yes.mp3",
+          "description": {
+            "ja-JP": "Oh yes",
+            "en-US": "Oh yes",
+            "zh-TW": "ms-MY"
+          }
+        },
+        {
+          "name": "Okay guguru",
+          "path": "EN_Okay Guguru.mp3",
+          "description": {
+            "ja-JP": "Okay Guguru",
+            "en-US": "Okay Guguru",
+            "zh-TW": "Okay Guguru",
+            "ms-MY": "Okay Guguru"
+          }
+        },
+        {
+          "name": "pardun",
+          "path": "EN_Pardun.mp3",
+          "description": {
+            "ja-JP": "Pardun?",
+            "en-US": "Pardun?"
+          }
+        },
+        {
+          "name": "Shutup",
+          "path": "EN_Shut up.mp3",
+          "description": {
+            "ja-JP": "SHUDDUP!",
+            "en-US": "SHUDDUP!",
+            "zh-TW": "SHUDDUP!",
+            "ms-MY": "SHUDDUP!"
+          }
+        },
+        {
+          "name": "turkey=subaru",
+          "path": "EN_Turkey=Subaru.mp3",
+          "description": {
+            "ja-JP": "Turkey = Subaru",
+            "en-US": "Turkey = Subaru"
+          }
+        },
+        {
+          "name": "Wake up",
+          "path": "EN_Wake up.mp3",
+          "description": {
+            "ja-JP": "WAKE UP!",
+            "en-US": "WAKE UP!",
+            "zh-TW": "WAKE UP!",
+            "ms-MY": "WAKE UP!"
+          }
+        },
+        {
+          "name": "you are welcome",
+          "path": "EN_YouAreWelcome.mp3",
+          "description": {
+            "ja-JP": "You are welcome!",
+            "en-US": "You are welcome!"
+          }
         }
-    ]
+      ]
+    },
+    {
+      "categoryName": "lunaSFX",
+      "categoryDescription": {
+        "ja-JP": "ルーナの音声",
+        "en-US": "Luna Sounds",
+        "zh-TW": "璐娜音",
+        "ms-MY": "Suara Luna"
+      },
+      "voiceList": [
+        {
+          "name": "aha",
+          "path": "SFX_Aha.mp3",
+          "description": {
+            "ja-JP": "Aha!",
+            "en-US": "Aha!"
+          }
+        },
+        {
+          "name": "ara ara1",
+          "path": "SFX_AraAra1.mp3",
+          "description": {
+            "ja-JP": "あらあら-1",
+            "en-US": "Ara ara1",
+            "zh-TW": "啊啦啊啦-1",
+            "ms-MY": "Alah-alah-1"
+          }
+        },
+        {
+          "name": "ara ara2",
+          "path": "SFX_AraAra2.mp3",
+          "description": {
+            "ja-JP": "あらあら-2",
+            "en-US": "Ara ara-2"
+          }
+        },
+        {
+          "name": "Baka aho",
+          "path": "SFX_Baka aho.mp3",
+          "description": {
+            "ja-JP": "バカ！アホ！",
+            "en-US": "Baka aho",
+            "zh-TW": "笨蛋 傻瓜",
+            "ms-MY": "Dungu! Tolol!"
+          }
+        },
+        {
+          "name": "baka aho (long)",
+          "path": "SFX_Baka aho long.mp3",
+          "description": {
+            "ja-JP": "バカ！アホ！(長い)",
+            "en-US": "Baka Aho! (Long)"
+          }
+        },
+        {
+          "name": "Bluna",
+          "path": "SFX_Bluna.mp3",
+          "description": {
+            "ja-JP": "ぶルーナ",
+            "en-US": "Bluna",
+            "zh-TW": "藍璐娜",
+            "ms-MY": "Luna Biru"
+          }
+        },
+        {
+          "name": "Controller Slam",
+          "path": "SFX_Controller Slam.mp3",
+          "description": {
+            "ja-JP": "コントローラー、叩く",
+            "en-US": "Controller Slam",
+            "zh-TW": "敲搖控器",
+            "ms-MY": "Hentakan Alat Kawal"
+          }
+        },
+        {
+          "name": "doya",
+          "path": "SFX_Doya.mp3",
+          "description": {
+            "ja-JP": "どや( ｰ̀ωｰ́ )",
+            "en-US": "Doya!"
+          }
+        },
+        {
+          "name": "eep1",
+          "path": "SFX_Eep1.mp3",
+          "description": {
+            "ja-JP": "ぴぃ！-1",
+            "en-US": "Eep!-1"
+          }
+        },
+        {
+          "name": "excited gacha luna noises",
+          "path": "SFX_ExcitedGachaLuna.mp3",
+          "description": {
+            "ja-JP": "ガチャで興奮する姫様",
+            "en-US": "Excited Gacha Luna noises"
+          }
+        },
+        {
+          "name": "Fart1",
+          "path": "SFX_Fart1.mp3",
+          "description": {
+            "ja-JP": "おなら-1",
+            "en-US": "Fart-1"
+          }
+        },
+        {
+          "name": "Fart2",
+          "path": "SFX_Fart2.mp3",
+          "description": {
+            "ja-JP": "おなら-2",
+            "en-US": "Fart-2",
+            "zh-TW": "屁-2",
+            "ms-MY": "Kentut-2"
+          }
+        },
+        {
+          "name": "fuee",
+          "path": "SFX_Fueee.mp3",
+          "description": {
+            "ja-JP": "ふえぇぇぇ",
+            "en-US": "Fueeee!"
+          }
+        },
+        {
+          "name": "Giggle1",
+          "path": "SFX_Giggle1.mp3",
+          "description": {
+            "ja-JP": "くすくす-1",
+            "en-US": "Giggle-1",
+            "zh-TW": "誒嘿嘿-1",
+            "ms-MY": "Berdekit-dekit-1"
+          }
+        },
+        {
+          "name": "Giggle2",
+          "path": "SFX_Giggle2.mp3",
+          "description": {
+            "ja-JP": "くすくす-2",
+            "en-US": "Giggle-2",
+            "zh-TW": "誒嘿嘿-2",
+            "ms-MY": "Berdekit-dekit-2"
+          }
+        },
+        {
+          "name": "Giggle3",
+          "path": "SFX_Giggle3.mp3",
+          "description": {
+            "ja-JP": "くすくす-3",
+            "en-US": "Giggle-3",
+            "zh-TW": "誒嘿嘿-3",
+            "ms-MY": "Berdekit-dekit-3"
+          }
+        },
+        {
+          "name": "Giggle4",
+          "path": "SFX_Giggle4.mp3",
+          "description": {
+            "ja-JP": "くすくす-4",
+            "en-US": "Giggle-4",
+            "zh-TW": "誒嘿嘿-4",
+            "ms-MY": "Berdekit-dekit-4"
+          }
+        },
+        {
+          "name": "Giggle5",
+          "path": "SFX_Giggle5.mp3",
+          "description": {
+            "ja-JP": "くすくす-5",
+            "en-US": "Giggle-5",
+            "zh-TW": "誒嘿嘿-5",
+            "ms-MY": "Berdekit-dekit-5"
+          }
+        },
+        {
+          "name": "Hentai",
+          "path": "SFX_Hentai.mp3",
+          "description": {
+            "ja-JP": "変態",
+            "en-US": "Hentai",
+            "zh-TW": "變態",
+            "ms-MY": "Hentai"
+          }
+        },
+        {
+          "name": "hmm faint",
+          "path": "SFX_Hmm faint.mp3",
+          "description": {
+            "ja-JP": "ふんっ",
+            "en-US": "Hmm (Faint)"
+          }
+        },
+        {
+          "name": "hmm long",
+          "path": "SFX_Hmm long.mp3",
+          "description": {
+            "ja-JP": "ふんっふんっ",
+            "en-US": "Hmm (long)"
+          }
+        },
+        {
+          "name": "hmm short",
+          "path": "SFX_Hmm short.mp3",
+          "description": {
+            "ja-JP": "ﾌﾝﾌﾝﾌﾝﾌﾝ",
+            "en-US": "Hmm (Short)"
+          }
+        },
+        {
+          "name": "irritated luna noises",
+          "path": "SFX_IrritatedNoises.mp3",
+          "description": {
+            "ja-JP": "怒るーな",
+            "en-US": "Irritated Luna Noises"
+          }
+        },
+        {
+          "name": "Kamehameha",
+          "path": "SFX_Kamehameha.mp3",
+          "description": {
+            "ja-JP": "かめはめ波",
+            "en-US": "Kamehameha",
+            "zh-TW": "龜派氣功",
+            "ms-MY": "Kamehameha"
+          }
+        },
+        {
+          "name": "kupo",
+          "path": "SFX_Kupo.mp3",
+          "description": {
+            "ja-JP": "クポ！",
+            "en-US": "Kupo"
+          }
+        },
+        {
+          "name": "nnnai / LINE",
+          "path": "SFX_LINE.mp3",
+          "description": {
+            "ja-JP": "んなぁい！",
+            "en-US": "Nnnai! (LINE?)"
+          }
+        },
+        {
+          "name": "majide",
+          "path": "SFX_Majide.mp3",
+          "description": {
+            "ja-JP": "マジでぇ....",
+            "en-US": "MAJIDE.."
+          }
+        },
+        {
+          "name": "Mama mia",
+          "path": "SFX_Mama mia.mp3",
+          "description": {
+            "ja-JP": "マンマ・ミーア",
+            "en-US": "Mama mia",
+            "zh-TW": "Mama mia",
+            "ms-MY": "Mamma mia"
+          }
+        },
+        {
+          "name": "Mogumogu1",
+          "path": "SFX_Mogumogu1.mp3",
+          "description": {
+            "ja-JP": "もぐもぐ-1",
+            "en-US": "Mogu mogu-1",
+            "zh-TW": "嚼嚼-1",
+            "ms-MY": "Kunyah-1"
+          }
+        },
+        {
+          "name": "Mogumogu2",
+          "path": "SFX_Mogumogu2.mp3",
+          "description": {
+            "ja-JP": "もぐもぐ-2",
+            "en-US": "Mogu mogu-2",
+            "zh-TW": "嚼嚼-2",
+            "ms-MY": "Kunyah-2"
+          }
+        },
+        {
+          "name": "musha musha",
+          "path": "SFX_mushamusha.mp3",
+          "description": {
+            "ja-JP": "むしゃむしゃ",
+            "en-US": "Musha musha"
+          }
+        },
+
+        {
+          "name": "Nna1",
+          "path": "SFX_Nna1.mp3",
+          "description": {
+            "ja-JP": "んなあ-1",
+            "en-US": "Nna-1",
+            "zh-TW": "嗯吶-1",
+            "ms-MY": "Nnaa-1"
+          }
+        },
+        {
+          "name": "nnaa (Sleepy)",
+          "path": "SFX_Nnaa Sleepy.mp3",
+          "description": {
+            "ja-JP": "んなぁぁ（眠そう）",
+            "en-US": "Nnaa (Sleepy)"
+          }
+        },
+        {
+          "name": "punching nnaa battle cries",
+          "path": "SFX_PunchingNnaa.mp3",
+          "description": {
+            "ja-JP": "んなっ！（戦闘時）",
+            "en-US": "Nnaa Battle Cries"
+          }
+        },
+        {
+          "name": "Nnaaa1",
+          "path": "SFX_Nnaaa.mp3",
+          "description": {
+            "ja-JP": "んなあああ",
+            "en-US": "Nnaaa",
+            "zh-TW": "嗯吶啊",
+            "ms-MY": "Nnaaaa-1"
+          }
+        },
+        {
+          "name": "Nnaaa long",
+          "path": "SFX_Nnaaa Long.mp3",
+          "description": {
+            "ja-JP": "んなあああ(長い)",
+            "en-US": "Nnaaa (Long)",
+            "zh-TW": "嗯吶啊啊啊 (長)",
+            "ms-MY": "Nnaaaa (Panjang)"
+          }
+        },
+        {
+          "name": "Nnaaa~i1",
+          "path": "SFX_Nnaaa~i1.mp3",
+          "description": {
+            "ja-JP": "んなあああ~い-1",
+            "en-US": "Nnaaa~i-1",
+            "zh-TW": "嗯吶啊啊~咿~-1",
+            "ms-MY": "Nnaaaa~i-1"
+          }
+        },
+        {
+          "name": "Nnaaa~i2",
+          "path": "SFX_Nnaaa~i2.mp3",
+          "description": {
+            "ja-JP": "んなあああ~い-2",
+            "en-US": "Nnaaa~i-2",
+            "zh-TW": "嗯吶啊啊~咿~-2",
+            "ms-MY": "Nnaaaa~i-2"
+          }
+        },
+        {
+          "name": "nyaa",
+          "path": "SFX_Nyaa.mp3",
+          "description": {
+            "ja-JP": "にゃああああ！",
+            "en-US": "Nyaa~"
+          }
+        },
+        {
+          "name": "Nyaa nya nya",
+          "path": "SFX_Nyaanyanya.mp3",
+          "description": {
+            "ja-JP": "んにゃ！んにゃ！",
+            "en-US": "Nyaa! nya! nya!"
+          }
+        },
+        {
+          "name": "nyonyonyo",
+          "path": "SFX_Nyonyonyo.mp3",
+          "description": {
+            "ja-JP": "にょにょにょ～",
+            "en-US": "Nyo nyo nyo!"
+          }
+        },
+        {
+          "name": "panicking luna noises",
+          "path": "SFX_SurprisedLuna.mp3",
+          "description": {
+            "ja-JP": "パニックするーな",
+            "en-US": "Panicking Luna noises"
+          }
+        },
+        {
+          "name": "Prrr1",
+          "path": "SFX_Prr1.mp3",
+          "description": {
+            "ja-JP": "Prrr-1",
+            "en-US": "Prrr-1"
+          }
+        },
+        {
+          "name": "prrr2",
+          "path": "SFX_Prr2.mp3",
+          "description": {
+            "ja-JP": "Prrr-2",
+            "en-US": "Prrr-2"
+          }
+        },
+        {
+          "name": "PrrrHarmonic",
+          "path": "SFX_Prrr Harmonic.mp3",
+          "description": {
+            "ja-JP": "Prrr (旋律的)",
+            "en-US": "Prrr (Melodic)",
+            "zh-TW": "Prrr (旋律)",
+            "ms-MY": "Prrr (Beralun)"
+          }
+        },
+        {
+          "name": "prrr (long)",
+          "path": "SFX_Prr long.mp3",
+          "description": {
+            "ja-JP": "Prrr (長い)",
+            "en-US": "Prrr (Long)"
+          }
+        },
+        {
+          "name": "sensei",
+          "path": "SFX_Sensei.mp3",
+          "description": {
+            "ja-JP": "先生",
+            "en-US": "Sensei"
+          }
+        },
+        {
+          "name": "sexy luna",
+          "path": "SFX_SexyLuna.mp3",
+          "description": {
+            "ja-JP": "セクシールーナ（）",
+            "en-US": "Sexy Luna"
+          }
+        },
+        {
+          "name": "Shubashuba1",
+          "path": "SFX_Shuba shuba.mp3",
+          "description": {
+            "ja-JP": "シュバシュバ",
+            "en-US": "Shuba shuba",
+            "zh-TW": "Shuba shuba",
+            "ms-MY": "Syuba-syuba"
+          }
+        },
+        {
+          "name": "shubashuba2",
+          "path": "SFX_Shuba shuba2.mp3",
+          "description": {
+            "ja-JP": "シュバシュバ-2",
+            "en-US": "Shuba shuba-2"
+          }
+        },
+        {
+          "name": "umu umu",
+          "path": "SFX_Umuumu.mp3",
+          "description": {
+            "ja-JP": "ああむあむ♪",
+            "en-US": "Umu umu umu"
+          }
+        },
+        {
+          "name": "yatta long",
+          "path": "SFX_Yatta Long.mp3",
+          "description": {
+            "ja-JP": "やったあああああ！",
+            "en-US": "Yatta! (Long)"
+          }
+        },
+        {
+          "name": "yo sensei",
+          "path": "SFX_YoSensei.mp3",
+          "description": {
+            "ja-JP": "よ！先生",
+            "en-US": "Yo Sensei"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "Greetings",
+      "categoryDescription": {
+        "ja-JP": "挨拶",
+        "en-US": "Greetings",
+        "zh-TW": "打招呼",
+        "ms-MY": "Sapaan"
+      },
+      "voiceList": [
+        {
+          "name": "good morning (sleepy)",
+          "path": "GR_GoodMorning Sleepy.mp3",
+          "description": {
+            "ja-JP": "Good Morning (眠そう)",
+            "en-US": "Good Morning (Sleepy)"
+          }
+        },
+        {
+          "name": "goodnighto-1",
+          "path": "GR_Goodnighto1.mp3",
+          "description": {
+            "ja-JP": "ぐっとないと-1",
+            "en-US": "Goodnighto-1",
+            "zh-TW": "Good Night-1",
+            "ms-MY": "Gut Naito-1"
+          }
+        },
+        {
+          "name": "goodnighto-2",
+          "path": "GR_Goodnighto2.mp3",
+          "description": {
+            "ja-JP": "ぐっとないと-2",
+            "en-US": "Goodnighto-2",
+            "zh-TW": "Good Night-2",
+            "ms-MY": "Gut Naito-2"
+          }
+        },
+        {
+          "name": "minna hisashiburi",
+          "path": "GR_Minna Sashiburi.mp3",
+          "description": {
+            "ja-JP": "みんな久しぶり",
+            "en-US": "Minna Hisashiburi",
+            "zh-TW": "大家好久不見",
+            "ms-MY": "Lama tak berjumpa semua"
+          }
+        },
+        {
+          "name": "minna oru1",
+          "path": "GR_Minna Oru1.mp3",
+          "description": {
+            "ja-JP": "みんなおる？",
+            "en-US": "Minna Oru?",
+            "zh-TW": "大家在嗎?",
+            "ms-MY": "Semua ada?"
+          }
+        },
+        {
+          "name": "minna oru short",
+          "path": "GR_Minna Oru Short.mp3",
+          "description": {
+            "ja-JP": "みんなおる？ (短い)",
+            "en-US": "Minna Oru? (Short)",
+            "zh-TW": "大家在嗎? (短)",
+            "ms-MY": "Semua ada? (Pendek)"
+          }
+        },
+        {
+          "name": "otsuluna long-1",
+          "path": "GR_OtsuLunaLong1.mp3",
+          "description": {
+            "ja-JP": "おつルーナ(長い)-1",
+            "en-US": "OtsuLuna (Long)-1",
+            "zh-TW": "辛苦了璐娜 (長)-1",
+            "ms-MY": "Selamat Tinggaluna (Panjang)-1"
+          }
+        },
+        {
+          "name": "otsuluna long-2",
+          "path": "GR_OtsuLunaLong2.mp3",
+          "description": {
+            "ja-JP": "おつルーナ(長い)-2",
+            "en-US": "OtsuLuna (Long)-2",
+            "zh-TW": "辛苦了璐娜 (長)-2",
+            "ms-MY": "Selamat Tinggaluna (Panjang)-2"
+          }
+        },
+        {
+          "name": "Thanks for subscribing (EN)",
+          "path": "GR_ThanksForSubscribingEN.mp3",
+          "description": {
+            "ja-JP": "Thank you for subscribing to the channel (EN)",
+            "en-US": "Thank you for subscribing to the channel (EN)"
+          }
+        },
+        {
+          "name": "Thanks for subscribing (JP)",
+          "path": "GR_ThanksForSubscribingJP.mp3",
+          "description": {
+            "ja-JP": "チャンネル登録よろしくなのら",
+            "en-US": "Thank you for subscribing to the channel (JP)"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "PianoStream",
+      "categoryDescription": {
+        "ja-JP": "ピアノのお稽古",
+        "en-US": "Piano Stream",
+        "zh-TW": "鋼琴練習",
+        "ms-MY": "Latihan Piano"
+      },
+      "voiceList": [
+        {
+          "name": "i want to play it",
+          "path": "PN_IWantToPlayIt.mp3",
+          "description": {
+            "ja-JP": "弾きたいんだ～も～ん",
+            "en-US": "I want to play it!"
+          }
+        },
+        {
+          "name": "luna did not spoil",
+          "path": "PN_NoSpoilers.mp3",
+          "description": {
+            "ja-JP": "しらないっ！ネタバレなんて！",
+            "en-US": "Luna did not spoil!"
+          }
+        },
+        {
+          "name": "nanoragayatekita",
+          "path": "PN_NanoraGaYatekita.mp3",
+          "description": {
+            "ja-JP": "なのらがやってきたー",
+            "en-US": "Nanora Ga Yatekita",
+            "zh-TW": "吶喏啦過來了",
+            "ms-MY": "Nanora telah tiba"
+          }
+        },
+        {
+          "name": "nekofunjatta",
+          "path": "PN_Neko Funjatta.mp3",
+          "description": {
+            "ja-JP": "ネコふんじゃった",
+            "en-US": "Neko Funjatta",
+            "zh-TW": "踩到了貓咪",
+            "ms-MY": "Flohwalzer"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "phrases",
+      "categoryDescription": {
+        "ja-JP": "名言",
+        "en-US": "Phrases",
+        "zh-TW": "名句",
+        "ms-MY": "Ungkapan"
+      },
+      "voiceList": [
+        {
+          "name": "bigsmokeEN",
+          "path": "PH_Big Smoke Order EN.mp3",
+          "description": {
+            "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [EN]",
+            "en-US": "Big Smoke's Order [EN]",
+            "zh-TW": "Big Smoke 點餐台詞 [EN]",
+            "ms-MY": "Pesanan Big Smoke [BI]"
+          }
+        },
+        {
+          "name": "bigsmokeJAP",
+          "path": "PH_Big Smoke Order JA.mp3",
+          "description": {
+            "ja-JP": "ビッグスモークの注文セリフ(GTAにて) [JP]",
+            "en-US": "Big Smoke's Order [JP]",
+            "zh-TW": "Big Smoke 點餐台詞 [JP]",
+            "ms-MY": "Pesanan Big Smoke [BJ]"
+          }
+        },
+        {
+          "name": "cute is justice majide",
+          "path": "PH_CuteIsJusticeMajide.mp3",
+          "description": {
+            "ja-JP": "Cute is Justice!... MAJIDE..",
+            "en-US": "Cute is Justice!... MAJIDE.."
+          }
+        },
+        {
+          "name": "goodbye everyone me die",
+          "path": "PH_GoodbyeEveryone.mp3",
+          "description": {
+            "ja-JP": "Goodbye everyone... Me die",
+            "en-US": "Goodbye everyone... Me die"
+          }
+        },
+        {
+          "name": "itadaku nora",
+          "path": "PH_ItadakuNora.mp3",
+          "description": {
+            "ja-JP": "いただくのら",
+            "en-US": "Itadaku-nora!"
+          }
+        },
+        {
+          "name": "jigglypuff luna writes on your face",
+          "path": "PH_JigglypuffLuna.mp3",
+          "description": {
+            "ja-JP": "寝顔にプリンが落書き",
+            "en-US": "Jigglypuff Luna writes on your face"
+          }
+        },
+        {
+          "name": "loyalty to luna1",
+          "path": "PH_LoyaltyToLuna1.mp3",
+          "description": {
+            "ja-JP": "ルーナにちゅ～せーよ！-1",
+            "en-US": "Loyalty to Luna-1"
+          }
+        },
+        {
+          "name": "loyalty to luna2",
+          "path": "PH_LoyaltyToLuna2.mp3",
+          "description": {
+            "ja-JP": "ルーナにちゅ～せーよ！-2",
+            "en-US": "Loyalty to Luna-2"
+          }
+        },
+        {
+          "name": "luna cooks subaru",
+          "path": "PH_LunaCooksSubaru.mp3",
+          "description": {
+            "ja-JP": "スバルちゃ先輩お肉になるのら♪",
+            "en-US": "Luna cooks Subaru"
+          }
+        },
+        {
+          "name": "luna is an angel majide",
+          "path": "PH_LunaTenshi.mp3",
+          "description": {
+            "ja-JP": "ルーナは天使！...MAJIDE...",
+            "en-US": "Luna is an angel!... MAJIDE.."
+          }
+        },
+        {
+          "name": "Lunazilla Attack",
+          "path": "SFX_Lunazilla Attacks.mp3",
+          "description": {
+            "ja-JP": "ナノラ(ルーナジラ)の進撃",
+            "en-US": "Lunazilla Attacks!",
+            "zh-TW": "進擊的吶喏啦(璐娜哥吉拉)",
+            "ms-MY": "Serangan Raksaluna"
+          }
+        },
+        {
+          "name": "matsuri",
+          "path": "PH_Ma...tsu...ri....mp3",
+          "description": {
+            "ja-JP": "まぁぁああつぅぅううりぃぃい！",
+            "en-US": "Ma...tsu...ri...",
+            "zh-TW": "Ma...tsu...ri...",
+            "ms-MY": "Maaatsuuuriii"
+          }
+        },
+        {
+          "name": "nanora nanora im a nanora",
+          "path": "PH_NanoraNanora.mp3",
+          "description": {
+            "ja-JP": "Nanora nanora! I'm a nanora!",
+            "en-US": "Nanora nanora! I'm a nanora!"
+          }
+        },
+        {
+          "name": "navi luna",
+          "path": "PH_NaviLuna.mp3",
+          "description": {
+            "ja-JP": "ナビするーな",
+            "en-US": "Navi Luna"
+          }
+        },
+        {
+          "name": "professor luna kills everyone",
+          "path": "PH_ProfessorLunaKillsEveryone.mp3",
+          "description": {
+            "ja-JP": "Professorルーナ　全員〇す",
+            "en-US": "Professor Luna kills everyone"
+          }
+        },
+        {
+          "name": "sayonara hotdog",
+          "path": "PH_Sayonara Hotdog.mp3",
+          "description": {
+            "ja-JP": "さようならホットドッグ",
+            "en-US": "Sayonara Hotdog",
+            "zh-TW": "再見了Hotdog",
+            "ms-MY": "Selamat Jalan Hot Dog"
+          }
+        },
+        {
+          "name": "shin nanora",
+          "path": "PH_ShinNanora.mp3",
+          "description": {
+            "ja-JP": "シン・ナノラ",
+            "en-US": "Shin Nanora"
+          }
+        },
+        {
+          "name": "subaru-chan? choco-chan?",
+          "path": "PH_SubaruchanChocochan.mp3",
+          "description": {
+            "ja-JP": "スバルちゃん？ちょこちゃん？",
+            "en-US": "Subaru-chan? Choco-chan?"
+          }
+        },
+        {
+          "name": "sweety princess",
+          "path": "PH_SweetyPrincess.mp3",
+          "description": {
+            "ja-JP": "I'm sweet princess! Oh yes!",
+            "en-US": "I'm sweety princess! Oh yes!"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "singing",
+      "categoryDescription": {
+        "ja-JP": "歌う",
+        "en-US": "Singing",
+        "zh-TW": "唱歌",
+        "ms-MY": "Nyanyian"
+      },
+      "voiceList": [
+        {
+          "name": "abc",
+          "path": "S_ABC.mp3",
+          "description": {
+            "ja-JP": "ABCの歌",
+            "en-US": "Alphabet Song (ABC)"
+          }
+        },
+        {
+          "name": "Aitakatta",
+          "path": "S_Aitakatta.mp3",
+          "description": {
+            "ja-JP": "会いたかった(AKB)",
+            "en-US": "Aitakatta"
+          }
+        },
+        {
+          "name": "jigglypuff song",
+          "path": "S_JigglypuffSong.mp3",
+          "description": {
+            "ja-JP": "プリンの歌",
+            "en-US": "Jigglypuff Song"
+          }
+        },
+        {
+          "name": "jigglypuff song (karaoke)",
+          "path": "S_JigglypuffSong Karaoke.mp3",
+          "description": {
+            "ja-JP": "プリンの歌（エコー）",
+            "en-US": "Jigglypuff Song (Karaoke)"
+          }
+        },
+        {
+          "name": "kirby victory",
+          "path": "S_KirbyVictory.mp3",
+          "description": {
+            "ja-JP": "クリアダンス（カービー）",
+            "en-US": "Kirby Victory Dance Theme"
+          }
+        },
+        {
+          "name": "one winged angel",
+          "path": "S_OneWingedAngel.mp3",
+          "description": {
+            "ja-JP": "片翼の天使(FFⅦ)",
+            "en-US": "One Winged Angel"
+          }
+        },
+        {
+          "name": "PPAP",
+          "path": "S_PPAP.mp3",
+          "description": {
+            "ja-JP": "PPAP",
+            "en-US": "PPAP",
+            "zh-TW": "PPAP",
+            "ms-MY": "PPAP"
+          }
+        },
+        {
+          "name": "silent night santa-san",
+          "path": "S_SilentNight.mp3",
+          "description": {
+            "ja-JP": "きよしこの夜（サンタさん）",
+            "en-US": "Silent Night (Santa-san)"
+          }
+        },
+        {
+          "name": "star wars theme",
+          "path": "S_StarWarsTheme.mp3",
+          "description": {
+            "ja-JP": "スターウォーズのテーマ",
+            "en-US": "Star Wars Theme"
+          }
+        },
+        {
+          "name": "twinkle twinkle",
+          "path": "S_TwinkleTwinkle.mp3",
+          "description": {
+            "ja-JP": "きらきら星",
+            "en-US": "Twinkle Twinkle Little Star"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "asmr",
+      "categoryDescription": {
+        "ja-JP": "ASMR",
+        "en-US": "ASMR",
+        "zh-TW": "ASMR",
+        "ms-MY": "ASMR"
+      },
+      "voiceList": [
+        {
+          "name": "cough1",
+          "path": "ASMR_Cough.mp3",
+          "description": {
+            "ja-JP": "お咳",
+            "en-US": "Cough"
+          }
+        },
+        {
+          "name": "drink1",
+          "path": "ASMR_Drink1.mp3",
+          "description": {
+            "ja-JP": "ごくごく-1",
+            "en-US": "Drink-1",
+            "zh-TW": "喝東西-1",
+            "ms-MY": "Deguk-1"
+          }
+        },
+        {
+          "name": "eating1",
+          "path": "ASMR_Eating1.mp3",
+          "description": {
+            "ja-JP": "お食事-1",
+            "en-US": "Eating-1"
+          }
+        },
+        {
+          "name": "eating2",
+          "path": "ASMR_Eating2.mp3",
+          "description": {
+            "ja-JP": "お食事2",
+            "en-US": "Eating-2"
+          }
+        },
+        {
+          "name": "heartbeat",
+          "path": "ASMR_Heartbeat.mp3",
+          "description": {
+            "ja-JP": "心音",
+            "en-US": "Heartbeat"
+          }
+        },
+        {
+          "name": "slurp",
+          "path": "ASMR_Slurp.mp3",
+          "description": {
+            "ja-JP": "啜り",
+            "en-US": "Slurp"
+          }
+        },
+        {
+          "name": "sneeze1",
+          "path": "ASMR_Sneeze1.mp3",
+          "description": {
+            "ja-JP": "くしゃみ-1",
+            "en-US": "Sneeze-1"
+          }
+        }
+      ]
+    },
+    {
+      "categoryName": "blessings",
+      "categoryDescription": {
+        "ja-JP": "鼓膜破壊リスト",
+        "en-US": "Luna's Blessings",
+        "_zh-TW": "",
+        "_ms-MY": ""
+      },
+      "voiceList": [
+        {
+          "name": "iyaa",
+          "path": "BLESS_S_Iyaa.mp3",
+          "description": {
+            "ja-JP": "いやあぁ！",
+            "en-US": "Iyaa!"
+          }
+        },
+        {
+          "name": "kyaa",
+          "path": "BLESS_S_Kyaa1.mp3",
+          "description": {
+            "ja-JP": "きゃあぁぁ！-1",
+            "en-US": "Kyaa!-1"
+          }
+        },
+        {
+          "name": "s_scream1",
+          "path": "BLESS_S_Scream1.mp3",
+          "description": {
+            "ja-JP": "叫び声-1",
+            "en-US": "Scream-1"
+          }
+        },
+        {
+          "name": "s_scream2",
+          "path": "BLESS_S_Scream2.mp3",
+          "description": {
+            "ja-JP": "叫び声-2",
+            "en-US": "Scream-2"
+          }
+        },
+        {
+          "name": "bless_scream1",
+          "path": "BLESS_Scream1.mp3",
+          "description": {
+            "ja-JP": "絶叫-1",
+            "en-US": "Surprised Scream-1"
+          }
+        }
+      ]
+    }
+  ]
 }

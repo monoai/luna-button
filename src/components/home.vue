@@ -175,10 +175,12 @@ class HomePage extends Vue {
     }
     random() {
         let tempList = this.voices[this._randomNum(0, this.voices.length - 1)];
-        //if (tempList.categoryName == "English phrases/Nanolish" ) {
-        //  console.log("It works");
-        //}
-        this.play(tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)]);
+        if (tempList.categoryName == "blessings" ) {
+          console.log("BLESSING DENIED");
+          this.random();
+        } else {
+          this.play(tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)]);
+        }
     }
     autoPlay(){
         if (this.overlapCheck || this.loopCheck) {
