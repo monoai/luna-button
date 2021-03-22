@@ -142,7 +142,7 @@ class HomePage extends Vue {
     voice = {};
 
     play(item){
-      let slider = document.getElementById('volSlider');
+        let slider = document.getElementById('volSlider');
         if (this.overlapCheck) {
             let audio = new Audio("voices/" + item.path);
             audio.volume = (slider.value/100);
@@ -176,11 +176,11 @@ class HomePage extends Vue {
     random() {
         let tempList = this.voices[this._randomNum(0, this.voices.length - 1)];
         if (tempList.categoryName == "blessings" ) {
-          //eslint-disable-next-line
-          console.log("BLESSING DENIED");
-          this.random();
+            //eslint-disable-next-line
+            console.log("BLESSING DENIED");
+            this.random();
         } else {
-          this.play(tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)]);
+            this.play(tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)]);
         }
     }
     autoPlay(){
@@ -212,12 +212,11 @@ class HomePage extends Vue {
         }
     }
     volGet() {
-      let slider = document.getElementById("volSlider");
-      let output = document.getElementById("volOut");
-      let player = document.getElementById('player');
-      output.innerHTML = slider.value;
-      player.volume = (slider.value/100);
-
+        let slider = document.getElementById("volSlider");
+        let output = document.getElementById("volOut");
+        let player = document.getElementById('player');
+        output.innerHTML = slider.value;
+        player.volume = (slider.value/100);
     }
 }
 export default HomePage;
