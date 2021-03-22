@@ -87,7 +87,7 @@ body{
     border-bottom: 2px solid #998ede;
 }
 .navbar {
-  min-height: 55px;
+    min-height: 55px;
 }
 .navbar-inner{
     background-size: contain;
