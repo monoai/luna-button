@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+    <div id="app">
         <Modal></Modal>
         <nav class="navbar navbar-default navbar-fixed-top navbar-inner">
             <div class="container-fluid">
@@ -48,7 +48,7 @@
                 <div><a href="https://twitter.com/monoAI_" target="_blank" @click="linkClick"><span style="color: #000000">mono</span><span style="color: #FF0000">AI</span></a> 2020. <span style="color: rgba(0, 0, 0, 0.5)">Credits to zyzsdy for his <a href="https://aquaminato.moe/" target="_blank">Aqua Button.</a></span></div>
             </div>
         </footer>
-  </div>
+    </div>
 </template>
 
 <style lang="scss">
@@ -87,7 +87,7 @@ body{
     border-bottom: 2px solid #998ede;
 }
 .navbar {
-  min-height: 55px;
+    min-height: 55px;
 }
 .navbar-inner{
     background-size: contain;
@@ -132,15 +132,15 @@ class App extends Vue {
     }
     get changeFlag(){
         if(this.currentLang == 'en-US') {
-          return 'us';
+            return 'us';
         } else if (this.currentLang == 'ja-JP'){
-          return 'jp';
+            return 'jp';
         } else if (this.currentLang == 'zh-TW'){
-          return 'tw';
+            return 'tw';
         } else if (this.currentLang == 'ms-MY'){
-          return 'my';
+            return 'my';
         } else {
-          return 'ph';
+            return 'ph';
         }
     }
     created(){
@@ -153,13 +153,15 @@ class App extends Vue {
         localStorage.setItem("lang", v);
     }
     linkClick(){
-      let player = document.getElementById('player');
-      player.src = "voices/GR_OniiChan.mp3";
-      player.play();
-      //eslint-disable-next-line
-      console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
-      //eslint-disable-next-line
-      console.log("ルーナちゃんありがちゅ！");
+        // NOTE: Consider using Vuex instead of an event bus.
+        this.$gConst.globalbus.$emit('play', {
+            src: "voices/GR_OniiChan.mp3",
+        })
+
+        //eslint-disable-next-line
+        console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
+        //eslint-disable-next-line
+        console.log("ルーナちゃんありがちゅ！");
     }
 }
 

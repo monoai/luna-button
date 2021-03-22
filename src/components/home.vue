@@ -20,15 +20,15 @@
                 <div class="visible-md visible-lg">
                   <button class="btn btn-info">
                     <span>{{ $t("action.volume") }}</span>
-                    <input class="slidecontainer slider" type="range" min="0" max="100" value="80" id="volSlider" @input="volGet">
+                    <input ref="volSlider" class="slidecontainer slider" type="range" min="0" max="100" id="volSlider" v-model="currentVolume">
                   </button>
-                  <p>{{ $t("action.volume") }}<span id="volOut">80</span></p>
+                  <p>{{ $t("action.volume") }}<span id="volOut">{{ currentVolume }}</span></p>
                 </div>
             </div>
             <div class="cate-body">
                 <span>{{ voice.name ? $t("action.playing") + $t("voice." + voice.name ) : $t("action.noplay") }}</span>
             </div>
-            <audio id="player" @ended="voiceEnd(false)"></audio>
+            <audio ref="player" id="player" @ended="voiceEnd(false)"></audio>
         </div>
         <div v-for="category in voices" v-bind:key="category.categoryName">
             <div class="cate-header">{{ $t("voicecategory." + category.categoryName) }}</div>
@@ -92,38 +92,38 @@
 }
 /*Slider CSS modified from w3schools*/
 .slider {
-  -webkit-appearance: none;  /* Override default CSS styles */
-  appearance: none;
-  display: inline-block;
-  width: auto; /* Full-width */
-  height: 5px; /* Specified height */
-  background: #d3d3d3; /* Grey background */
-  outline: none; /* Remove outline */
-  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
-  -webkit-transition: .2s; /* 0.2 seconds transition on hover */
-  transition: opacity .2s;
+    -webkit-appearance: none;  /* Override default CSS styles */
+    appearance: none;
+    display: inline-block;
+    width: auto; /* Full-width */
+    height: 5px; /* Specified height */
+    background: #d3d3d3; /* Grey background */
+    outline: none; /* Remove outline */
+    opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+    -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+    transition: opacity .2s;
 }
 
 /* Mouse-over effects */
 .slider:hover {
-  opacity: 1; /* Fully shown on mouse-over */
+    opacity: 1; /* Fully shown on mouse-over */
 }
 
 /* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
 .slider::-webkit-slider-thumb {
-  -webkit-appearance: none; /* Override default look */
-  appearance: none;
-  width: 15px; /* Set a specific slider handle width */
-  height: 15px; /* Slider handle height */
-  background: #4CAF50; /* Green background */
-  cursor: pointer; /* Cursor on hover */
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    width: 15px; /* Set a specific slider handle width */
+    height: 15px; /* Slider handle height */
+    background: #4CAF50; /* Green background */
+    cursor: pointer; /* Cursor on hover */
 }
 
 .slider::-moz-range-thumb {
-  width: 15px; /* Set a specific slider handle width */
-  height: 15px; /* Slider handle height */
-  background: #4CAF50; /* Green background */
-  cursor: pointer; /* Cursor on hover */
+    width: 15px; /* Set a specific slider handle width */
+    height: 15px; /* Slider handle height */
+    background: #4CAF50; /* Green background */
+    cursor: pointer; /* Cursor on hover */
 }
 </style>
 
@@ -132,7 +132,13 @@ import Vue from 'vue'
 import Component from 'vue-class-component'
 import VoiceList from '../voices.json'
 
-@Component
+@Component({
+    watch: {
+        currentVolume: function (value) {
+            this.$refs.player.volume = value / 100;
+        }
+    }
+})
 class HomePage extends Vue {
     voices = VoiceList.voices;
     autoCheck = false;
@@ -140,35 +146,45 @@ class HomePage extends Vue {
     loopCheck = false;
     currVoice;
     voice = {};
+    currentVolume = 80;
 
+    get currentAudioVolume() {
+        return  this.currentVolume / 100
+    }
+    mounted() {
+        this.handlePlay = ({ src }) => {
+            this.$refs.player.src = src
+            this.$refs.player.play()
+        }
+
+        this.$gConst.globalbus.$on('play', this.handlePlay)
+    }
+    beforeDestroy() {
+        this.$gConst.globalbus.$off('play', this.handlePlay)
+    }
     play(item){
-      let slider = document.getElementById('volSlider');
         if (this.overlapCheck) {
             let audio = new Audio("voices/" + item.path);
-            audio.volume = (slider.value/100);
+            audio.volume = this.currentAudioVolume;
             this.voice = item;
             audio.play()
         } else {
             this.stopPlay();
-            let player = document.getElementById('player');
-            /*console.log(player.volume);*/
-            player.src = "voices/" + item.path;
+            this.$refs.player.src = "voices/" + item.path;
             this.voice = item;
             this.currVoice = item;
-            player.play();
+            this.$refs.player.play();
         }
     }
     stopPlay(){
-        let player = document.getElementById('player');
-        player.pause();
+        this.$refs.player.pause();
         this.voiceEnd(true);
     }
     voiceEnd(flag) {
         if(flag !== true && this.autoCheck) {
             this.random();
         } else if(flag !== true && this.loopCheck) {
-            let player = document.getElementById('player');
-            player.play();
+            this.$refs.player.play();
         } else {
             this.voice = {};
         }
@@ -176,11 +192,11 @@ class HomePage extends Vue {
     random() {
         let tempList = this.voices[this._randomNum(0, this.voices.length - 1)];
         if (tempList.categoryName == "blessings" ) {
-          //eslint-disable-next-line
-          console.log("BLESSING DENIED");
-          this.random();
+            //eslint-disable-next-line
+            console.log("BLESSING DENIED");
+            this.random();
         } else {
-          this.play(tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)]);
+            this.play(tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)]);
         }
     }
     autoPlay(){
@@ -210,14 +226,6 @@ class HomePage extends Vue {
             default:
                 return 0;
         }
-    }
-    volGet() {
-      let slider = document.getElementById("volSlider");
-      let output = document.getElementById("volOut");
-      let player = document.getElementById('player');
-      output.innerHTML = slider.value;
-      player.volume = (slider.value/100);
-
     }
 }
 export default HomePage;
