@@ -153,9 +153,11 @@ class App extends Vue {
         localStorage.setItem("lang", v);
     }
     linkClick(){
-        let player = document.getElementById('player');
-        player.src = "voices/GR_OniiChan.mp3";
-        player.play();
+        // NOTE: Consider using Vuex instead of an event bus.
+        this.$gConst.globalbus.$emit('play', {
+            src: "voices/GR_OniiChan.mp3",
+        })
+
         //eslint-disable-next-line
         console.log("Thank you too ルーナ姫 for being an inspiration. I would've not done this without your smile and joy inspiring me every stream!");
         //eslint-disable-next-line
