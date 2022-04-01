@@ -438,6 +438,86 @@
             "zh-TW": "You are welcome!",
             "ms-MY": "You are welcome!"
           }
+        },
+        {
+          "name": "Expecto Patronum",
+          "path": "EN_ Expecto Patronum.mp3",
+          "description": {
+            "ja-JP": "エクスペクト・パトローナム",
+            "en-US": "Expecto Patronum",
+            "zh-TW": "Expecto Patronum",
+            "ms-MY": "Expecto Patronum"
+          }
+        },
+        {
+          "name": "Avada Kedavra",
+          "path": "EN_Avada Kedavra.mp3",
+          "description": {
+            "ja-JP": "アバダケダブラ",
+            "en-US": "Avada Kedavra",
+            "zh-TW": "Avada Kedavra",
+            "ms-MY": "Avada Kedavra"
+          }
+        },
+        {
+          "name": "Wingardium Leviosa",
+          "path": "EN_Wingardium Leviosa.mp3",
+          "description": {
+            "ja-JP": "ウィンガーディアム・レビオサー",
+            "en-US": "Wingardium Leviosa",
+            "zh-TW": "Wingardium Leviosa",
+            "ms-MY": "Wingardium Leviosa"
+          }
+        },
+        {
+          "name": "Cute Is Justice",
+          "path": "EN_Cute Is Justice.mp3",
+          "description": {
+            "ja-JP": "Cute Is Justice",
+            "en-US": "Cute Is Justice",
+            "zh-TW": "Cute Is Justice",
+            "ms-MY": "Cute Is Justice"
+          }
+        },
+        {
+          "name": "loyalty to luna3",
+          "path": "EN_LoyaltyToLuna3.mp3",
+          "description": {
+            "ja-JP": "ルーナにちゅ～せーよ！-3",
+            "en-US": "Loyalty to Luna-3",
+            "zh-TW": "對璐娜效忠-3",
+            "ms-MY": "Loyalty to Luna-3"
+          }
+        },
+        {
+          "name": "Ok Google 1",
+          "path": "EN_Ok Google 1.mp3",
+          "description": {
+            "ja-JP": "Ok グーグル 1",
+            "en-US": "Ok Google 1",
+            "zh-TW": "Ok Google 1",
+            "ms-MY": "Ok Google 1"
+          }
+        },
+        {
+          "name": "Ok Google 2",
+          "path": "EN_Ok Google 2.mp3",
+          "description": {
+            "ja-JP": "Ok グーグル 2",
+            "en-US": "Ok Google 2",
+            "zh-TW": "Ok Google 2",
+            "ms-MY": "Ok Google 2"
+          }
+        },
+        {
+          "name": "Ok Google 3",
+          "path": "EN_Ok Google 1.mp3",
+          "description": {
+            "ja-JP": "Ok グーグル 3",
+            "en-US": "Ok Google 3",
+            "zh-TW": "Ok Google 3",
+            "ms-MY": "Ok Google 3"
+          }
         }
       ]
     },
@@ -979,6 +1059,46 @@
             "en-US": "Yo Sensei",
             "zh-TW": "Yo 老師",
             "ms-MY": "Yo Sensei"
+          }
+        },
+        {
+          "name": "Chewbacca Noise",
+          "path": "SFX_Chewbacca Noise.mp3",
+          "description": {
+            "ja-JP": "チューバッカ",
+            "en-US": "Chewbacca Noise",
+            "zh-TW": "Chewbacca Noise",
+            "ms-MY": "Chewbacca Noise"
+          }
+        },
+        {
+          "name": "Chotto Matte",
+          "path": "SFX_Chotto Matte.mp3",
+          "description": {
+            "ja-JP": "ちょっとまって",
+            "en-US": "Chotto Matte",
+            "zh-TW": "Chotto Matte",
+            "ms-MY": "Chotto Matte"
+          }
+        },
+        {
+          "name": "Lightsaber",
+          "path": "SFX_Lightsaber.mp3",
+          "description": {
+            "ja-JP": "ライトセーバー",
+            "en-US": "Lightsaber Noise",
+            "zh-TW": "Lightsaber Noise",
+            "ms-MY": "Lightsaber Noise"
+          }
+        },
+        {
+          "name": "Luna Tantrum",
+          "path": "SFX_Luna Tantrum.mp3",
+          "description": {
+            "ja-JP": "駄々",
+            "en-US": "Luna Tantrum",
+            "zh-TW": "Luna Tantrum",
+            "ms-MY": "Luna Tantrum"
           }
         }
       ]
